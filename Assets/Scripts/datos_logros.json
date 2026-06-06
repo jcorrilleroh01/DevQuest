@@ -1,0 +1,124 @@
+{
+  "logros": [
+    {
+      "id": "logro_01_spawn",
+      "titulo": "¡Hola, Mundo!",
+      "descripcion": "Has inicializado tu portafolio. El viaje comienza.",
+      "icono": "logro1",
+      "desbloqueado": true,
+      "padreId": "",
+      "x": -100,
+      "y": -100
+    },
+    {
+      "id": "logro_02_cama",
+      "titulo": "[SECRETO] 5 Minutitos Más...",
+      "descripcion": "Te has vuelto a tumbar en la cama nada más levantarte. ¡Hay código que picar, despierta!",
+      "icono": "logro7",
+      "desbloqueado": false,
+      "padreId": "logro_01_spawn",
+      "x": 0,
+      "y": 150
+    },
+    {
+      "id": "logro_03_laboral",
+      "titulo": "Arquitectura Base",
+      "descripcion": "Has entrado al IES Universidad Laboral (ESO y Bachillerato). Tus cimientos están listos.",
+      "icono": "logro4",
+      "desbloqueado": false,
+      "padreId": "logro_01_spawn",
+      "x": 250,
+      "y": 0
+    },
+    {
+      "id": "logro_04_combat",
+      "titulo": "Primer Bug Fix",
+      "descripcion": "Has derrotado a tu primer monstruo de código. ¡La consola está limpia!",
+      "icono": "logro8",
+      "desbloqueado": false,
+      "padreId": "logro_03_laboral",
+      "x": 250,
+      "y": -200
+    },
+    {
+      "id": "logro_05_agora",
+      "titulo": "Picando Código",
+      "descripcion": "Has entrado al IES Ágora (DAW). Tu primer contacto real con el Desarrollo Web.",
+      "icono": "logro21",
+      "desbloqueado": false,
+      "padreId": "logro_03_laboral",
+      "x": 500,
+      "y": 0
+    },
+    {
+      "id": "logro_06_bug",
+      "titulo": "[SECRETO] Feature, no Bug",
+      "descripcion": "Te has colado por las costuras del mapa. Un buen desarrollador siempre pone a prueba los límites.",
+      "icono": "logro6",
+      "desbloqueado": false,
+      "padreId": "logro_05_agora",
+      "x": 500,
+      "y": 150
+    },
+    {
+      "id": "logro_07_cesur",
+      "titulo": "Despliegue Continuo",
+      "descripcion": "Has llegado a CESUR. Especialización y pulido final de tus habilidades.",
+      "icono": "logro9",
+      "desbloqueado": false,
+      "padreId": "logro_05_agora",
+      "x": 750,
+      "y": 0
+    },
+    {
+      "id": "logro_08_pda",
+      "titulo": "StackOverflow Humano",
+      "descripcion": "Has registrado absolutamente a todos los monstruos en tu PDA.",
+      "icono": "logro11",
+      "desbloqueado": false,
+      "padreId": "logro_04_combat",
+      "x": 500,
+      "y": -200
+    },
+    {
+      "id": "logro_09_armas",
+      "titulo": "Maestro del Arsenal",
+      "descripcion": "Has coleccionado todas las armas. Eres letal programando.",
+      "icono": "logro3",
+      "desbloqueado": false,
+      "padreId": "logro_04_combat",
+      "x": 500,
+      "y": -350
+    },
+    {
+      "id": "logro_10_arcade",
+      "titulo": "Insert Coin",
+      "descripcion": "Has abierto tu CV en la máquina Arcade de la Torre de Comunicaciones.",
+      "icono": "logro12",
+      "desbloqueado": false,
+      "padreId": "logro_07_cesur",
+      "x": 1000,
+      "y": 0
+    },
+    {
+      "id": "logro_11_fullstack",
+      "titulo": "Full Stack Developer",
+      "descripcion": "Has completado tu recorrido formativo y tus proyectos principales. ¡Listo para trabajar!",
+      "icono": "logro14",
+      "desbloqueado": false,
+      "padreId": "logro_10_arcade",
+      "x": 1250,
+      "y": 0
+    },
+    {
+      "id": "logro_12_platino",
+      "titulo": "Root Access (Platino)",
+      "descripcion": "Has conseguido todos los logros, incluidos los secretos. Eres el Administrador del Sistema.",
+      "icono": "logro16",
+      "desbloqueado": false,
+      "padreId": "logro_11_fullstack",
+      "x": 1500,
+      "y": 0
+    }
+  ]
+}

@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 0848d8bfdda4555458d723b8e6003cc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5121975316889078207
+    second: Spider-Man 2099 SV Battler_0
+  - first:
+      213: 8329779274532958493
+    second: Spider-Man 2099 SV Battler_1
+  - first:
+      213: 1234952171132671767
+    second: Spider-Man 2099 SV Battler_2
+  - first:
+      213: 1707930004165555110
+    second: Spider-Man 2099 SV Battler_3
+  - first:
+      213: 755311045312310352
+    second: Spider-Man 2099 SV Battler_4
+  - first:
+      213: 8324812634353850230
+    second: Spider-Man 2099 SV Battler_5
+  - first:
+      213: -7971094963226896771
+    second: Spider-Man 2099 SV Battler_6
+  - first:
+      213: 4548674793210652619
+    second: Spider-Man 2099 SV Battler_7
+  - first:
+      213: -3881561962192000386
+    second: Spider-Man 2099 SV Battler_8
+  - first:
+      213: -5117958377536744640
+    second: Spider-Man 2099 SV Battler_9
+  - first:
+      213: 5119701575410582234
+    second: Spider-Man 2099 SV Battler_10
+  - first:
+      213: -6651083405826327231
+    second: Spider-Man 2099 SV Battler_11
+  - first:
+      213: -1594916378534466449
+    second: Spider-Man 2099 SV Battler_12
+  - first:
+      213: -7018698573252987527
+    second: Spider-Man 2099 SV Battler_13
+  - first:
+      213: 1490974769298892443
+    second: Spider-Man 2099 SV Battler_14
+  - first:
+      213: -2721081548487844005
+    second: Spider-Man 2099 SV Battler_15
+  - first:
+      213: 5752045836571466076
+    second: Spider-Man 2099 SV Battler_16
+  - first:
+      213: 7049021756323392135
+    second: Spider-Man 2099 SV Battler_17
+  - first:
+      213: -6101325414151862112
+    second: Spider-Man 2099 SV Battler_18
+  - first:
+      213: -7620783036284116392
+    second: Spider-Man 2099 SV Battler_19
+  - first:
+      213: -1080129821691581702
+    second: Spider-Man 2099 SV Battler_20
+  - first:
+      213: 7603646506173082831
+    second: Spider-Man 2099 SV Battler_21
+  - first:
+      213: 6318391442993663539
+    second: Spider-Man 2099 SV Battler_22
+  - first:
+      213: 937665410943684933
+    second: Spider-Man 2099 SV Battler_23
+  - first:
+      213: 4803519469826719351
+    second: Spider-Man 2099 SV Battler_24
+  - first:
+      213: 3470629963213106326
+    second: Spider-Man 2099 SV Battler_25
+  - first:
+      213: -9053038566374583401
+    second: Spider-Man 2099 SV Battler_26
+  - first:
+      213: -5126685398657537733
+    second: Spider-Man 2099 SV Battler_27
+  - first:
+      213: 8240140832050509083
+    second: Spider-Man 2099 SV Battler_28
+  - first:
+      213: 101414270910773054
+    second: Spider-Man 2099 SV Battler_29
+  - first:
+      213: -4841832149586560517
+    second: Spider-Man 2099 SV Battler_30
+  - first:
+      213: 1263691701937602641
+    second: Spider-Man 2099 SV Battler_31
+  - first:
+      213: -1585863946703371632
+    second: Spider-Man 2099 SV Battler_32
+  - first:
+      213: -2598958417162248607
+    second: Spider-Man 2099 SV Battler_33
+  - first:
+      213: -1504459994156757993
+    second: Spider-Man 2099 SV Battler_34
+  - first:
+      213: 7382595473433285930
+    second: Spider-Man 2099 SV Battler_35
+  - first:
+      213: -2853440564199317286
+    second: Spider-Man 2099 SV Battler_36
+  - first:
+      213: -8962931700317473278
+    second: Spider-Man 2099 SV Battler_37
+  - first:
+      213: -6018698630598318816
+    second: Spider-Man 2099 SV Battler_38
+  - first:
+      213: 7717573793041302357
+    second: Spider-Man 2099 SV Battler_39
+  - first:
+      213: -1391471185663575140
+    second: Spider-Man 2099 SV Battler_40
+  - first:
+      213: 4144071969896214234
+    second: Spider-Man 2099 SV Battler_41
+  - first:
+      213: 4243921850189592008
+    second: Spider-Man 2099 SV Battler_42
+  - first:
+      213: 6400998772420933907
+    second: Spider-Man 2099 SV Battler_43
+  - first:
+      213: -4016342252429318145
+    second: Spider-Man 2099 SV Battler_44
+  - first:
+      213: 3516446117610718301
+    second: Spider-Man 2099 SV Battler_45
+  - first:
+      213: 3701105491118411062
+    second: Spider-Man 2099 SV Battler_46
+  - first:
+      213: 4916548889799851318
+    second: Spider-Man 2099 SV Battler_47
+  - first:
+      213: -8824440545034691055
+    second: Spider-Man 2099 SV Battler_48
+  - first:
+      213: 6038870506467762627
+    second: Spider-Man 2099 SV Battler_49
+  - first:
+      213: 5080309102385615411
+    second: Spider-Man 2099 SV Battler_50
+  - first:
+      213: 9092818976241076502
+    second: Spider-Man 2099 SV Battler_51
+  - first:
+      213: -6680189740099294612
+    second: Spider-Man 2099 SV Battler_52
+  - first:
+      213: 6510272485948635391
+    second: Spider-Man 2099 SV Battler_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 319
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb90e7fc969e41740800000000000000
+      internalID: 5121975316889078207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 319
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11b2fbfd12599370800000000000000
+      internalID: 8329779274532958493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 319
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717d5f2e47e632110800000000000000
+      internalID: 1234952171132671767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 319
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3f48f2a49c3b710800000000000000
+      internalID: 1707930004165555110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 319
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ce4c6d4676b7a00800000000000000
+      internalID: 755311045312310352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 319
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6775854fbfca78370800000000000000
+      internalID: 8324812634353850230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 319
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7694f51d5bf06190800000000000000
+      internalID: -7971094963226896771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 319
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc72810ef93202f30800000000000000
+      internalID: 4548674793210652619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 319
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7aa0e5f5fbe12ac0800000000000000
+      internalID: -3881561962192000386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 255
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04310b3c8fb59f8b0800000000000000
+      internalID: -5117958377536744640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 255
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad20b5e1575dc0740800000000000000
+      internalID: 5119701575410582234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 255
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14df930a1ea92b3a0800000000000000
+      internalID: -6651083405826327231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 255
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c20030108bdd9e0800000000000000
+      internalID: -1594916378534466449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975f6b395d2989e90800000000000000
+      internalID: -7018698573252987527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 255
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96612537a101b410800000000000000
+      internalID: 1490974769298892443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 255
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f1381afb6cc3ad0800000000000000
+      internalID: -2721081548487844005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 256
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c595b94763f53df40800000000000000
+      internalID: 5752045836571466076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 257
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ae7a7a0f723d160800000000000000
+      internalID: 7049021756323392135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 191
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a84a6eacdcb35ba0800000000000000
+      internalID: -6101325414151862112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 191
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85266f3843a8d3690800000000000000
+      internalID: -7620783036284116392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 191
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa64c266ab9201f0800000000000000
+      internalID: -1080129821691581702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 191
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc26162634958960800000000000000
+      internalID: 7603646506173082831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 191
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e41878a8f6fa750800000000000000
+      internalID: 6318391442993663539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 191
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541187929b1430d00800000000000000
+      internalID: 937665410943684933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_24
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 191
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eb1b6f18789a240800000000000000
+      internalID: 4803519469826719351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_25
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 191
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ce42830972a2030800000000000000
+      internalID: 3470629963213106326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_26
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 191
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793d45193652d5280800000000000000
+      internalID: -9053038566374583401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 127
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39e5d1daca5ad8b0800000000000000
+      internalID: -5126685398657537733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 127
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15ff89bd6cda5270800000000000000
+      internalID: 8240140832050509083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 127
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37bac8fdbb486100800000000000000
+      internalID: 101414270910773054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 127
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9b3d5205b5eccb0800000000000000
+      internalID: -4841832149586560517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_31
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 127
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150899758e8898110800000000000000
+      internalID: 1263691701937602641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_32
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 127
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09285aa8421edf9e0800000000000000
+      internalID: -1585863946703371632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 127
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e5807e615aeebd0800000000000000
+      internalID: -2598958417162248607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_34
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 127
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c00853b951f1be0800000000000000
+      internalID: -1504459994156757993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_35
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 127
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25d56ae77f347660800000000000000
+      internalID: 7382595473433285930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 63
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0a53fccea8668d0800000000000000
+      internalID: -2853440564199317286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 63
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2063d703b154d9380800000000000000
+      internalID: -8962931700317473278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 63
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025ae01eb79497ca0800000000000000
+      internalID: -6018698630598318816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553471ea9745a1b60800000000000000
+      internalID: 7717573793041302357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 63
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bb457345080bce0800000000000000
+      internalID: -1391471185663575140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade21591083b28930800000000000000
+      internalID: 4144071969896214234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_42
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 63
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5b11fff6075ea30800000000000000
+      internalID: 4243921850189592008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_43
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 63
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3197cd5387ae4d850800000000000000
+      internalID: 6400998772420933907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_44
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 63
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7ee8b30061348c0800000000000000
+      internalID: -4016342252429318145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d540dffec1decc030800000000000000
+      internalID: 3516446117610718301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_46
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d4c5ab5d7fc5330800000000000000
+      internalID: 3701105491118411062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_47
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d7c519a271b3440800000000000000
+      internalID: 4916548889799851318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e17a3041a498580800000000000000
+      internalID: -8824440545034691055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_49
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c12896fab06ec350800000000000000
+      internalID: 6038870506467762627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332d0e44632e08640800000000000000
+      internalID: 5080309102385615411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619c7cddeae203e70800000000000000
+      internalID: 9092818976241076502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_52
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a2c2513d23b43a0800000000000000
+      internalID: -6680189740099294612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 SV Battler_53
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8b7f34552295a50800000000000000
+      internalID: 6510272485948635391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spider-Man 2099 SV Battler_0: 5121975316889078207
+      Spider-Man 2099 SV Battler_1: 8329779274532958493
+      Spider-Man 2099 SV Battler_10: 5119701575410582234
+      Spider-Man 2099 SV Battler_11: -6651083405826327231
+      Spider-Man 2099 SV Battler_12: -1594916378534466449
+      Spider-Man 2099 SV Battler_13: -7018698573252987527
+      Spider-Man 2099 SV Battler_14: 1490974769298892443
+      Spider-Man 2099 SV Battler_15: -2721081548487844005
+      Spider-Man 2099 SV Battler_16: 5752045836571466076
+      Spider-Man 2099 SV Battler_17: 7049021756323392135
+      Spider-Man 2099 SV Battler_18: -6101325414151862112
+      Spider-Man 2099 SV Battler_19: -7620783036284116392
+      Spider-Man 2099 SV Battler_2: 1234952171132671767
+      Spider-Man 2099 SV Battler_20: -1080129821691581702
+      Spider-Man 2099 SV Battler_21: 7603646506173082831
+      Spider-Man 2099 SV Battler_22: 6318391442993663539
+      Spider-Man 2099 SV Battler_23: 937665410943684933
+      Spider-Man 2099 SV Battler_24: 4803519469826719351
+      Spider-Man 2099 SV Battler_25: 3470629963213106326
+      Spider-Man 2099 SV Battler_26: -9053038566374583401
+      Spider-Man 2099 SV Battler_27: -5126685398657537733
+      Spider-Man 2099 SV Battler_28: 8240140832050509083
+      Spider-Man 2099 SV Battler_29: 101414270910773054
+      Spider-Man 2099 SV Battler_3: 1707930004165555110
+      Spider-Man 2099 SV Battler_30: -4841832149586560517
+      Spider-Man 2099 SV Battler_31: 1263691701937602641
+      Spider-Man 2099 SV Battler_32: -1585863946703371632
+      Spider-Man 2099 SV Battler_33: -2598958417162248607
+      Spider-Man 2099 SV Battler_34: -1504459994156757993
+      Spider-Man 2099 SV Battler_35: 7382595473433285930
+      Spider-Man 2099 SV Battler_36: -2853440564199317286
+      Spider-Man 2099 SV Battler_37: -8962931700317473278
+      Spider-Man 2099 SV Battler_38: -6018698630598318816
+      Spider-Man 2099 SV Battler_39: 7717573793041302357
+      Spider-Man 2099 SV Battler_4: 755311045312310352
+      Spider-Man 2099 SV Battler_40: -1391471185663575140
+      Spider-Man 2099 SV Battler_41: 4144071969896214234
+      Spider-Man 2099 SV Battler_42: 4243921850189592008
+      Spider-Man 2099 SV Battler_43: 6400998772420933907
+      Spider-Man 2099 SV Battler_44: -4016342252429318145
+      Spider-Man 2099 SV Battler_45: 3516446117610718301
+      Spider-Man 2099 SV Battler_46: 3701105491118411062
+      Spider-Man 2099 SV Battler_47: 4916548889799851318
+      Spider-Man 2099 SV Battler_48: -8824440545034691055
+      Spider-Man 2099 SV Battler_49: 6038870506467762627
+      Spider-Man 2099 SV Battler_5: 8324812634353850230
+      Spider-Man 2099 SV Battler_50: 5080309102385615411
+      Spider-Man 2099 SV Battler_51: 9092818976241076502
+      Spider-Man 2099 SV Battler_52: -6680189740099294612
+      Spider-Man 2099 SV Battler_53: 6510272485948635391
+      Spider-Man 2099 SV Battler_6: -7971094963226896771
+      Spider-Man 2099 SV Battler_7: 4548674793210652619
+      Spider-Man 2099 SV Battler_8: -3881561962192000386
+      Spider-Man 2099 SV Battler_9: -5117958377536744640
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

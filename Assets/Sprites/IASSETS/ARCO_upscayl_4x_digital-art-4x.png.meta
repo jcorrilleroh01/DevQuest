@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 5e8d9e9cf6a62cd4884cb4307efcd2f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4755445728545703830
+    second: ARCO_upscayl_4x_digital-art-4x_0
+  - first:
+      213: 1253051378729985614
+    second: ARCO_upscayl_4x_digital-art-4x_1
+  - first:
+      213: 3310753480623334141
+    second: ARCO_upscayl_4x_digital-art-4x_2
+  - first:
+      213: -5316206087583056664
+    second: ARCO_upscayl_4x_digital-art-4x_3
+  - first:
+      213: 2200153332760524670
+    second: ARCO_upscayl_4x_digital-art-4x_4
+  - first:
+      213: -8610483755509682214
+    second: ARCO_upscayl_4x_digital-art-4x_5
+  - first:
+      213: 3703094824609389929
+    second: ARCO_upscayl_4x_digital-art-4x_6
+  - first:
+      213: -8853356471457332386
+    second: ARCO_upscayl_4x_digital-art-4x_7
+  - first:
+      213: 1138151843110987497
+    second: ARCO_upscayl_4x_digital-art-4x_8
+  - first:
+      213: -54940705476821181
+    second: ARCO_upscayl_4x_digital-art-4x_9
+  - first:
+      213: -3765318793746176441
+    second: ARCO_upscayl_4x_digital-art-4x_10
+  - first:
+      213: 5456112807880279076
+    second: ARCO_upscayl_4x_digital-art-4x_11
+  - first:
+      213: -7128043319322690000
+    second: ARCO_upscayl_4x_digital-art-4x_12
+  - first:
+      213: -1006030382792087821
+    second: ARCO_upscayl_4x_digital-art-4x_13
+  - first:
+      213: -365021376497318775
+    second: ARCO_upscayl_4x_digital-art-4x_14
+  - first:
+      213: -5761456060434017075
+    second: ARCO_upscayl_4x_digital-art-4x_15
+  - first:
+      213: -4055308186910114597
+    second: ARCO_upscayl_4x_digital-art-4x_16
+  - first:
+      213: -5828287324475914600
+    second: ARCO_upscayl_4x_digital-art-4x_17
+  - first:
+      213: -4022988974059722916
+    second: ARCO_upscayl_4x_digital-art-4x_18
+  - first:
+      213: 2140163414457803011
+    second: ARCO_upscayl_4x_digital-art-4x_19
+  - first:
+      213: -5917673676206119161
+    second: ARCO_upscayl_4x_digital-art-4x_20
+  - first:
+      213: 5277417151428367397
+    second: ARCO_upscayl_4x_digital-art-4x_21
+  - first:
+      213: 2979814353842022684
+    second: ARCO_upscayl_4x_digital-art-4x_22
+  - first:
+      213: 8558039175358548711
+    second: ARCO_upscayl_4x_digital-art-4x_23
+  - first:
+      213: 9049720464034282352
+    second: ARCO_upscayl_4x_digital-art-4x_24
+  - first:
+      213: 5985658231775246561
+    second: ARCO_upscayl_4x_digital-art-4x_25
+  - first:
+      213: 2665704064825725567
+    second: ARCO_upscayl_4x_digital-art-4x_26
+  - first:
+      213: -4600536812669749028
+    second: ARCO_upscayl_4x_digital-art-4x_27
+  - first:
+      213: -4437220405388157264
+    second: ARCO_upscayl_4x_digital-art-4x_28
+  - first:
+      213: 4345050893814921163
+    second: ARCO_upscayl_4x_digital-art-4x_29
+  - first:
+      213: -6391406726267327277
+    second: ARCO_upscayl_4x_digital-art-4x_30
+  - first:
+      213: 6736193408728034561
+    second: ARCO_upscayl_4x_digital-art-4x_31
+  - first:
+      213: 1605230929390740583
+    second: ARCO_upscayl_4x_digital-art-4x_32
+  - first:
+      213: 4462818961615940427
+    second: ARCO_upscayl_4x_digital-art-4x_33
+  - first:
+      213: 2449579924315702604
+    second: ARCO_upscayl_4x_digital-art-4x_34
+  - first:
+      213: 563318419198433090
+    second: ARCO_upscayl_4x_digital-art-4x_35
+  - first:
+      213: 3872488083801939857
+    second: ARCO_upscayl_4x_digital-art-4x_36
+  - first:
+      213: 4943691629792008472
+    second: ARCO_upscayl_4x_digital-art-4x_37
+  - first:
+      213: 2451318579197269460
+    second: ARCO_upscayl_4x_digital-art-4x_38
+  - first:
+      213: -192475917654315057
+    second: ARCO_upscayl_4x_digital-art-4x_39
+  - first:
+      213: 3947313918798529854
+    second: ARCO_upscayl_4x_digital-art-4x_40
+  - first:
+      213: 704011572886528533
+    second: ARCO_upscayl_4x_digital-art-4x_41
+  - first:
+      213: 1709241651883121999
+    second: ARCO_upscayl_4x_digital-art-4x_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_0
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1675
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6872692e43410eb0800000000000000
+      internalID: -4755445728545703830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_1
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1667
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46a38a079bb36110800000000000000
+      internalID: 1253051378729985614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_2
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 1663
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2217fdfb822fd20800000000000000
+      internalID: 3310753480623334141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_3
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1647
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecb7d4daba0936b0800000000000000
+      internalID: -5316206087583056664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1639
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77359a9cc3888e10800000000000000
+      internalID: 2200153332760524670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_5
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1583
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfe29805aa618880800000000000000
+      internalID: -8610483755509682214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_6
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1567
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d1e668f19046330800000000000000
+      internalID: 3703094824609389929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_7
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 109
+        width: 1456
+        height: 1444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5341e0423f822580800000000000000
+      internalID: -8853356471457332386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_8
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 1423
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6261532178bcf00800000000000000
+      internalID: 1138151843110987497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_9
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 1415
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f385e28bfcc3ff0800000000000000
+      internalID: -54940705476821181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_10
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 1327
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74628a0b186eebbc0800000000000000
+      internalID: -3765318793746176441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1283
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424c928e0b108bb40800000000000000
+      internalID: 5456112807880279076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_12
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1267
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ebc28fd5a141d90800000000000000
+      internalID: -7128043319322690000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_13
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 1183
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f66d6072bcd902f0800000000000000
+      internalID: -1006030382792087821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_14
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1007
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9840476fdfe2feaf0800000000000000
+      internalID: -365021376497318775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_15
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 867
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc41fc01d323b00b0800000000000000
+      internalID: -5761456060434017075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_16
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 763
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc3d70a0b6a8b7c0800000000000000
+      internalID: -4055308186910114597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_17
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 747
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89683b7de83cd1fa0800000000000000
+      internalID: -5828287324475914600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 731
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c576bd1c7d87b28c0800000000000000
+      internalID: -4022988974059722916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_19
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 571
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3016b00594363bd10800000000000000
+      internalID: 2140163414457803011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_20
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 495
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707ed09052330eda0800000000000000
+      internalID: -5917673676206119161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 471
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524117230f62d3940800000000000000
+      internalID: 5277417151428367397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_22
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 447
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c192d59fd5d6a5920800000000000000
+      internalID: 2979814353842022684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_23
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 439
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea8f1d994344c670800000000000000
+      internalID: 8558039175358548711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_24
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 387
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bb85780d0179d70800000000000000
+      internalID: 9049720464034282352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 315
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e83bdbc274511350800000000000000
+      internalID: 5985658231775246561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_26
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 307
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72904439bb7ef420800000000000000
+      internalID: 2665704064825725567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_27
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 271
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd836b0c42c9720c0800000000000000
+      internalID: -4600536812669749028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_28
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 267
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be59bafc83db62c0800000000000000
+      internalID: -4437220405388157264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_29
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 255
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7f4d054c8bc4c30800000000000000
+      internalID: 4345050893814921163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_30
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 243
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc2bc112792d47a0800000000000000
+      internalID: -6391406726267327277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_31
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 219
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10def812734cb7d50800000000000000
+      internalID: 6736193408728034561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_32
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 163
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7642ec0860de64610800000000000000
+      internalID: 1605230929390740583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_33
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 127
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4beef7533e1fed30800000000000000
+      internalID: 4462818961615940427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_34
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4504c576f7aef120800000000000000
+      internalID: 2449579924315702604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_35
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247d1cf1e1f41d700800000000000000
+      internalID: 563318419198433090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_36
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f92f71567ddb530800000000000000
+      internalID: 3872488083801939857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_37
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81913d038558b9440800000000000000
+      internalID: 4943691629792008472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_38
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d55e589245d40220800000000000000
+      internalID: 2451318579197269460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_39
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfa5643c20345df0800000000000000
+      internalID: -192475917654315057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_40
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3501fa681da7c630800000000000000
+      internalID: 3947313918798529854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5126aa7abc625c900800000000000000
+      internalID: 704011572886528533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARCO_upscayl_4x_digital-art-4x_42
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d9bc7f93278b710800000000000000
+      internalID: 1709241651883121999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ARCO_upscayl_4x_digital-art-4x_0: -4755445728545703830
+      ARCO_upscayl_4x_digital-art-4x_1: 1253051378729985614
+      ARCO_upscayl_4x_digital-art-4x_10: -3765318793746176441
+      ARCO_upscayl_4x_digital-art-4x_11: 5456112807880279076
+      ARCO_upscayl_4x_digital-art-4x_12: -7128043319322690000
+      ARCO_upscayl_4x_digital-art-4x_13: -1006030382792087821
+      ARCO_upscayl_4x_digital-art-4x_14: -365021376497318775
+      ARCO_upscayl_4x_digital-art-4x_15: -5761456060434017075
+      ARCO_upscayl_4x_digital-art-4x_16: -4055308186910114597
+      ARCO_upscayl_4x_digital-art-4x_17: -5828287324475914600
+      ARCO_upscayl_4x_digital-art-4x_18: -4022988974059722916
+      ARCO_upscayl_4x_digital-art-4x_19: 2140163414457803011
+      ARCO_upscayl_4x_digital-art-4x_2: 3310753480623334141
+      ARCO_upscayl_4x_digital-art-4x_20: -5917673676206119161
+      ARCO_upscayl_4x_digital-art-4x_21: 5277417151428367397
+      ARCO_upscayl_4x_digital-art-4x_22: 2979814353842022684
+      ARCO_upscayl_4x_digital-art-4x_23: 8558039175358548711
+      ARCO_upscayl_4x_digital-art-4x_24: 9049720464034282352
+      ARCO_upscayl_4x_digital-art-4x_25: 5985658231775246561
+      ARCO_upscayl_4x_digital-art-4x_26: 2665704064825725567
+      ARCO_upscayl_4x_digital-art-4x_27: -4600536812669749028
+      ARCO_upscayl_4x_digital-art-4x_28: -4437220405388157264
+      ARCO_upscayl_4x_digital-art-4x_29: 4345050893814921163
+      ARCO_upscayl_4x_digital-art-4x_3: -5316206087583056664
+      ARCO_upscayl_4x_digital-art-4x_30: -6391406726267327277
+      ARCO_upscayl_4x_digital-art-4x_31: 6736193408728034561
+      ARCO_upscayl_4x_digital-art-4x_32: 1605230929390740583
+      ARCO_upscayl_4x_digital-art-4x_33: 4462818961615940427
+      ARCO_upscayl_4x_digital-art-4x_34: 2449579924315702604
+      ARCO_upscayl_4x_digital-art-4x_35: 563318419198433090
+      ARCO_upscayl_4x_digital-art-4x_36: 3872488083801939857
+      ARCO_upscayl_4x_digital-art-4x_37: 4943691629792008472
+      ARCO_upscayl_4x_digital-art-4x_38: 2451318579197269460
+      ARCO_upscayl_4x_digital-art-4x_39: -192475917654315057
+      ARCO_upscayl_4x_digital-art-4x_4: 2200153332760524670
+      ARCO_upscayl_4x_digital-art-4x_40: 3947313918798529854
+      ARCO_upscayl_4x_digital-art-4x_41: 704011572886528533
+      ARCO_upscayl_4x_digital-art-4x_42: 1709241651883121999
+      ARCO_upscayl_4x_digital-art-4x_5: -8610483755509682214
+      ARCO_upscayl_4x_digital-art-4x_6: 3703094824609389929
+      ARCO_upscayl_4x_digital-art-4x_7: -8853356471457332386
+      ARCO_upscayl_4x_digital-art-4x_8: 1138151843110987497
+      ARCO_upscayl_4x_digital-art-4x_9: -54940705476821181
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

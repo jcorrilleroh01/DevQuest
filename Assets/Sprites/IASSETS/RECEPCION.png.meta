@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 6967be6f29f5f6447920c2213b7ad20a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3229297991564776429
+    second: RECEPCION_0
+  - first:
+      213: -7857288401903498802
+    second: RECEPCION_1
+  - first:
+      213: -5886274846716682659
+    second: RECEPCION_2
+  - first:
+      213: 6075182435249516577
+    second: RECEPCION_3
+  - first:
+      213: -8550189204522898611
+    second: RECEPCION_4
+  - first:
+      213: -7232656672337722737
+    second: RECEPCION_5
+  - first:
+      213: 2386097477361959094
+    second: RECEPCION_6
+  - first:
+      213: 419718359703104359
+    second: RECEPCION_7
+  - first:
+      213: 4805159767117971530
+    second: RECEPCION_8
+  - first:
+      213: -5381953533825146389
+    second: RECEPCION_9
+  - first:
+      213: -5498968542687482356
+    second: RECEPCION_10
+  - first:
+      213: 4912964277986816284
+    second: RECEPCION_11
+  - first:
+      213: -7398251385079494504
+    second: RECEPCION_12
+  - first:
+      213: 8252528435044063147
+    second: RECEPCION_13
+  - first:
+      213: 416696131554861759
+    second: RECEPCION_14
+  - first:
+      213: 3652202798406725288
+    second: RECEPCION_15
+  - first:
+      213: -5841220229190402153
+    second: RECEPCION_16
+  - first:
+      213: 2662199882846143822
+    second: RECEPCION_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RECEPCION_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 856
+        width: 778
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e9227b630cf4ea0800000000000000
+      internalID: -5886274846716682659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECEPCION_3
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 855
+        width: 379
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1207db6bc326f4450800000000000000
+      internalID: 6075182435249516577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECEPCION_4
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 910
+        width: 129
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b68062830a75980800000000000000
+      internalID: -8550189204522898611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECEPCION_5
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 896
+        width: 121
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8283f6a31170ab90800000000000000
+      internalID: -7232656672337722737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECEPCION_6
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 859
+        width: 316
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b08d99730f1d1120800000000000000
+      internalID: 2386097477361959094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECEPCION_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 438
+        width: 319
+        height: 407
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b20d7df9323d500800000000000000
+      internalID: 419718359703104359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECEPCION_8
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 456
+        width: 317
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40c010795b5fa240800000000000000
+      internalID: 4805159767117971530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECEPCION_9
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 507
+        width: 289
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1a1ba96c57f45b0800000000000000
+      internalID: -5381953533825146389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECEPCION_10
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 510
+        width: 312
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ea016ce3dbfa3b0800000000000000
+      internalID: -5498968542687482356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECEPCION_11
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 532
+        width: 281
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1176971bfa5e2440800000000000000
+      internalID: 4912964277986816284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECEPCION_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 294
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8988b491091245990800000000000000
+      internalID: -7398251385079494504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECEPCION_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 65
+        width: 217
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba79c9d43eed68270800000000000000
+      internalID: 8252528435044063147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECEPCION_14
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 65
+        width: 238
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb26b948ce668c500800000000000000
+      internalID: 416696131554861759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECEPCION_15
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 65
+        width: 216
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae68be481b3fa230800000000000000
+      internalID: 3652202798406725288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECEPCION_16
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 87
+        width: 120
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fb7405621dfeea0800000000000000
+      internalID: -5841220229190402153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECEPCION_17
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 74
+        width: 753
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45812240b802f420800000000000000
+      internalID: 2662199882846143822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f377c9766383ae14eaaff879a1f52ff6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RECEPCION_0: -3229297991564776429
+      RECEPCION_1: -7857288401903498802
+      RECEPCION_10: -5498968542687482356
+      RECEPCION_11: 4912964277986816284
+      RECEPCION_12: -7398251385079494504
+      RECEPCION_13: 8252528435044063147
+      RECEPCION_14: 416696131554861759
+      RECEPCION_15: 3652202798406725288
+      RECEPCION_16: -5841220229190402153
+      RECEPCION_17: 2662199882846143822
+      RECEPCION_2: -5886274846716682659
+      RECEPCION_3: 6075182435249516577
+      RECEPCION_4: -8550189204522898611
+      RECEPCION_5: -7232656672337722737
+      RECEPCION_6: 2386097477361959094
+      RECEPCION_7: 419718359703104359
+      RECEPCION_8: 4805159767117971530
+      RECEPCION_9: -5381953533825146389
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

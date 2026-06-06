@@ -1,0 +1,1520 @@
+fileFormatVersion: 2
+guid: 60805390f83cef640b1c8a6c686a5561
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4351457667190256949
+    second: SUELOCESUR_0
+  - first:
+      213: 8285581951057612131
+    second: SUELOCESUR_1
+  - first:
+      213: 7346259065327594500
+    second: SUELOCESUR_2
+  - first:
+      213: 7961736286437812584
+    second: SUELOCESUR_3
+  - first:
+      213: 6195445341370234479
+    second: SUELOCESUR_4
+  - first:
+      213: -6197342252769457722
+    second: SUELOCESUR_5
+  - first:
+      213: 1197108661862495101
+    second: SUELOCESUR_6
+  - first:
+      213: -8260362056583305399
+    second: SUELOCESUR_7
+  - first:
+      213: -5151688823010704940
+    second: SUELOCESUR_8
+  - first:
+      213: -7827820137495614600
+    second: SUELOCESUR_9
+  - first:
+      213: -8478861428689456858
+    second: SUELOCESUR_10
+  - first:
+      213: 8985750038617086245
+    second: SUELOCESUR_11
+  - first:
+      213: 120019318779671819
+    second: SUELOCESUR_12
+  - first:
+      213: -2196736480136753458
+    second: SUELOCESUR_13
+  - first:
+      213: 5248566524975177059
+    second: SUELOCESUR_14
+  - first:
+      213: 1785149117893991154
+    second: SUELOCESUR_15
+  - first:
+      213: -3209045474763594101
+    second: SUELOCESUR_16
+  - first:
+      213: 3338104713081364220
+    second: SUELOCESUR_17
+  - first:
+      213: 4544815212435183143
+    second: SUELOCESUR_18
+  - first:
+      213: 6401203701745206076
+    second: SUELOCESUR_19
+  - first:
+      213: -2774251242732755999
+    second: SUELOCESUR_20
+  - first:
+      213: 6594023466883778432
+    second: SUELOCESUR_21
+  - first:
+      213: 4922309922005997993
+    second: SUELOCESUR_22
+  - first:
+      213: 287352303183682831
+    second: SUELOCESUR_23
+  - first:
+      213: -2699423260272352331
+    second: SUELOCESUR_24
+  - first:
+      213: -8598395838886216221
+    second: SUELOCESUR_25
+  - first:
+      213: 8464413398573767650
+    second: SUELOCESUR_26
+  - first:
+      213: -1136732616222881393
+    second: SUELOCESUR_27
+  - first:
+      213: 7062980787932308690
+    second: SUELOCESUR_28
+  - first:
+      213: -2258291416387940623
+    second: SUELOCESUR_29
+  - first:
+      213: -1358975153792705925
+    second: SUELOCESUR_30
+  - first:
+      213: -4840661318523847014
+    second: SUELOCESUR_31
+  - first:
+      213: 40235858465733857
+    second: SUELOCESUR_32
+  - first:
+      213: 5529686675823792422
+    second: SUELOCESUR_33
+  - first:
+      213: 4793355504712615397
+    second: SUELOCESUR_34
+  - first:
+      213: -4476698722415187431
+    second: SUELOCESUR_35
+  - first:
+      213: -2604511005229237346
+    second: SUELOCESUR_36
+  - first:
+      213: 1598695018292601482
+    second: SUELOCESUR_37
+  - first:
+      213: -6082537438313764423
+    second: SUELOCESUR_38
+  - first:
+      213: -5634319136401475548
+    second: SUELOCESUR_39
+  - first:
+      213: 1081511403193635559
+    second: SUELOCESUR_40
+  - first:
+      213: 2614317542018188269
+    second: SUELOCESUR_41
+  - first:
+      213: 3278022335422841405
+    second: SUELOCESUR_42
+  - first:
+      213: 4666417329544469227
+    second: SUELOCESUR_43
+  - first:
+      213: -8245786546326327098
+    second: SUELOCESUR_44
+  - first:
+      213: 5029161608144260148
+    second: SUELOCESUR_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 115
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SUELOCESUR_0
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1030
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca89f38e448c93c0800000000000000
+      internalID: -4351457667190256949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1149
+        width: 119
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d4d26b2ec4cf270800000000000000
+      internalID: 8285581951057612131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_2
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1205
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c28d0a2b723f560800000000000000
+      internalID: 7346259065327594500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_3
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1026
+        width: 486
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869a67c28f4cd7e60800000000000000
+      internalID: 7961736286437812584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_4
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1026
+        width: 368
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66b8bd86b4aaf550800000000000000
+      internalID: 6195445341370234479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_5
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1026
+        width: 388
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c948285e0e9ef9a0800000000000000
+      internalID: -6197342252769457722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_6
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 1206
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d737bd34cfbfc9010800000000000000
+      internalID: 1197108661862495101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_7
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 1026
+        width: 283
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947ac3d897c4d5d80800000000000000
+      internalID: -8260362056583305399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_8
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1186
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1c81f6f468188b0800000000000000
+      internalID: -5151688823010704940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_9
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1163
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87baceafe0ffd5390800000000000000
+      internalID: -7827820137495614600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_10
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1147
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621343b1478055a80800000000000000
+      internalID: -8478861428689456858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 702
+        width: 386
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52959343d0cc3bc70800000000000000
+      internalID: 8985750038617086245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 704
+        width: 287
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05fb0e3fe46aa100800000000000000
+      internalID: 120019318779671819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_13
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 703
+        width: 485
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece8e446fcf9381e0800000000000000
+      internalID: -2196736480136753458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_14
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 686
+        width: 365
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dd6254277a6d840800000000000000
+      internalID: 5248566524975177059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_15
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 688
+        width: 243
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa5c232aaf16c810800000000000000
+      internalID: 1785149117893991154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_16
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 809
+        width: 126
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8624a8942e2773d0800000000000000
+      internalID: -3209045474763594101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_17
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 888
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe954eec84535e20800000000000000
+      internalID: 3338104713081364220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_18
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 809
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7269df23b5d621f30800000000000000
+      internalID: 4544815212435183143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_19
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 666
+        width: 86
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3340790ad4a5d850800000000000000
+      internalID: 6401203701745206076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_20
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 667
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e36a3f7131ef79d0800000000000000
+      internalID: -2774251242732755999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 350
+        width: 385
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0878230186da28b50800000000000000
+      internalID: 6594023466883778432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 362
+        width: 288
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a95c876bce8f4440800000000000000
+      internalID: 4922309922005997993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_23
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 362
+        width: 484
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d57a4b561ecf300800000000000000
+      internalID: 287352303183682831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_24
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 508
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b32a01d8d8b98ad0800000000000000
+      internalID: -2699423260272352331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_25
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 487
+        width: 134
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed7df07a8c5ca880800000000000000
+      internalID: -8598395838886216221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_26
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 485
+        width: 122
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebdb0eb323a77570800000000000000
+      internalID: 8464413398573767650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_27
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 485
+        width: 91
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f894f6d45b38930f0800000000000000
+      internalID: -1136732616222881393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_28
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 368
+        width: 284
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d42d18fa9fb40260800000000000000
+      internalID: 7062980787932308690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 403
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe02e6fbefe8a0e0800000000000000
+      internalID: -2258291416387940623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_30
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 28
+        width: 288
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a9a9b3c43f32de0800000000000000
+      internalID: -1358975153792705925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_31
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 29
+        width: 486
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e796f7d2482dcb0800000000000000
+      internalID: -4840661318523847014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_32
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 48
+        width: 748
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec3513dc42fe8000800000000000000
+      internalID: 40235858465733857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_33
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 228
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62110bfebb46dbc40800000000000000
+      internalID: 5529686675823792422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_34
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 49
+        width: 106
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e50f8c6f6b658240800000000000000
+      internalID: 4793355504712615397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_35
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 228
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a6ff30b329fd1c0800000000000000
+      internalID: -4476698722415187431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_36
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 166
+        width: 129
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b37bf3a0beadbd0800000000000000
+      internalID: -2604511005229237346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_37
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 162
+        width: 125
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82648d16a4bf2610800000000000000
+      internalID: 1598695018292601482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_38
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 127
+        width: 20
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b92b403d6c769ba0800000000000000
+      internalID: -6082537438313764423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_39
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 187
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428ba9be890eec1b0800000000000000
+      internalID: -5634319136401475548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_40
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 167
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e214ef14ec420f00800000000000000
+      internalID: 1081511403193635559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_41
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 49
+        width: 148
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3011604fbe74420800000000000000
+      internalID: 2614317542018188269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_42
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 0
+        width: 144
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32cca442ffdd7d20800000000000000
+      internalID: 3278022335422841405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_43
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 128
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea993566d172c040800000000000000
+      internalID: 4666417329544469227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_44
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 68
+        width: 9
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0368cf2d4119d80800000000000000
+      internalID: -8245786546326327098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_45
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 88
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c887346db2bc540800000000000000
+      internalID: 5029161608144260148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_46
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1149
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322e59a5c3746574883cf9fe3f30297e
+      internalID: 1348261048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_47
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1149
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2d9d77ab7980a48b06146ea70db415
+      internalID: 1350935416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_48
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1150
+        width: 117
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfab67efb4dc0f14c93a3ef8e477dbcb
+      internalID: -869433514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1029
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f11ec0467c8dad47b8b758b92a2e02a
+      internalID: 538902742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1030
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f52190035f24d44c8abe738bf9f4511
+      internalID: -825083916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_51
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1029
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee484d1c2b040745b23ab4268fd9b73
+      internalID: -388872930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_52
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1030
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4851f5d90fedfa41ab9714849e5727d
+      internalID: -1742186434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_53
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1149
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c286aee97ce6ac4196d840ce7833d9e
+      internalID: -2095194985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SUELOCESUR_54
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 489
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ee11225146f1f4aaf2ea13abbfabef
+      internalID: -703573939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a50f9c1ef1eb16f46b84bbfdd2a5f008
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SUELOCESUR_0: -4351457667190256949
+      SUELOCESUR_1: 8285581951057612131
+      SUELOCESUR_10: -8478861428689456858
+      SUELOCESUR_11: 8985750038617086245
+      SUELOCESUR_12: 120019318779671819
+      SUELOCESUR_13: -2196736480136753458
+      SUELOCESUR_14: 5248566524975177059
+      SUELOCESUR_15: 1785149117893991154
+      SUELOCESUR_16: -3209045474763594101
+      SUELOCESUR_17: 3338104713081364220
+      SUELOCESUR_18: 4544815212435183143
+      SUELOCESUR_19: 6401203701745206076
+      SUELOCESUR_2: 7346259065327594500
+      SUELOCESUR_20: -2774251242732755999
+      SUELOCESUR_21: 6594023466883778432
+      SUELOCESUR_22: 4922309922005997993
+      SUELOCESUR_23: 287352303183682831
+      SUELOCESUR_24: -2699423260272352331
+      SUELOCESUR_25: -8598395838886216221
+      SUELOCESUR_26: 8464413398573767650
+      SUELOCESUR_27: -1136732616222881393
+      SUELOCESUR_28: 7062980787932308690
+      SUELOCESUR_29: -2258291416387940623
+      SUELOCESUR_3: 7961736286437812584
+      SUELOCESUR_30: -1358975153792705925
+      SUELOCESUR_31: -4840661318523847014
+      SUELOCESUR_32: 40235858465733857
+      SUELOCESUR_33: 5529686675823792422
+      SUELOCESUR_34: 4793355504712615397
+      SUELOCESUR_35: -4476698722415187431
+      SUELOCESUR_36: -2604511005229237346
+      SUELOCESUR_37: 1598695018292601482
+      SUELOCESUR_38: -6082537438313764423
+      SUELOCESUR_39: -5634319136401475548
+      SUELOCESUR_4: 6195445341370234479
+      SUELOCESUR_40: 1081511403193635559
+      SUELOCESUR_41: 2614317542018188269
+      SUELOCESUR_42: 3278022335422841405
+      SUELOCESUR_43: 4666417329544469227
+      SUELOCESUR_44: -8245786546326327098
+      SUELOCESUR_45: 5029161608144260148
+      SUELOCESUR_46: 1348261048
+      SUELOCESUR_47: 1350935416
+      SUELOCESUR_48: -869433514
+      SUELOCESUR_49: 538902742
+      SUELOCESUR_5: -6197342252769457722
+      SUELOCESUR_50: -825083916
+      SUELOCESUR_51: -388872930
+      SUELOCESUR_52: -1742186434
+      SUELOCESUR_53: -2095194985
+      SUELOCESUR_54: -703573939
+      SUELOCESUR_6: 1197108661862495101
+      SUELOCESUR_7: -8260362056583305399
+      SUELOCESUR_8: -5151688823010704940
+      SUELOCESUR_9: -7827820137495614600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a012d255da9f11449a5a4d27e02b4111, type: 3}
+  m_Name: Syntax_Terror
+  m_EditorClassIdentifier: Assembly-CSharp::MonstruoBase
+  nombre: Syntax_Terror
+  tipo: Bestia de Sintaxis
+  debilidad: Espectro de Red
+  descubierto: 0
+  descripcion: Una entidad diminuta y escurridiza hecha de caracteres especiales
+    sueltos.
+  lore: "Un simple punto y coma olvidado cobr\xF3 vida. Es el responsable del 90%
+    de los dolores de cabeza de los estudiantes de primer a\xF1o en DAW."
+  spriteFrontal: {fileID: 337500179138167153, guid: c4add4ddc3db8974b8d386c8d1a04b3a, type: 3}
+  vidaMax: 30
+  ataque: 40
+  defensa: 60
+  listaAtaques:
+  - {fileID: 11400000, guid: a5c5075967bcabb4aaf845d49117d5dc, type: 2}
+  - {fileID: 11400000, guid: e308490845b741643853c4d02b700bd0, type: 2}

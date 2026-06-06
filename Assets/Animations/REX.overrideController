@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: REX
+  m_Controller: {fileID: 9100000, guid: 7f60125eb3451184b9db2c4b2f1a1b2b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8b2cbf884f09984448c6f161f26d8f0e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 03b1613b2dd32384e986da439591d7bc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bd2fffc5b97e100489726704eff639c4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 82c05f26d67082a47a9b19c8fcc40753, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eec13037857fb3046815cb38ba26eafe, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 93973f07301586e49814333cd1d8099a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ebf5d58710813984db47e7a08f208959, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f8925a4b2c38121449544a86e6fdc610, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 72162fb34838d5349a9b81a404394a04, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b2d529ff3b79d7044b1882f82268554a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f371e25bcef22b148b4312305b1ff926, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0021d95f3edadfe47bdd645badc484ad, type: 2}

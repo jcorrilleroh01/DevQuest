@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a012d255da9f11449a5a4d27e02b4111, type: 3}
+  m_Name: Error404
+  m_EditorClassIdentifier: Assembly-CSharp::MonstruoBase
+  nombre: Error404
+  tipo: Espectro de Red
+  debilidad: Bestia de Sintaxis
+  descubierto: 0
+  descripcion: "Un ente vac\xEDo que deambula buscando un destino que ya no existe
+    en el servidor"
+  lore: "El fantasma de un enlace roto. Naci\xF3 cuando un alumno borr\xF3 un archivo
+    crucial en producci\xF3n sin avisar al equipo de Frontend. Siempre est\xE1 buscando,
+    pero nunca encuentra nada."
+  spriteFrontal: {fileID: 6511322064736427828, guid: 7d3cce3d21771b240a5850230c653c9e, type: 3}
+  vidaMax: 20
+  ataque: 10
+  defensa: 0
+  listaAtaques:
+  - {fileID: 11400000, guid: e72dbc3cd876f6149aee1c7d69d6e519, type: 2}
+  - {fileID: 11400000, guid: 3edc5f710214f5c4e94b7861e49f0c60, type: 2}

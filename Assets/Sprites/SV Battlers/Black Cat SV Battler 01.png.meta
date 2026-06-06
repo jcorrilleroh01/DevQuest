@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 5536775383b13fd4e9e0a69b6ed3b5c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5041724908834673283
+    second: Black Cat SV Battler 01_0
+  - first:
+      213: 5568869872176610670
+    second: Black Cat SV Battler 01_1
+  - first:
+      213: -4904399993240080662
+    second: Black Cat SV Battler 01_2
+  - first:
+      213: 6722275336302834574
+    second: Black Cat SV Battler 01_3
+  - first:
+      213: -1589149617233378558
+    second: Black Cat SV Battler 01_4
+  - first:
+      213: 1067258225495986028
+    second: Black Cat SV Battler 01_5
+  - first:
+      213: -4127102293202972243
+    second: Black Cat SV Battler 01_6
+  - first:
+      213: -6461306755678692157
+    second: Black Cat SV Battler 01_7
+  - first:
+      213: -2730344539448922391
+    second: Black Cat SV Battler 01_8
+  - first:
+      213: -5459147455442877393
+    second: Black Cat SV Battler 01_9
+  - first:
+      213: -5026270677921302406
+    second: Black Cat SV Battler 01_10
+  - first:
+      213: -7171873424606990140
+    second: Black Cat SV Battler 01_11
+  - first:
+      213: 2626817288668826639
+    second: Black Cat SV Battler 01_12
+  - first:
+      213: -901207661023251137
+    second: Black Cat SV Battler 01_13
+  - first:
+      213: 273648973201234520
+    second: Black Cat SV Battler 01_14
+  - first:
+      213: -3648099952293805931
+    second: Black Cat SV Battler 01_15
+  - first:
+      213: 5602665612967905235
+    second: Black Cat SV Battler 01_16
+  - first:
+      213: 6653574613583066450
+    second: Black Cat SV Battler 01_17
+  - first:
+      213: -3962862621927809474
+    second: Black Cat SV Battler 01_18
+  - first:
+      213: 4913956876206201125
+    second: Black Cat SV Battler 01_19
+  - first:
+      213: 1546039628139215050
+    second: Black Cat SV Battler 01_20
+  - first:
+      213: -1901942510862348590
+    second: Black Cat SV Battler 01_21
+  - first:
+      213: 2857519776993724732
+    second: Black Cat SV Battler 01_22
+  - first:
+      213: 6472487646238565152
+    second: Black Cat SV Battler 01_23
+  - first:
+      213: -2957016951947491842
+    second: Black Cat SV Battler 01_24
+  - first:
+      213: 6153251930135375024
+    second: Black Cat SV Battler 01_25
+  - first:
+      213: -2024852085816693072
+    second: Black Cat SV Battler 01_26
+  - first:
+      213: -8462735918337243115
+    second: Black Cat SV Battler 01_27
+  - first:
+      213: -5743890059255002256
+    second: Black Cat SV Battler 01_28
+  - first:
+      213: -9065428508886370813
+    second: Black Cat SV Battler 01_29
+  - first:
+      213: 6020029007200823707
+    second: Black Cat SV Battler 01_30
+  - first:
+      213: 2526134552901789111
+    second: Black Cat SV Battler 01_31
+  - first:
+      213: -3523879311170686765
+    second: Black Cat SV Battler 01_32
+  - first:
+      213: 6490677930480660601
+    second: Black Cat SV Battler 01_33
+  - first:
+      213: 8345700570033747480
+    second: Black Cat SV Battler 01_34
+  - first:
+      213: 9103816916094377037
+    second: Black Cat SV Battler 01_35
+  - first:
+      213: 802791928565049563
+    second: Black Cat SV Battler 01_36
+  - first:
+      213: -6377657495178626178
+    second: Black Cat SV Battler 01_37
+  - first:
+      213: 4697978735751571522
+    second: Black Cat SV Battler 01_38
+  - first:
+      213: 8038138259405990471
+    second: Black Cat SV Battler 01_39
+  - first:
+      213: 5559148287502891200
+    second: Black Cat SV Battler 01_40
+  - first:
+      213: -7679464290948702888
+    second: Black Cat SV Battler 01_41
+  - first:
+      213: 9084799877561868711
+    second: Black Cat SV Battler 01_42
+  - first:
+      213: 2075188946722521017
+    second: Black Cat SV Battler 01_43
+  - first:
+      213: 4213541779179768519
+    second: Black Cat SV Battler 01_44
+  - first:
+      213: 5330934939410928657
+    second: Black Cat SV Battler 01_45
+  - first:
+      213: -6951042162188779687
+    second: Black Cat SV Battler 01_46
+  - first:
+      213: 2470831715902348112
+    second: Black Cat SV Battler 01_47
+  - first:
+      213: -3217066567717224411
+    second: Black Cat SV Battler 01_48
+  - first:
+      213: -7568737175153081950
+    second: Black Cat SV Battler 01_49
+  - first:
+      213: -8781668847206604468
+    second: Black Cat SV Battler 01_50
+  - first:
+      213: 1404646674465918823
+    second: Black Cat SV Battler 01_51
+  - first:
+      213: -322545526338630358
+    second: Black Cat SV Battler 01_52
+  - first:
+      213: -5116105337836343669
+    second: Black Cat SV Battler 01_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 319
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3825456a71ec7f540800000000000000
+      internalID: 5041724908834673283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 319
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d3673c4a9984d40800000000000000
+      internalID: 5568869872176610670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 319
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee2f76d03210fbb0800000000000000
+      internalID: -4904399993240080662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 319
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8333be5dc15a4d50800000000000000
+      internalID: 6722275336302834574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 319
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2034bd1c7d432f9e0800000000000000
+      internalID: -1589149617233378558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 319
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f4d4693b9afce00800000000000000
+      internalID: 1067258225495986028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 319
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1dfe5a45699b6c0800000000000000
+      internalID: -4127102293202972243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 256
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc90fa3db3d456a0800000000000000
+      internalID: -6461306755678692157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 319
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee28bb7b1edb1ad0800000000000000
+      internalID: -2730344539448922391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_9
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 257
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2489d520563d34b0800000000000000
+      internalID: -5459147455442877393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_10
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 319
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78f981e2791f3ab0800000000000000
+      internalID: -5026270677921302406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 255
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c07c385e13687c90800000000000000
+      internalID: -7171873424606990140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 191
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cc5f41864547420800000000000000
+      internalID: 2626817288668826639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 255
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3539d738644e73f0800000000000000
+      internalID: -901207661023251137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 191
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a5fc09a423cc300800000000000000
+      internalID: 273648973201234520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 255
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590886efb685f5dc0800000000000000
+      internalID: -3648099952293805931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_16
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 191
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d78f38d0baa0cd40800000000000000
+      internalID: 5602665612967905235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 255
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255fc21ebde365c50800000000000000
+      internalID: 6653574613583066450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ed15601751109c0800000000000000
+      internalID: -3962862621927809474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 255
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529dbdf5eb1e13440800000000000000
+      internalID: 4913956876206201125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_20
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 255
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac83aebb9d2a47510800000000000000
+      internalID: 1546039628139215050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 191
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dec5d00d51fa95e0800000000000000
+      internalID: -1901942510862348590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 191
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c394d5ee813f7a720800000000000000
+      internalID: 2857519776993724732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_23
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 127
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0236727b835e2d950800000000000000
+      internalID: 6472487646238565152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_24
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 191
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef58c58cfb096f6d0800000000000000
+      internalID: -2957016951947491842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 127
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bca435770eb46550800000000000000
+      internalID: 6153251930135375024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_26
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 191
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0beef2e81c746e3e0800000000000000
+      internalID: -2024852085816693072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_27
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 191
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518c19f05825e8a80800000000000000
+      internalID: -8462735918337243115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_28
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 191
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b453d6c6a9940b0800000000000000
+      internalID: -5743890059255002256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 127
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306f0274dc0213280800000000000000
+      internalID: -9065428508886370813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 127
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99a0cf8c707b8350800000000000000
+      internalID: 6020029007200823707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 127
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b52d88edf1ae0320800000000000000
+      internalID: 2526134552901789111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 127
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0b252df6aa81fc0800000000000000
+      internalID: -3523879311170686765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 63
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97074cd4035831a50800000000000000
+      internalID: 6490677930480660601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_34
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 63
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816f2a67372e1d370800000000000000
+      internalID: 8345700570033747480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_35
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 63
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c5ff74041475e70800000000000000
+      internalID: 9103816916094377037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_36
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 127
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8aba27107142b00800000000000000
+      internalID: 802791928565049563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_37
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 127
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b35c46c420e77a0800000000000000
+      internalID: -6377657495178626178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_38
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 127
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248afcae4c2923140800000000000000
+      internalID: 4697978735751571522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74aee57b8243d8f60800000000000000
+      internalID: 8038138259405990471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 63
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8b452f9ef062d40800000000000000
+      internalID: 5559148287502891200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d94b83aef0d6590800000000000000
+      internalID: -7679464290948702888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_42
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 63
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a16695fa51b31e70800000000000000
+      internalID: 9084799877561868711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_43
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf763b2a5d8ccc10800000000000000
+      internalID: 2075188946722521017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_44
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 63
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca07428ce1897a30800000000000000
+      internalID: 4213541779179768519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_45
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1149e4835194bf940800000000000000
+      internalID: 5330934939410928657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f79ff4bffe88f90800000000000000
+      internalID: -6951042162188779687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_47
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bd026ca582a4220800000000000000
+      internalID: 2470831715902348112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_48
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 63
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5200e6c500faa53d0800000000000000
+      internalID: -3217066567717224411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_49
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 63
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a105bcd3a176f690800000000000000
+      internalID: -7568737175153081950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_50
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 63
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41e223f5be312680800000000000000
+      internalID: -8781668847206604468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f897255be4e7310800000000000000
+      internalID: 1404646674465918823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_52
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dc1be7d86168bf0800000000000000
+      internalID: -322545526338630358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat SV Battler 01_53
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ee8c03d41fff8b0800000000000000
+      internalID: -5116105337836343669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black Cat SV Battler 01_0: 5041724908834673283
+      Black Cat SV Battler 01_1: 5568869872176610670
+      Black Cat SV Battler 01_10: -5026270677921302406
+      Black Cat SV Battler 01_11: -7171873424606990140
+      Black Cat SV Battler 01_12: 2626817288668826639
+      Black Cat SV Battler 01_13: -901207661023251137
+      Black Cat SV Battler 01_14: 273648973201234520
+      Black Cat SV Battler 01_15: -3648099952293805931
+      Black Cat SV Battler 01_16: 5602665612967905235
+      Black Cat SV Battler 01_17: 6653574613583066450
+      Black Cat SV Battler 01_18: -3962862621927809474
+      Black Cat SV Battler 01_19: 4913956876206201125
+      Black Cat SV Battler 01_2: -4904399993240080662
+      Black Cat SV Battler 01_20: 1546039628139215050
+      Black Cat SV Battler 01_21: -1901942510862348590
+      Black Cat SV Battler 01_22: 2857519776993724732
+      Black Cat SV Battler 01_23: 6472487646238565152
+      Black Cat SV Battler 01_24: -2957016951947491842
+      Black Cat SV Battler 01_25: 6153251930135375024
+      Black Cat SV Battler 01_26: -2024852085816693072
+      Black Cat SV Battler 01_27: -8462735918337243115
+      Black Cat SV Battler 01_28: -5743890059255002256
+      Black Cat SV Battler 01_29: -9065428508886370813
+      Black Cat SV Battler 01_3: 6722275336302834574
+      Black Cat SV Battler 01_30: 6020029007200823707
+      Black Cat SV Battler 01_31: 2526134552901789111
+      Black Cat SV Battler 01_32: -3523879311170686765
+      Black Cat SV Battler 01_33: 6490677930480660601
+      Black Cat SV Battler 01_34: 8345700570033747480
+      Black Cat SV Battler 01_35: 9103816916094377037
+      Black Cat SV Battler 01_36: 802791928565049563
+      Black Cat SV Battler 01_37: -6377657495178626178
+      Black Cat SV Battler 01_38: 4697978735751571522
+      Black Cat SV Battler 01_39: 8038138259405990471
+      Black Cat SV Battler 01_4: -1589149617233378558
+      Black Cat SV Battler 01_40: 5559148287502891200
+      Black Cat SV Battler 01_41: -7679464290948702888
+      Black Cat SV Battler 01_42: 9084799877561868711
+      Black Cat SV Battler 01_43: 2075188946722521017
+      Black Cat SV Battler 01_44: 4213541779179768519
+      Black Cat SV Battler 01_45: 5330934939410928657
+      Black Cat SV Battler 01_46: -6951042162188779687
+      Black Cat SV Battler 01_47: 2470831715902348112
+      Black Cat SV Battler 01_48: -3217066567717224411
+      Black Cat SV Battler 01_49: -7568737175153081950
+      Black Cat SV Battler 01_5: 1067258225495986028
+      Black Cat SV Battler 01_50: -8781668847206604468
+      Black Cat SV Battler 01_51: 1404646674465918823
+      Black Cat SV Battler 01_52: -322545526338630358
+      Black Cat SV Battler 01_53: -5116105337836343669
+      Black Cat SV Battler 01_6: -4127102293202972243
+      Black Cat SV Battler 01_7: -6461306755678692157
+      Black Cat SV Battler 01_8: -2730344539448922391
+      Black Cat SV Battler 01_9: -5459147455442877393
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

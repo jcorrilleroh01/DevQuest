@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f94aa13fe80246d41ae7d39a7ecfd4d7, type: 3}
+  m_Name: Mazo de Consultas SQL
+  m_EditorClassIdentifier: Assembly-CSharp::ItemArma
+  posicionUI: {x: 478, y: 61}
+  rotacionUI: {x: 0, y: 0, z: 0}
+  escalaUI: {x: 1, y: 1, z: 1}
+  tamanoUI: {x: 301.5, y: 208.84}
+  nombre: MazoConsultasSQL
+  descripcion: "Un arma de asedio brutal cuya cabeza est\xE1 formada por tres cilindros
+    de bases de datos apilados. Cada impacto ejecuta una Query pesada en MySQL que
+    extrae la energ\xEDa vital del enemigo. Es un arma lenta, pero garantiza que
+    el da\xF1o persista en los registros para siempre."
+  icono: {fileID: 6071051828131517814, guid: a9fc7e83b9c6a7f46bb22be3ecdbe032, type: 3}
+  desbloqueada: 0
+  ataque: 65.2
+  velocidad: 7.2
+  rango: 26.8

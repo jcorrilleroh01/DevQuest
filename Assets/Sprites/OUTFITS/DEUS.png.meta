@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: b3b3c949b9596ab40b2b14db07ecdc64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5772874833409207021
+    second: DEUS_0
+  - first:
+      213: -4392708660466983610
+    second: DEUS_1
+  - first:
+      213: 7879471528231069198
+    second: DEUS_2
+  - first:
+      213: -7899148163301488980
+    second: DEUS_3
+  - first:
+      213: 5228037326380317478
+    second: DEUS_4
+  - first:
+      213: -903647451232829013
+    second: DEUS_5
+  - first:
+      213: 5627202865280225731
+    second: DEUS_6
+  - first:
+      213: 4779296407845666276
+    second: DEUS_7
+  - first:
+      213: -5776404751220491899
+    second: DEUS_8
+  - first:
+      213: 7148386384167041358
+    second: DEUS_9
+  - first:
+      213: 9152538182438508826
+    second: DEUS_10
+  - first:
+      213: -7101030826773920493
+    second: DEUS_11
+  - first:
+      213: 5329712520169393727
+    second: DEUS_12
+  - first:
+      213: 4772369505299710700
+    second: DEUS_13
+  - first:
+      213: 4628091604320521856
+    second: DEUS_14
+  - first:
+      213: -8543764206347198077
+    second: DEUS_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DEUS_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2186
+        width: 116
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3151addcce0a2efa0800000000000000
+      internalID: -5772874833409207021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1674
+        width: 115
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d55133fb6f903c0800000000000000
+      internalID: -4392708660466983610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1208
+        width: 121
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0664029b91895d60800000000000000
+      internalID: 7879471528231069198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1208
+        width: 125
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca64c32d896906290800000000000000
+      internalID: -7899148163301488980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_4
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1208
+        width: 128
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bb16fbf38bd8840800000000000000
+      internalID: 5228037326380317478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1207
+        width: 119
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1841b4e699573f0800000000000000
+      internalID: -903647451232829013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 997
+        width: 116
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c196181137d71e40800000000000000
+      internalID: 5627202865280225731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 799
+        width: 111
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edf0f9d2c8735240800000000000000
+      internalID: 4779296407845666276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 799
+        width: 110
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589bf94cb7616dfa0800000000000000
+      internalID: -5776404751220491899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 997
+        width: 115
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49f389ea8b243360800000000000000
+      internalID: 7148386384167041358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 997
+        width: 115
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1952751cf8540f70800000000000000
+      internalID: 9152538182438508826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 799
+        width: 110
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315ca0ff512147d90800000000000000
+      internalID: -7101030826773920493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 997
+        width: 115
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e06af8c41f6f940800000000000000
+      internalID: 5329712520169393727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_13
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 601
+        width: 111
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2cb4ca7ccda3240800000000000000
+      internalID: 4772369505299710700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411
+        width: 113
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e0e7f1bc84a3040800000000000000
+      internalID: 4628091604320521856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 115
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3816afb98b37e6980800000000000000
+      internalID: -8543764206347198077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2184
+        width: 114
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba89946dfc5b9864fb8cc76bcd403102
+      internalID: 1465802767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_17
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2189
+        width: 119
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef637b5f58518340b36332866855cbc
+      internalID: -1136237076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2189
+        width: 118
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42302943f6c65f4a9a6607425aeb2b6
+      internalID: 1204125773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1946
+        width: 119
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9b8eab7e98f674ab4dde3970ed6e8f
+      internalID: -1782434864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_20
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1949
+        width: 107
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375b0fcc90f49554b8cdc55be49a1f81
+      internalID: 1865645351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_21
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1949
+        width: 112
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83becb047931c743809e1936f2f6062
+      internalID: -127452615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_22
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1956
+        width: 111
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23103766272eedc4dbfe43af11d2a44d
+      internalID: -817092240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_23
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1955
+        width: 112
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09605a19468925d4e92a94d08aaaf5f7
+      internalID: -1500018086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_24
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1953
+        width: 122
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fad7c45493e8f4bbf9ae48f3520784
+      internalID: 2012811915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1674
+        width: 113
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d7b972356e9c44caf150a084d9b123
+      internalID: 2026343238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_26
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1674
+        width: 120
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b938a81bd768a48b1bbbab333b951e
+      internalID: 581545159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_27
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1674
+        width: 109
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9943f34f8d83a5a46ac563e83943006a
+      internalID: -2084394688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_28
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1674
+        width: 119
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d2613a1a574e5478c577920abcf2b6
+      internalID: 1449165035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_29
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1676
+        width: 111
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b04c5b3cd79f3a49a05fe8dcf0d5fc5
+      internalID: -447268270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1449
+        width: 115
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eabb244e5181749b91365f450aca7c
+      internalID: -341540317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_31
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1448
+        width: 120
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b309f98ea120e4eb1dda4f8a7fa9e9
+      internalID: -1245099128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_32
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1453
+        width: 113
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e73277eaf15e0f4dbf2584c861dbb13
+      internalID: 351344984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_33
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1457
+        width: 116
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7d16e020ba4d94b804143d1d481c70
+      internalID: 1449716554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_34
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1449
+        width: 117
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2c6b96e3473b8498c9d28c014b11c9
+      internalID: -569959594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_35
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1450
+        width: 108
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16075931b47dcb44c9220d982432e613
+      internalID: -5979512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 414
+        width: 113
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be98c1065dea25945943a20eec167afe
+      internalID: -633016075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_37
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 412
+        width: 115
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c00a6899331dd498548f7b40c66f1e
+      internalID: -28512737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_38
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 413
+        width: 110
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765030c1f5a48774ba38b8f27cae4123
+      internalID: 939166580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_39
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 412
+        width: 116
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5532e77ba8ea2f4faf0908b26a4b309
+      internalID: 1489830883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_40
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 411
+        width: 117
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3cea3af4339224682e63c9df4582a0
+      internalID: -62689784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_41
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 606
+        width: 120
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c78ff4be0ee8c347ab13404c194e04e
+      internalID: -1339460211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_42
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 605
+        width: 119
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b067ee0336bc3bf46967f7ea94436387
+      internalID: 1995687851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_43
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 604
+        width: 135
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857520973762c5d46880241809332b85
+      internalID: -1497135643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_44
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 603
+        width: 131
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22da806cd08766944961d9011ac6c527
+      internalID: 201374194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 114
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375f64c438c30e94a88961444c32645c
+      internalID: 1512930354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_46
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 204
+        width: 115
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b219dbe2f93984c9e296c7556907cf
+      internalID: 718307031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_47
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 206
+        width: 106
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81342de1c51bb614db58d2ba71a1a9cb
+      internalID: 1611798786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_48
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 207
+        width: 121
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c429f1d754a374b43a4ac37b67bd273c
+      internalID: -1153311272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_49
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 205
+        width: 102
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8bfdaae3007df41ac5285d34e88190
+      internalID: 1860015542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_50
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 208
+        width: 115
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ec9b6bd90a680449cb7a2e114f8de1
+      internalID: 1608316904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_51
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 110
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d6de4b2113c7048988cd4370f61f27
+      internalID: 1456359590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_52
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2
+        width: 123
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0522a60bdb90347a8dad567c80e640
+      internalID: -1227513329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_53
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 106
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a22cc6b2fb58ea4099e684afcb5c4c4
+      internalID: 469031010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DEUS_54
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 229
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d13e96fe887b4043bb46d5fc8be023e
+      internalID: -2121037891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f372c4507b7e279459ca1622c9366ebb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DEUS_0: -5772874833409207021
+      DEUS_1: -4392708660466983610
+      DEUS_10: 9152538182438508826
+      DEUS_11: -7101030826773920493
+      DEUS_12: 5329712520169393727
+      DEUS_13: 4772369505299710700
+      DEUS_14: 4628091604320521856
+      DEUS_15: -8543764206347198077
+      DEUS_16: 1465802767
+      DEUS_17: -1136237076
+      DEUS_18: 1204125773
+      DEUS_19: -1782434864
+      DEUS_2: 7879471528231069198
+      DEUS_20: 1865645351
+      DEUS_21: -127452615
+      DEUS_22: -817092240
+      DEUS_23: -1500018086
+      DEUS_24: 2012811915
+      DEUS_25: 2026343238
+      DEUS_26: 581545159
+      DEUS_27: -2084394688
+      DEUS_28: 1449165035
+      DEUS_29: -447268270
+      DEUS_3: -7899148163301488980
+      DEUS_30: -341540317
+      DEUS_31: -1245099128
+      DEUS_32: 351344984
+      DEUS_33: 1449716554
+      DEUS_34: -569959594
+      DEUS_35: -5979512
+      DEUS_36: -633016075
+      DEUS_37: -28512737
+      DEUS_38: 939166580
+      DEUS_39: 1489830883
+      DEUS_4: 5228037326380317478
+      DEUS_40: -62689784
+      DEUS_41: -1339460211
+      DEUS_42: 1995687851
+      DEUS_43: -1497135643
+      DEUS_44: 201374194
+      DEUS_45: 1512930354
+      DEUS_46: 718307031
+      DEUS_47: 1611798786
+      DEUS_48: -1153311272
+      DEUS_49: 1860015542
+      DEUS_5: -903647451232829013
+      DEUS_50: 1608316904
+      DEUS_51: 1456359590
+      DEUS_52: -1227513329
+      DEUS_53: 469031010
+      DEUS_54: -2121037891
+      DEUS_6: 5627202865280225731
+      DEUS_7: 4779296407845666276
+      DEUS_8: -5776404751220491899
+      DEUS_9: 7148386384167041358
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

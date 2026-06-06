@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 02ff24947d14d4242950b2fb05a2efaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8998961155403859050
+    second: Punisher_0
+  - first:
+      213: -1700004180806367389
+    second: Punisher_1
+  - first:
+      213: -3034689457662391401
+    second: Punisher_2
+  - first:
+      213: -2011276251571883157
+    second: Punisher_3
+  - first:
+      213: -674812807424907231
+    second: Punisher_4
+  - first:
+      213: 3335255649772115912
+    second: Punisher_5
+  - first:
+      213: -1278585162536220824
+    second: Punisher_6
+  - first:
+      213: -2546306683498790643
+    second: Punisher_7
+  - first:
+      213: 8605546685327706860
+    second: Punisher_8
+  - first:
+      213: 4796464501222859649
+    second: Punisher_9
+  - first:
+      213: 9165736141373593048
+    second: Punisher_10
+  - first:
+      213: -4298988178000767530
+    second: Punisher_11
+  - first:
+      213: -2725893531434929529
+    second: Punisher_12
+  - first:
+      213: -4960427869517427123
+    second: Punisher_13
+  - first:
+      213: -2838683455367564894
+    second: Punisher_14
+  - first:
+      213: -5255851946635308833
+    second: Punisher_15
+  - first:
+      213: -2580586692321481601
+    second: Punisher_16
+  - first:
+      213: 2256000959378272337
+    second: Punisher_17
+  - first:
+      213: 1461974329487475634
+    second: Punisher_18
+  - first:
+      213: 6540492417206825282
+    second: Punisher_19
+  - first:
+      213: 650399751238652666
+    second: Punisher_20
+  - first:
+      213: 4765777317446759385
+    second: Punisher_21
+  - first:
+      213: 4940959401161157394
+    second: Punisher_22
+  - first:
+      213: -4114513674070088505
+    second: Punisher_23
+  - first:
+      213: 5058682959313002317
+    second: Punisher_24
+  - first:
+      213: 1367638043025769154
+    second: Punisher_25
+  - first:
+      213: 8108405927025415513
+    second: Punisher_26
+  - first:
+      213: 3421585537513478895
+    second: Punisher_27
+  - first:
+      213: -1040499199372036273
+    second: Punisher_28
+  - first:
+      213: -9073359674128605559
+    second: Punisher_29
+  - first:
+      213: 3390565438849338409
+    second: Punisher_30
+  - first:
+      213: -6643778809636996390
+    second: Punisher_31
+  - first:
+      213: 7408425888218060419
+    second: Punisher_32
+  - first:
+      213: -4039017591099409810
+    second: Punisher_33
+  - first:
+      213: 6946612795386060587
+    second: Punisher_34
+  - first:
+      213: -5476404301663578041
+    second: Punisher_35
+  - first:
+      213: 4008842021136647765
+    second: Punisher_36
+  - first:
+      213: -6545618625955300108
+    second: Punisher_37
+  - first:
+      213: 7497344657623111807
+    second: Punisher_38
+  - first:
+      213: 880704967068196255
+    second: Punisher_39
+  - first:
+      213: -7393889195721103155
+    second: Punisher_40
+  - first:
+      213: 842335854103141113
+    second: Punisher_41
+  - first:
+      213: 6173603298270166135
+    second: Punisher_42
+  - first:
+      213: -6760647146796630706
+    second: Punisher_43
+  - first:
+      213: -8104443195613174565
+    second: Punisher_44
+  - first:
+      213: -5209420482419207725
+    second: Punisher_45
+  - first:
+      213: -4191920244164923741
+    second: Punisher_46
+  - first:
+      213: -1576702356003922213
+    second: Punisher_47
+  - first:
+      213: 3444014292578600618
+    second: Punisher_48
+  - first:
+      213: -5681285625583771533
+    second: Punisher_49
+  - first:
+      213: -3586522735619253263
+    second: Punisher_50
+  - first:
+      213: 7768697444641421959
+    second: Punisher_51
+  - first:
+      213: 6677691631629358377
+    second: Punisher_52
+  - first:
+      213: 8508300729441733334
+    second: Punisher_53
+  - first:
+      213: -7946964938965751616
+    second: Punisher_54
+  - first:
+      213: -422987726888510238
+    second: Punisher_55
+  - first:
+      213: -1345115246027550949
+    second: Punisher_56
+  - first:
+      213: -5320513249116077607
+    second: Punisher_57
+  - first:
+      213: -7256397542739005581
+    second: Punisher_58
+  - first:
+      213: 6532778839569701511
+    second: Punisher_59
+  - first:
+      213: -1925091046850620567
+    second: Punisher_60
+  - first:
+      213: -3158667977947611396
+    second: Punisher_61
+  - first:
+      213: -3995648954840567505
+    second: Punisher_62
+  - first:
+      213: 7049592878310840207
+    second: Punisher_63
+  - first:
+      213: -3264819901165691380
+    second: Punisher_64
+  - first:
+      213: 4516980178603512263
+    second: Punisher_65
+  - first:
+      213: -1985057908328588450
+    second: Punisher_66
+  - first:
+      213: 3109273720380809136
+    second: Punisher_67
+  - first:
+      213: -4153939450563621820
+    second: Punisher_68
+  - first:
+      213: 646609107922464716
+    second: Punisher_69
+  - first:
+      213: 8808766403683972489
+    second: Punisher_70
+  - first:
+      213: -5969737362462333767
+    second: Punisher_71
+  - first:
+      213: -5544580429099343070
+    second: Punisher_72
+  - first:
+      213: 6251423990061196721
+    second: Punisher_73
+  - first:
+      213: 480494453531080823
+    second: Punisher_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Punisher_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 335
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64c2670e7bb2ec70800000000000000
+      internalID: 8998961155403859050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 335
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3678b5e543f5868e0800000000000000
+      internalID: -1700004180806367389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 335
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b0968440e92e5d0800000000000000
+      internalID: -3034689457662391401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 335
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63f0e7c7e28614e0800000000000000
+      internalID: -2011276251571883157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_4
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 287
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128ed83b35592a6f0800000000000000
+      internalID: -674812807424907231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 287
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c718cfa755394e20800000000000000
+      internalID: 3335255649772115912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 335
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86781f3a19d814ee0800000000000000
+      internalID: -1278585162536220824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 287
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d010ad0ff83b9acd0800000000000000
+      internalID: -2546306683498790643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_8
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 335
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea8ffcbd1b0d6770800000000000000
+      internalID: 8605546685327706860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 335
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183e8251d07709240800000000000000
+      internalID: 4796464501222859649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 335
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5588b557c333f70800000000000000
+      internalID: 9165736141373593048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 335
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d519a4770de654c0800000000000000
+      internalID: -4298988178000767530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 287
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782394b864eab2ad0800000000000000
+      internalID: -2725893531434929529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 287
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e47775225092bb0800000000000000
+      internalID: -4960427869517427123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 287
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1b905ff68fa98d0800000000000000
+      internalID: -2838683455367564894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 239
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0d1c050867f07b0800000000000000
+      internalID: -5255851946635308833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 239
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ce31c631aef2cd0800000000000000
+      internalID: -2580586692321481601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_17
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 239
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150bea47becee4f10800000000000000
+      internalID: 2256000959378272337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_18
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 287
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b347d328e9f94410800000000000000
+      internalID: 1461974329487475634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 287
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241bfbf433f74ca50800000000000000
+      internalID: 6540492417206825282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_20
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 287
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af21596b02fa60900800000000000000
+      internalID: 650399751238652666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 239
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d337055831732240800000000000000
+      internalID: 4765777317446759385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_22
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 239
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b66d3a560d19440800000000000000
+      internalID: 4940959401161157394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 239
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4a091fc9f46e6c0800000000000000
+      internalID: -4114513674070088505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_24
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 191
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f5c25795d043640800000000000000
+      internalID: 5058682959313002317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_25
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 239
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c28cd7dd83daf210800000000000000
+      internalID: 1367638043025769154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 239
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955950ffa38d68070800000000000000
+      internalID: 8108405927025415513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_27
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 239
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feada140be9eb7f20800000000000000
+      internalID: 3421585537513478895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 191
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47f950bd776f81f0800000000000000
+      internalID: -1040499199372036273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 191
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ed538f273f41280800000000000000
+      internalID: -9073359674128605559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 191
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cc45a7d45bd0f20800000000000000
+      internalID: 3390565438849338409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_31
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 191
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adab1557f5e8cc3a0800000000000000
+      internalID: -6643778809636996390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 191
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3869b04081400d660800000000000000
+      internalID: 7408425888218060419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_33
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 191
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a37f886e682f7c0800000000000000
+      internalID: -4039017591099409810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_34
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 191
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f5b2d5883576060800000000000000
+      internalID: 6946612795386060587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_35
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 191
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748dbe88d47eff3b0800000000000000
+      internalID: -5476404301663578041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_36
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 192
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5564286149442a730800000000000000
+      internalID: 4008842021136647765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_37
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 192
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcf0c43a8a4925a0800000000000000
+      internalID: -6545618625955300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_38
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 192
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f785c445e3beb0860800000000000000
+      internalID: 7497344657623111807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d950a5084e83c00800000000000000
+      internalID: 880704967068196255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_40
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 143
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8e17473f0a36990800000000000000
+      internalID: -7393889195721103155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_41
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 143
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa94651ff390bb00800000000000000
+      internalID: 842335854103141113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cb2999d7b0da550800000000000000
+      internalID: 6173603298270166135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_43
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 143
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dbd6b4d3b5d22a0800000000000000
+      internalID: -6760647146796630706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_44
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 143
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4252f4adb378f80800000000000000
+      internalID: -8104443195613174565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_45
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 144
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d152c30cab64b7b0800000000000000
+      internalID: -5209420482419207725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_46
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 144
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aee7c76fbe43d5c0800000000000000
+      internalID: -4191920244164923741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_47
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 144
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde5dd99f8d6e1ae0800000000000000
+      internalID: -1576702356003922213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6048e70c89bcf20800000000000000
+      internalID: 3444014292578600618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_49
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 95
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370eb8303d40821b0800000000000000
+      internalID: -5681285625583771533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_50
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 95
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb5d8cf29c1a3ec0800000000000000
+      internalID: -3586522735619253263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_51
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 95
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a36536a25ffcb60800000000000000
+      internalID: 7768697444641421959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_52
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 95
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925ddd6b82debac50800000000000000
+      internalID: 6677691631629358377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_53
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 95
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da429c3f6e831670800000000000000
+      internalID: 8508300729441733334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_54
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 96
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8667a2e75b6b190800000000000000
+      internalID: -7946964938965751616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_55
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 96
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecd57a47ee312af0800000000000000
+      internalID: -422987726888510238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_56
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 96
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fc09a7fc0355de0800000000000000
+      internalID: -1345115246027550949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 47
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d14da3a36db926b0800000000000000
+      internalID: -5320513249116077607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 47
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f260481e81c4b90800000000000000
+      internalID: -7256397542739005581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_59
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 47
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a9db01eb719aa50800000000000000
+      internalID: 6532778839569701511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_60
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 47
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9631f2874e3b845e0800000000000000
+      internalID: -1925091046850620567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_61
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 47
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfef70b95382a24d0800000000000000
+      internalID: -3158667977947611396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_62
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 47
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f213197027a9c88c0800000000000000
+      internalID: -3995648954840567505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_63
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 48
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8757da5f5f25d160800000000000000
+      internalID: 7049592878310840207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_64
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 48
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e946ff89701b2d0800000000000000
+      internalID: -3264819901165691380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_65
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 48
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1942b5a898fae30800000000000000
+      internalID: 4516980178603512263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b9e738958a374e0800000000000000
+      internalID: -1985057908328588450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_67
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf51cc99fb562b20800000000000000
+      internalID: 3109273720380809136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_68
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c8ca6041e3a56c0800000000000000
+      internalID: -4153939450563621820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_69
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf204ace8739f800800000000000000
+      internalID: 646609107922464716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_70
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9857af09f560f3a70800000000000000
+      internalID: 8808766403683972489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_71
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b42e047f7b372da0800000000000000
+      internalID: -5969737362462333767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_72
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22363f6e971bd03b0800000000000000
+      internalID: -5544580429099343070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_73
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5e3fb5ff481c650800000000000000
+      internalID: 6251423990061196721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher_74
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778f343e82f0ba600800000000000000
+      internalID: 480494453531080823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Punisher_0: 8998961155403859050
+      Punisher_1: -1700004180806367389
+      Punisher_10: 9165736141373593048
+      Punisher_11: -4298988178000767530
+      Punisher_12: -2725893531434929529
+      Punisher_13: -4960427869517427123
+      Punisher_14: -2838683455367564894
+      Punisher_15: -5255851946635308833
+      Punisher_16: -2580586692321481601
+      Punisher_17: 2256000959378272337
+      Punisher_18: 1461974329487475634
+      Punisher_19: 6540492417206825282
+      Punisher_2: -3034689457662391401
+      Punisher_20: 650399751238652666
+      Punisher_21: 4765777317446759385
+      Punisher_22: 4940959401161157394
+      Punisher_23: -4114513674070088505
+      Punisher_24: 5058682959313002317
+      Punisher_25: 1367638043025769154
+      Punisher_26: 8108405927025415513
+      Punisher_27: 3421585537513478895
+      Punisher_28: -1040499199372036273
+      Punisher_29: -9073359674128605559
+      Punisher_3: -2011276251571883157
+      Punisher_30: 3390565438849338409
+      Punisher_31: -6643778809636996390
+      Punisher_32: 7408425888218060419
+      Punisher_33: -4039017591099409810
+      Punisher_34: 6946612795386060587
+      Punisher_35: -5476404301663578041
+      Punisher_36: 4008842021136647765
+      Punisher_37: -6545618625955300108
+      Punisher_38: 7497344657623111807
+      Punisher_39: 880704967068196255
+      Punisher_4: -674812807424907231
+      Punisher_40: -7393889195721103155
+      Punisher_41: 842335854103141113
+      Punisher_42: 6173603298270166135
+      Punisher_43: -6760647146796630706
+      Punisher_44: -8104443195613174565
+      Punisher_45: -5209420482419207725
+      Punisher_46: -4191920244164923741
+      Punisher_47: -1576702356003922213
+      Punisher_48: 3444014292578600618
+      Punisher_49: -5681285625583771533
+      Punisher_5: 3335255649772115912
+      Punisher_50: -3586522735619253263
+      Punisher_51: 7768697444641421959
+      Punisher_52: 6677691631629358377
+      Punisher_53: 8508300729441733334
+      Punisher_54: -7946964938965751616
+      Punisher_55: -422987726888510238
+      Punisher_56: -1345115246027550949
+      Punisher_57: -5320513249116077607
+      Punisher_58: -7256397542739005581
+      Punisher_59: 6532778839569701511
+      Punisher_6: -1278585162536220824
+      Punisher_60: -1925091046850620567
+      Punisher_61: -3158667977947611396
+      Punisher_62: -3995648954840567505
+      Punisher_63: 7049592878310840207
+      Punisher_64: -3264819901165691380
+      Punisher_65: 4516980178603512263
+      Punisher_66: -1985057908328588450
+      Punisher_67: 3109273720380809136
+      Punisher_68: -4153939450563621820
+      Punisher_69: 646609107922464716
+      Punisher_7: -2546306683498790643
+      Punisher_70: 8808766403683972489
+      Punisher_71: -5969737362462333767
+      Punisher_72: -5544580429099343070
+      Punisher_73: 6251423990061196721
+      Punisher_74: 480494453531080823
+      Punisher_8: 8605546685327706860
+      Punisher_9: 4796464501222859649
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

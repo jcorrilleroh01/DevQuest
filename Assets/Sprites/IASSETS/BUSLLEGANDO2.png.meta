@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: a6e6923d5e5bd874fa7d29d86fab64cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9136551764322025462
+    second: BUSLLEGANDO2_0
+  - first:
+      213: -3077836785892033947
+    second: BUSLLEGANDO2_1
+  - first:
+      213: -5972112095457692805
+    second: BUSLLEGANDO2_2
+  - first:
+      213: -5092427310289870634
+    second: BUSLLEGANDO2_3
+  - first:
+      213: 9087892002200313254
+    second: BUSLLEGANDO2_4
+  - first:
+      213: -7357748611610568903
+    second: BUSLLEGANDO2_5
+  - first:
+      213: -8380962679978611911
+    second: BUSLLEGANDO2_6
+  - first:
+      213: -205576351372228627
+    second: BUSLLEGANDO2_7
+  - first:
+      213: -3478765987712381662
+    second: BUSLLEGANDO2_8
+  - first:
+      213: 4630953295375068333
+    second: BUSLLEGANDO2_9
+  - first:
+      213: -7847051394450656942
+    second: BUSLLEGANDO2_10
+  - first:
+      213: -5973887511613662346
+    second: BUSLLEGANDO2_11
+  - first:
+      213: 1433651755789988266
+    second: BUSLLEGANDO2_12
+  - first:
+      213: -5022726019609747964
+    second: BUSLLEGANDO2_13
+  - first:
+      213: -248750525541391256
+    second: BUSLLEGANDO2_14
+  - first:
+      213: 2537018201816733875
+    second: BUSLLEGANDO2_15
+  - first:
+      213: 3937664342823814799
+    second: BUSLLEGANDO2_16
+  - first:
+      213: -7172000902308230387
+    second: BUSLLEGANDO2_17
+  - first:
+      213: 5477983237169119092
+    second: BUSLLEGANDO2_18
+  - first:
+      213: -7557759823927721697
+    second: BUSLLEGANDO2_19
+  - first:
+      213: -3514685496817010097
+    second: BUSLLEGANDO2_20
+  - first:
+      213: -8758444861294609250
+    second: BUSLLEGANDO2_21
+  - first:
+      213: -4101550927894602198
+    second: BUSLLEGANDO2_22
+  - first:
+      213: -6212238286978596379
+    second: BUSLLEGANDO2_23
+  - first:
+      213: 7717111409610502279
+    second: BUSLLEGANDO2_24
+  - first:
+      213: -1762296730596536664
+    second: BUSLLEGANDO2_25
+  - first:
+      213: -8778268713677849675
+    second: BUSLLEGANDO2_26
+  - first:
+      213: -8565250798240883178
+    second: BUSLLEGANDO2_27
+  - first:
+      213: -7803840147559722397
+    second: BUSLLEGANDO2_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 536
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fff1601c6d8bce70800000000000000
+      internalID: 9136551764322025462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 536
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a764410c35945d0800000000000000
+      internalID: -3077836785892033947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 536
+        width: 130
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b733e67d0bbce1da0800000000000000
+      internalID: -5972112095457692805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 536
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0aca597501459b0800000000000000
+      internalID: -5092427310289870634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 536
+        width: 96
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad534450adae1e70800000000000000
+      internalID: 9087892002200313254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_5
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 536
+        width: 182
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937145aee9604e990800000000000000
+      internalID: -7357748611610568903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_6
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 546
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ba118c8d6d0bb80800000000000000
+      internalID: -8380962679978611911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_7
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 538
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7cc3ac565a52df0800000000000000
+      internalID: -205576351372228627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_8
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 536
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d41b5f3c0f8bfc0800000000000000
+      internalID: -3478765987712381662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_9
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 536
+        width: 95
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac614e7c73744040800000000000000
+      internalID: 4630953295375068333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 314
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251f88b055ca91390800000000000000
+      internalID: -7847051394450656942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 314
+        width: 554
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b102e85fc781da0800000000000000
+      internalID: -5973887511613662346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_12
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 298
+        width: 586
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa13a731daa55e310800000000000000
+      internalID: 1433651755789988266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 242
+        width: 131
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e9c05fb41bb4ab0800000000000000
+      internalID: -5022726019609747964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 242
+        width: 74
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864e96707b24c8cf0800000000000000
+      internalID: -248750525541391256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 242
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b89cf3ec9c453320800000000000000
+      internalID: 2537018201816733875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_16
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 242
+        width: 95
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f864cbe6bd465a630800000000000000
+      internalID: 3937664342823814799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_17
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 242
+        width: 147
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b0321ad2fe77c90800000000000000
+      internalID: -7172000902308230387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_18
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 242
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f72090bb4b50c40800000000000000
+      internalID: 5477983237169119092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_19
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 242
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11c11d9b717d1790800000000000000
+      internalID: -7557759823927721697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 27
+        width: 557
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a31098924593fc0800000000000000
+      internalID: -3514685496817010097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_21
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 112
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c70b98dc0c37680800000000000000
+      internalID: -8758444861294609250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_22
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 27
+        width: 547
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e1baa792d5417c0800000000000000
+      internalID: -4101550927894602198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_23
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e14f8c1132b9c9a0800000000000000
+      internalID: -6212238286978596379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_24
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 94
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780b2f5a0ffa81b60800000000000000
+      internalID: 7717111409610502279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_25
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 67
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae06f7e5701b87e0800000000000000
+      internalID: -1762296730596536664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 27
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb7e4a3d135d2680800000000000000
+      internalID: -8778268713677849675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_27
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 27
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e98b697cd122980800000000000000
+      internalID: -8565250798240883178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BUSLLEGANDO2_28
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 0
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36255c87bb033b390800000000000000
+      internalID: -7803840147559722397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BUSLLEGANDO2_0: 9136551764322025462
+      BUSLLEGANDO2_1: -3077836785892033947
+      BUSLLEGANDO2_10: -7847051394450656942
+      BUSLLEGANDO2_11: -5973887511613662346
+      BUSLLEGANDO2_12: 1433651755789988266
+      BUSLLEGANDO2_13: -5022726019609747964
+      BUSLLEGANDO2_14: -248750525541391256
+      BUSLLEGANDO2_15: 2537018201816733875
+      BUSLLEGANDO2_16: 3937664342823814799
+      BUSLLEGANDO2_17: -7172000902308230387
+      BUSLLEGANDO2_18: 5477983237169119092
+      BUSLLEGANDO2_19: -7557759823927721697
+      BUSLLEGANDO2_2: -5972112095457692805
+      BUSLLEGANDO2_20: -3514685496817010097
+      BUSLLEGANDO2_21: -8758444861294609250
+      BUSLLEGANDO2_22: -4101550927894602198
+      BUSLLEGANDO2_23: -6212238286978596379
+      BUSLLEGANDO2_24: 7717111409610502279
+      BUSLLEGANDO2_25: -1762296730596536664
+      BUSLLEGANDO2_26: -8778268713677849675
+      BUSLLEGANDO2_27: -8565250798240883178
+      BUSLLEGANDO2_28: -7803840147559722397
+      BUSLLEGANDO2_3: -5092427310289870634
+      BUSLLEGANDO2_4: 9087892002200313254
+      BUSLLEGANDO2_5: -7357748611610568903
+      BUSLLEGANDO2_6: -8380962679978611911
+      BUSLLEGANDO2_7: -205576351372228627
+      BUSLLEGANDO2_8: -3478765987712381662
+      BUSLLEGANDO2_9: 4630953295375068333
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1900 @@
+fileFormatVersion: 2
+guid: 18803aa558d1a674c9d4cec0e7c9e35b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1591289771110518864
+    second: TILESETCOMUNICACIONES_0
+  - first:
+      213: -3955344918528703378
+    second: TILESETCOMUNICACIONES_1
+  - first:
+      213: 8583608331053475580
+    second: TILESETCOMUNICACIONES_2
+  - first:
+      213: -2448982057986958413
+    second: TILESETCOMUNICACIONES_3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 140
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1053
+        width: 158
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05051c5ad95651610800000000000000
+      internalID: 1591289771110518864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 726
+        width: 151
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6443feb0cacb19c0800000000000000
+      internalID: -3955344918528703378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_2
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 719
+        width: 164
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6a6879c4a1f1770800000000000000
+      internalID: 8583608331053475580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_3
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 725
+        width: 154
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbd1642bc7730ed0800000000000000
+      internalID: -2448982057986958413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1053
+        width: 154
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f20aef4489a4074bbc2f1a5632c37ce
+      internalID: 1983150192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_5
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1054
+        width: 155
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde4f0e819a7aae4890f0875dd824a8b
+      internalID: -2082615545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_6
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1054
+        width: 156
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d631906660e43a14b9c9c7417de408f3
+      internalID: 1970996527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_7
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1052
+        width: 136
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f043c87ab946f74f9985b45970a634b
+      internalID: 1414824707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_8
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1052
+        width: 153
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7061c8ed627b1964b82a1603816226b0
+      internalID: -1217393486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_9
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1053
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e025963be109543bff3ece4fe05dc5
+      internalID: 749943061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_10
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1053
+        width: 148
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a7f0e47e86b0245a1575fdb5354864
+      internalID: -818264553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 894
+        width: 158
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bb1e05dd4f69d4dac19a1f4e5cffd8
+      internalID: 2072321028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 891
+        width: 155
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dadd62c5ec2c9649a087ffa67ac84f2
+      internalID: -639925310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 892
+        width: 156
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e16cb218dedca4b80704ae99952fc2
+      internalID: 94278229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_14
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 893
+        width: 156
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70271432ca96a6d47ad204e623e405b9
+      internalID: 1216830990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_15
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 894
+        width: 135
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27bb4df4fd6cd0419d83d61796b2f30
+      internalID: 130890597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_16
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 894
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e746d58cc9eac2498f14da384940497
+      internalID: -1804579247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_17
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 892
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086c87898a96c174d994c57b4f234cea
+      internalID: 2077188069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_18
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 892
+        width: 155
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac383f8ecdc614545b34a3ec0ba84444
+      internalID: -1923795673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_19
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 892
+        width: 155
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6242d5963e8ae42b400827c690114f
+      internalID: -303307427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_20
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 893
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ad6e35ea62956418e4d4763c45d9de
+      internalID: -775584433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_21
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 894
+        width: 138
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f5588ca9b5c3842aebf85510d73fcd
+      internalID: -1567004054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_22
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 892
+        width: 153
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e25a560542edf94f8213ba87a864eb4
+      internalID: -1412710666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_23
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 892
+        width: 155
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1178a417db7262c49a29ffcf9372a116
+      internalID: 1702937996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_24
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 892
+        width: 158
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99342cd23604724c995d916fc445706
+      internalID: -1793782819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 739
+        width: 160
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c92d61386b63e4cbc3912f7c1c6683
+      internalID: -1483968531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_26
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 721
+        width: 160
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b275cfbf45e384429c0eab0c0086235
+      internalID: -1199254167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_27
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 724
+        width: 159
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1875c63d32c634e47a8362a6401b69cb
+      internalID: 1851039417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_28
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 723
+        width: 137
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea3a2778be6e564488ebe48c41c4232
+      internalID: 1614682526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_29
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 723
+        width: 157
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0967c174302c85f45a502fb81ea6033a
+      internalID: -707669237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_30
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 725
+        width: 158
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd262d52f5d773479e3f9afb59e1113
+      internalID: 1796752290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_31
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 725
+        width: 159
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91d1c79831fddd4fab4a2803768a432
+      internalID: -1682926074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_32
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 724
+        width: 141
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d048ec01b8589243a2302fda26e679b
+      internalID: -1726871209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_33
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 726
+        width: 155
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0093025fa14974140acde6b13358152b
+      internalID: -801744519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_34
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 729
+        width: 163
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccfcea113b14f84e9efd727daad0c93
+      internalID: 594684303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_35
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 556
+        width: 158
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1442e6bfa84011e4bb14e767ee89b224
+      internalID: -2105937970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_36
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 555
+        width: 156
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7e85e71dd6b594c9d74a04f1bbab5b
+      internalID: 86885765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_37
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 554
+        width: 155
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ca61541bde2f54dab97c64758d3848
+      internalID: 1967492704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_38
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 557
+        width: 156
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9249e8043c3868d409a47dbf13abb72d
+      internalID: 2073409607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_39
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 557
+        width: 135
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e62fa2b06560d46b5347f09bd33202
+      internalID: 151342660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_40
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 556
+        width: 159
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d562e68254dfe04ba987eb093dcb64b
+      internalID: 112686856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_41
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 393
+        width: 153
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c981ed54651fa488e2ba8d45d238da
+      internalID: 1977466340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_42
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 388
+        width: 160
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b9a962e44a1c0468f68a91bc7a2c26
+      internalID: 1262553675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_43
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 222
+        width: 166
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c360eab37cf0af34381509e66fba3747
+      internalID: 1492771626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 81
+        width: 157
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f994cccc00fb565419d01b3b034fce01
+      internalID: -1105857506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_45
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 81
+        width: 157
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a925bf2cef220418c62d94022aafa5
+      internalID: -1982931976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_46
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 81
+        width: 156
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907079321db79004c8b8282aada14deb
+      internalID: 924742562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_47
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 81
+        width: 156
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0a3bb7d6564ba47b179ee7e286849d
+      internalID: -1385234941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_48
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 81
+        width: 136
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde417c11f205f241abffae641ac0fc0
+      internalID: 1472470828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_49
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 81
+        width: 157
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3edd1cdc4111d4b8a86e92d96865e1
+      internalID: 438561299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_50
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 80
+        width: 155
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3781dfeae1153e846aadd670f7b8cdb9
+      internalID: -1806037368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_51
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 80
+        width: 156
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3c679fec04cf14dbbeba04b6aabd82
+      internalID: -1108341647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_52
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 80
+        width: 156
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e96121f104006145a92566c3984a9b0
+      internalID: 903341499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_53
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 80
+        width: 155
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e81620cf303cc14b8e6fe68a3f830a1
+      internalID: 1538568471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_54
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 80
+        width: 158
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c60b9b30cffc4641a1b3820af51f6a6
+      internalID: -1649584536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_55
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 81
+        width: 155
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d3f9f59fa57154da12b889ed5b79bc
+      internalID: -1636901041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_56
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 106
+        width: 158
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388457987ddb34c4c816ea96d3127a1c
+      internalID: -247753807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_57
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 110
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25632d927c6faf40bc09e9e7c185bc7
+      internalID: 1695937486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_58
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 223
+        width: 157
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dd186f62c330e41b9161137bbbdf09
+      internalID: 826376666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_59
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 222
+        width: 159
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9cbfdb90dfbe34a93b1896baafd62b
+      internalID: -903088414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_60
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 227
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce13ed5e6b01cfb4a97ba95e8b5731d0
+      internalID: -111375680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_61
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 244
+        width: 138
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe8efbb1798bbb4d96c913408d368ea
+      internalID: -1128831290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_62
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 241
+        width: 134
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a72020e1a9b0647a4ec9ccf3647610
+      internalID: 229693144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_63
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 251
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38a8ad46f08c6942a5039159a19dbe6
+      internalID: -1865055550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_64
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 236
+        width: 133
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e05c13fc8bf294cadd6e2917209d83
+      internalID: -1529281723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_65
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 247
+        width: 134
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836abad37abfa1c44b677b63abcca8b4
+      internalID: -1299040351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_66
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 232
+        width: 123
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c0133caf5511e41a74abf55c6309aa
+      internalID: 1227351989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_67
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 229
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c590bd112ea0b7c4998826166a8f2b2a
+      internalID: 1251980677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_68
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 235
+        width: 158
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c0a93ef19c13449ac57eb999389a8d
+      internalID: -1650919071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_69
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 233
+        width: 153
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e3a6f8ba0de6f41a9d8f333ea07186
+      internalID: -2139570920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_70
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 231
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de363ec0de64ede4094b58245587f525
+      internalID: 1613760481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_71
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1052
+        width: 157
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf36394fedca034486543b6cc9ffc11
+      internalID: -100127095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_72
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1053
+        width: 157
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8894c49bd2dfbf4a914970ac530d9bf
+      internalID: 1103759642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_73
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1053
+        width: 134
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4102a39db35c854bb6e9c7e5e178916
+      internalID: -1018794111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_74
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1053
+        width: 158
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c2e270a66011e408160cf4394b34e5
+      internalID: -472980575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_75
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1054
+        width: 154
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80f8d6fd30126e4ab29838cc1b38b1a
+      internalID: 1895462711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETCOMUNICACIONES_76
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 1053
+        width: 157
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5174c2379d9eb743b8afbbe365631fd
+      internalID: -1747731592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dc161c63e9b5a4e44a04a9ea8edd4c9c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TILESETCOMUNICACIONES_0: 1591289771110518864
+      TILESETCOMUNICACIONES_1: -3955344918528703378
+      TILESETCOMUNICACIONES_10: -818264553
+      TILESETCOMUNICACIONES_11: 2072321028
+      TILESETCOMUNICACIONES_12: -639925310
+      TILESETCOMUNICACIONES_13: 94278229
+      TILESETCOMUNICACIONES_14: 1216830990
+      TILESETCOMUNICACIONES_15: 130890597
+      TILESETCOMUNICACIONES_16: -1804579247
+      TILESETCOMUNICACIONES_17: 2077188069
+      TILESETCOMUNICACIONES_18: -1923795673
+      TILESETCOMUNICACIONES_19: -303307427
+      TILESETCOMUNICACIONES_2: 8583608331053475580
+      TILESETCOMUNICACIONES_20: -775584433
+      TILESETCOMUNICACIONES_21: -1567004054
+      TILESETCOMUNICACIONES_22: -1412710666
+      TILESETCOMUNICACIONES_23: 1702937996
+      TILESETCOMUNICACIONES_24: -1793782819
+      TILESETCOMUNICACIONES_25: -1483968531
+      TILESETCOMUNICACIONES_26: -1199254167
+      TILESETCOMUNICACIONES_27: 1851039417
+      TILESETCOMUNICACIONES_28: 1614682526
+      TILESETCOMUNICACIONES_29: -707669237
+      TILESETCOMUNICACIONES_3: -2448982057986958413
+      TILESETCOMUNICACIONES_30: 1796752290
+      TILESETCOMUNICACIONES_31: -1682926074
+      TILESETCOMUNICACIONES_32: -1726871209
+      TILESETCOMUNICACIONES_33: -801744519
+      TILESETCOMUNICACIONES_34: 594684303
+      TILESETCOMUNICACIONES_35: -2105937970
+      TILESETCOMUNICACIONES_36: 86885765
+      TILESETCOMUNICACIONES_37: 1967492704
+      TILESETCOMUNICACIONES_38: 2073409607
+      TILESETCOMUNICACIONES_39: 151342660
+      TILESETCOMUNICACIONES_4: 1983150192
+      TILESETCOMUNICACIONES_40: 112686856
+      TILESETCOMUNICACIONES_41: 1977466340
+      TILESETCOMUNICACIONES_42: 1262553675
+      TILESETCOMUNICACIONES_43: 1492771626
+      TILESETCOMUNICACIONES_44: -1105857506
+      TILESETCOMUNICACIONES_45: -1982931976
+      TILESETCOMUNICACIONES_46: 924742562
+      TILESETCOMUNICACIONES_47: -1385234941
+      TILESETCOMUNICACIONES_48: 1472470828
+      TILESETCOMUNICACIONES_49: 438561299
+      TILESETCOMUNICACIONES_5: -2082615545
+      TILESETCOMUNICACIONES_50: -1806037368
+      TILESETCOMUNICACIONES_51: -1108341647
+      TILESETCOMUNICACIONES_52: 903341499
+      TILESETCOMUNICACIONES_53: 1538568471
+      TILESETCOMUNICACIONES_54: -1649584536
+      TILESETCOMUNICACIONES_55: -1636901041
+      TILESETCOMUNICACIONES_56: -247753807
+      TILESETCOMUNICACIONES_57: 1695937486
+      TILESETCOMUNICACIONES_58: 826376666
+      TILESETCOMUNICACIONES_59: -903088414
+      TILESETCOMUNICACIONES_6: 1970996527
+      TILESETCOMUNICACIONES_60: -111375680
+      TILESETCOMUNICACIONES_61: -1128831290
+      TILESETCOMUNICACIONES_62: 229693144
+      TILESETCOMUNICACIONES_63: -1865055550
+      TILESETCOMUNICACIONES_64: -1529281723
+      TILESETCOMUNICACIONES_65: -1299040351
+      TILESETCOMUNICACIONES_66: 1227351989
+      TILESETCOMUNICACIONES_67: 1251980677
+      TILESETCOMUNICACIONES_68: -1650919071
+      TILESETCOMUNICACIONES_69: -2139570920
+      TILESETCOMUNICACIONES_7: 1414824707
+      TILESETCOMUNICACIONES_70: 1613760481
+      TILESETCOMUNICACIONES_71: -100127095
+      TILESETCOMUNICACIONES_72: 1103759642
+      TILESETCOMUNICACIONES_73: -1018794111
+      TILESETCOMUNICACIONES_74: -472980575
+      TILESETCOMUNICACIONES_75: 1895462711
+      TILESETCOMUNICACIONES_76: -1747731592
+      TILESETCOMUNICACIONES_8: -1217393486
+      TILESETCOMUNICACIONES_9: 749943061
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

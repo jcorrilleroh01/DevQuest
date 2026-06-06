@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: f890fc40375b34949bd29758465edfe9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1587946855274593174
+    second: VARSITY_0
+  - first:
+      213: -2604836101487972709
+    second: VARSITY_1
+  - first:
+      213: -8857289265981313936
+    second: VARSITY_2
+  - first:
+      213: 218625496007359377
+    second: VARSITY_3
+  - first:
+      213: 6732672753602554472
+    second: VARSITY_4
+  - first:
+      213: -6306418435805836408
+    second: VARSITY_5
+  - first:
+      213: 8753987856753648290
+    second: VARSITY_6
+  - first:
+      213: 111946532071197431
+    second: VARSITY_7
+  - first:
+      213: -7723000389392262747
+    second: VARSITY_8
+  - first:
+      213: -7974412504958030643
+    second: VARSITY_9
+  - first:
+      213: 1714947489844218099
+    second: VARSITY_10
+  - first:
+      213: 3307308375026599354
+    second: VARSITY_11
+  - first:
+      213: 3202336815849136184
+    second: VARSITY_12
+  - first:
+      213: -2433660561284320517
+    second: VARSITY_13
+  - first:
+      213: 7527156613966650186
+    second: VARSITY_14
+  - first:
+      213: 8636216896059326164
+    second: VARSITY_15
+  - first:
+      213: 8088532054229230208
+    second: VARSITY_16
+  - first:
+      213: 5207549861333359601
+    second: VARSITY_17
+  - first:
+      213: -2287150471607893506
+    second: VARSITY_18
+  - first:
+      213: -6106257549970638321
+    second: VARSITY_19
+  - first:
+      213: -1369432793794037290
+    second: VARSITY_20
+  - first:
+      213: 877461717708103039
+    second: VARSITY_21
+  - first:
+      213: -5965759746918429680
+    second: VARSITY_22
+  - first:
+      213: -6736983978631415840
+    second: VARSITY_23
+  - first:
+      213: -8853271665124868279
+    second: VARSITY_24
+  - first:
+      213: 3743734011880560135
+    second: VARSITY_25
+  - first:
+      213: -7115853890062069244
+    second: VARSITY_26
+  - first:
+      213: 4563243037017871479
+    second: VARSITY_27
+  - first:
+      213: -8908343183892976779
+    second: VARSITY_28
+  - first:
+      213: -5562666141229877449
+    second: VARSITY_29
+  - first:
+      213: 8301418599573898125
+    second: VARSITY_30
+  - first:
+      213: 4111233721901539268
+    second: VARSITY_31
+  - first:
+      213: -5722303100836117884
+    second: VARSITY_32
+  - first:
+      213: 6848179782314566282
+    second: VARSITY_33
+  - first:
+      213: 1853735982280096706
+    second: VARSITY_34
+  - first:
+      213: -7072234073715711208
+    second: VARSITY_35
+  - first:
+      213: -1175406399888066191
+    second: VARSITY_36
+  - first:
+      213: -5544122541534983646
+    second: VARSITY_37
+  - first:
+      213: 7006146797733389936
+    second: VARSITY_38
+  - first:
+      213: -1741886445272690058
+    second: VARSITY_39
+  - first:
+      213: -693556743423070170
+    second: VARSITY_40
+  - first:
+      213: -7527672017484332445
+    second: VARSITY_41
+  - first:
+      213: -7270505234494286638
+    second: VARSITY_42
+  - first:
+      213: 3938644917295164508
+    second: VARSITY_43
+  - first:
+      213: 5327823151456760543
+    second: VARSITY_44
+  - first:
+      213: -4614893615555333181
+    second: VARSITY_45
+  - first:
+      213: 2774534057060425008
+    second: VARSITY_46
+  - first:
+      213: -3896203041325875088
+    second: VARSITY_47
+  - first:
+      213: 575644671064899497
+    second: VARSITY_48
+  - first:
+      213: -989627989563170954
+    second: VARSITY_49
+  - first:
+      213: 1667971825385908292
+    second: VARSITY_50
+  - first:
+      213: -4700883315665982245
+    second: VARSITY_51
+  - first:
+      213: 3786925931984002192
+    second: VARSITY_52
+  - first:
+      213: -1135012451866540008
+    second: VARSITY_53
+  - first:
+      213: -3874768995686228751
+    second: VARSITY_54
+  - first:
+      213: -1543678779808806255
+    second: VARSITY_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VARSITY_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1164
+        width: 61
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b37d66045890610800000000000000
+      internalID: 1587946855274593174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1164
+        width: 62
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e22b0ed53c9dbd0800000000000000
+      internalID: -2604836101487972709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1164
+        width: 61
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cad4c2756941580800000000000000
+      internalID: -8857289265981313936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1164
+        width: 61
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bbc54fab6b80300800000000000000
+      internalID: 218625496007359377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1040
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a6e6bb2324f6d50800000000000000
+      internalID: 6732672753602554472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1040
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b81d078d91b78a0800000000000000
+      internalID: -6306418435805836408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1040
+        width: 55
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a262e933996c7970800000000000000
+      internalID: 8753987856753648290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1040
+        width: 52
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fac0fd17c6bd8100800000000000000
+      internalID: 111946532071197431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_8
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1040
+        width: 56
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a91216601462d490800000000000000
+      internalID: -7723000389392262747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_9
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1040
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc2b85b312355190800000000000000
+      internalID: -7974412504958030643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 891
+        width: 60
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8cc94e7a7bcc710800000000000000
+      internalID: 1714947489844218099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 891
+        width: 61
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab58228b17be5ed20800000000000000
+      internalID: 3307308375026599354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_12
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 891
+        width: 61
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830e7d70e5cf07c20800000000000000
+      internalID: 3202336815849136184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 891
+        width: 59
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf235c41d96e93ed0800000000000000
+      internalID: -2433660561284320517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 892
+        width: 60
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bd6305f05d57860800000000000000
+      internalID: 7527156613966650186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_15
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 891
+        width: 59
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deb7d4a2810ad770800000000000000
+      internalID: 8636216896059326164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 772
+        width: 60
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082a1b66c0d304070800000000000000
+      internalID: 8088532054229230208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 772
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbd8e2120fe44840800000000000000
+      internalID: 5207549861333359601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 773
+        width: 56
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1c1ff83c86240e0800000000000000
+      internalID: -2287150471607893506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_19
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 773
+        width: 56
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0af3f25c17324ba0800000000000000
+      internalID: -6106257549970638321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_20
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 772
+        width: 59
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9b22e212ccefce0800000000000000
+      internalID: -1369432793794037290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 772
+        width: 60
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ddef388ce5d2c00800000000000000
+      internalID: 877461717708103039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 643
+        width: 50
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c4a9d3e1d553da0800000000000000
+      internalID: -5965759746918429680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 644
+        width: 51
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e73d28f3cc6182a0800000000000000
+      internalID: -6736983978631415840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 644
+        width: 51
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f7334c35cd22580800000000000000
+      internalID: -8853271665124868279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_25
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 643
+        width: 50
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70650b7af3a64f330800000000000000
+      internalID: 3743734011880560135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 530
+        width: 56
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402d441a6986f3d90800000000000000
+      internalID: -7115853890062069244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_27
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 531
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77499357d55e35f30800000000000000
+      internalID: 4563243037017871479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 531
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b69ca92153f5480800000000000000
+      internalID: -8908343183892976779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_29
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 529
+        width: 56
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73776e7ed907dc2b0800000000000000
+      internalID: -5562666141229877449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 426
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d834c67cb30943370800000000000000
+      internalID: 8301418599573898125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_31
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 426
+        width: 46
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf5c8ea9490e0930800000000000000
+      internalID: 4111233721901539268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_32
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 426
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4820c89d5ab4690b0800000000000000
+      internalID: -5722303100836117884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_33
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 426
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a822fd29a3f990f50800000000000000
+      internalID: 6848179782314566282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_34
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 323
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb3a2bed0bc9b910800000000000000
+      internalID: 1853735982280096706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_35
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 324
+        width: 51
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813e2cb84906add90800000000000000
+      internalID: -7072234073715711208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 323
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17973fb5b1e10bfe0800000000000000
+      internalID: -1175406399888066191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 323
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a42982ce15f03b0800000000000000
+      internalID: -5544122541534983646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076a3237465da3160800000000000000
+      internalID: 7006146797733389936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 218
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6721476c18393d7e0800000000000000
+      internalID: -1741886445272690058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 218
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620f0b401ddff56f0800000000000000
+      internalID: -693556743423070170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_41
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 218
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362c234fe26588790800000000000000
+      internalID: -7527672017484332445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_42
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 218
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d49950920af91b90800000000000000
+      internalID: -7270505234494286638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_43
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 218
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ca6c73fa0e8a630800000000000000
+      internalID: 3938644917295164508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 107
+        width: 57
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2bea0adea30f940800000000000000
+      internalID: 5327823151456760543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 107
+        width: 57
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c33b9815ba94ffb0800000000000000
+      internalID: -4614893615555333181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_46
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 109
+        width: 52
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d5f485600218620800000000000000
+      internalID: 2774534057060425008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_47
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 108
+        width: 58
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07089f41af7ede9c0800000000000000
+      internalID: -3896203041325875088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_48
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 108
+        width: 54
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af7ba747c91df700800000000000000
+      internalID: 575644671064899497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_49
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 110
+        width: 57
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f9d4636922442f0800000000000000
+      internalID: -989627989563170954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448ac73b983d52710800000000000000
+      internalID: 1667971825385908292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc2b2fd78b13ceb0800000000000000
+      internalID: -4700883315665982245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 55
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c1f96321ddd8430800000000000000
+      internalID: 3786925931984002192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_53
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 55
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81889d64030af30f0800000000000000
+      internalID: -1135012451866540008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_54
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 52
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcdc69b02e0a3ac0800000000000000
+      internalID: -3874768995686228751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VARSITY_55
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 55
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a003a1450c39ae0800000000000000
+      internalID: -1543678779808806255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f690a568514753d439648e4f6654e2b0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VARSITY_0: 1587946855274593174
+      VARSITY_1: -2604836101487972709
+      VARSITY_10: 1714947489844218099
+      VARSITY_11: 3307308375026599354
+      VARSITY_12: 3202336815849136184
+      VARSITY_13: -2433660561284320517
+      VARSITY_14: 7527156613966650186
+      VARSITY_15: 8636216896059326164
+      VARSITY_16: 8088532054229230208
+      VARSITY_17: 5207549861333359601
+      VARSITY_18: -2287150471607893506
+      VARSITY_19: -6106257549970638321
+      VARSITY_2: -8857289265981313936
+      VARSITY_20: -1369432793794037290
+      VARSITY_21: 877461717708103039
+      VARSITY_22: -5965759746918429680
+      VARSITY_23: -6736983978631415840
+      VARSITY_24: -8853271665124868279
+      VARSITY_25: 3743734011880560135
+      VARSITY_26: -7115853890062069244
+      VARSITY_27: 4563243037017871479
+      VARSITY_28: -8908343183892976779
+      VARSITY_29: -5562666141229877449
+      VARSITY_3: 218625496007359377
+      VARSITY_30: 8301418599573898125
+      VARSITY_31: 4111233721901539268
+      VARSITY_32: -5722303100836117884
+      VARSITY_33: 6848179782314566282
+      VARSITY_34: 1853735982280096706
+      VARSITY_35: -7072234073715711208
+      VARSITY_36: -1175406399888066191
+      VARSITY_37: -5544122541534983646
+      VARSITY_38: 7006146797733389936
+      VARSITY_39: -1741886445272690058
+      VARSITY_4: 6732672753602554472
+      VARSITY_40: -693556743423070170
+      VARSITY_41: -7527672017484332445
+      VARSITY_42: -7270505234494286638
+      VARSITY_43: 3938644917295164508
+      VARSITY_44: 5327823151456760543
+      VARSITY_45: -4614893615555333181
+      VARSITY_46: 2774534057060425008
+      VARSITY_47: -3896203041325875088
+      VARSITY_48: 575644671064899497
+      VARSITY_49: -989627989563170954
+      VARSITY_5: -6306418435805836408
+      VARSITY_50: 1667971825385908292
+      VARSITY_51: -4700883315665982245
+      VARSITY_52: 3786925931984002192
+      VARSITY_53: -1135012451866540008
+      VARSITY_54: -3874768995686228751
+      VARSITY_55: -1543678779808806255
+      VARSITY_6: 8753987856753648290
+      VARSITY_7: 111946532071197431
+      VARSITY_8: -7723000389392262747
+      VARSITY_9: -7974412504958030643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 29bf2c5eff20edf4480660286f343776
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8942255795365882395
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_0
+  - first:
+      213: -440739587983578301
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_1
+  - first:
+      213: -6747959220734768059
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_2
+  - first:
+      213: -1645887831683944700
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_3
+  - first:
+      213: -7628387287506551041
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_4
+  - first:
+      213: -1339299654658431424
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_5
+  - first:
+      213: -8932882810536603544
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_6
+  - first:
+      213: 1788103868914484289
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_7
+  - first:
+      213: -4952592115618053442
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_8
+  - first:
+      213: 3645237097296247805
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_9
+  - first:
+      213: -2744357186595359077
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_10
+  - first:
+      213: 7101886942810181006
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_11
+  - first:
+      213: 7691959660071086619
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_12
+  - first:
+      213: -1070682460534441079
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_13
+  - first:
+      213: -3600028326116689848
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_14
+  - first:
+      213: -320605960336030710
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_15
+  - first:
+      213: 9205488469975332794
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_16
+  - first:
+      213: -2821147952615501428
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_17
+  - first:
+      213: -478848272466990618
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_18
+  - first:
+      213: 3012197180426676022
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_19
+  - first:
+      213: 4237065727308285673
+    second: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5d9827bb9b6e380800000000000000
+      internalID: -8942255795365882395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 192
+        width: 111
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b69cb0ead22e9f0800000000000000
+      internalID: -440739587983578301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 192
+        width: 111
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c484947de6a52a0800000000000000
+      internalID: -6747959220734768059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 129
+        width: 66
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f2754ccb1a829e0800000000000000
+      internalID: -1645887831683944700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 242
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffef01fcd26822690800000000000000
+      internalID: -7628387287506551041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 192
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046e74c5f0ad96de0800000000000000
+      internalID: -1339299654658431424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 94
+        width: 116
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860d5c98966080480800000000000000
+      internalID: -8932882810536603544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 168
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1444628befe90d810800000000000000
+      internalID: 1788103868914484289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 178
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb28f27f5bbd44bb0800000000000000
+      internalID: -4952592115618053442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 162
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb3b62a3db769230800000000000000
+      internalID: 3645237097296247805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 74
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b967134dda51ae9d0800000000000000
+      internalID: -2744357186595359077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 106
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d8f2d0c88fe8260800000000000000
+      internalID: 7101886942810181006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_12
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 130
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1aeb2d9e845fba60800000000000000
+      internalID: 7691959660071086619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 48
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b7a9099fb2421f0800000000000000
+      internalID: -1070682460534441079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 97
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8487878af412a0ec0800000000000000
+      internalID: -3600028326116689848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 55
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a044c45e39afc8bf0800000000000000
+      internalID: -320605960336030710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 64
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab775dc9df670cf70800000000000000
+      internalID: 9205488469975332794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 40
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81588952e449d8d0800000000000000
+      internalID: -2821147952615501428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 40
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9ab42880aca59f0800000000000000
+      internalID: -478848272466990618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 18
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637e3c450697dc920800000000000000
+      internalID: 3012197180426676022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6413e74d41dca30800000000000000
+      internalID: 4237065727308285673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_0: -8942255795365882395
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_1: -440739587983578301
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_10: -2744357186595359077
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_11: 7101886942810181006
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_12: 7691959660071086619
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_13: -1070682460534441079
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_14: -3600028326116689848
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_15: -320605960336030710
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_16: 9205488469975332794
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_17: -2821147952615501428
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_18: -478848272466990618
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_19: 3012197180426676022
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_2: -6747959220734768059
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_20: 4237065727308285673
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_3: -1645887831683944700
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_4: -7628387287506551041
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_5: -1339299654658431424
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_6: -8932882810536603544
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_7: 1788103868914484289
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_8: -4952592115618053442
+      tileset_central_electrica_pokemon_by_kmario12_dh7f1fy-300w_9: 3645237097296247805
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

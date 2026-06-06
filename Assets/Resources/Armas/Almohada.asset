@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f94aa13fe80246d41ae7d39a7ecfd4d7, type: 3}
+  m_Name: Almohada
+  m_EditorClassIdentifier: Assembly-CSharp::ItemArma
+  posicionUI: {x: 482, y: 99}
+  rotacionUI: {x: 0, y: 0, z: 0}
+  escalaUI: {x: 1, y: 1, z: 1}
+  tamanoUI: {x: 197.0938, y: 143.047}
+  nombre: Almohada de Pijama
+  descripcion: "Suave, ergon\xF3mica y completamente in\xFAtil en un combate real.
+    Al menos huele a suavizante."
+  icono: {fileID: 6239165325430008407, guid: 0208bff3fcef70a46861c6b9d08758db, type: 3}
+  desbloqueada: 1
+  ataque: 3.4
+  velocidad: 7.7
+  rango: 2.7

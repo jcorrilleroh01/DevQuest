@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - SueloSeguro
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SUBSUELO
+    uniqueID: 1085410637
+    locked: 0
+  - name: ARBOLALANTE1
+    uniqueID: 2769699301
+    locked: 0
+  - name: RIO
+    uniqueID: 2403793935
+    locked: 0
+  - name: SOMBRA
+    uniqueID: 57246809
+    locked: 0
+  - name: SUELO
+    uniqueID: 4106636187
+    locked: 0
+  - name: PARED
+    uniqueID: 3042132643
+    locked: 0
+  - name: CAMINOS
+    uniqueID: 1737192111
+    locked: 0
+  - name: VALLAS
+    uniqueID: 14871445
+    locked: 0
+  - name: mesa
+    uniqueID: 1324898433
+    locked: 0
+  - name: EDIFICIOS
+    uniqueID: 1870755223
+    locked: 0
+  - name: OBJETOS
+    uniqueID: 3208083477
+    locked: 0
+  - name: PLAYER
+    uniqueID: 3074398039
+    locked: 0
+  - name: BRILLO
+    uniqueID: 1487182761
+    locked: 0
+  - name: TECHOS
+    uniqueID: 648380979
+    locked: 0
+  - name: MARCO
+    uniqueID: 3652131419
+    locked: 0
+  - name: CAMINOS
+    uniqueID: 2221475701
+    locked: 0
+  - name: UIFRONT
+    uniqueID: 3928174825
+    locked: 0
+  m_RenderingLayers:
+  - Default

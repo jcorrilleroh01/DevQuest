@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: ab622e7cbd0715e4a8fb242589940911
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4106122005625227337
+    second: rex_0
+  - first:
+      213: -5282296518590836507
+    second: rex_1
+  - first:
+      213: -3001747358400433566
+    second: rex_2
+  - first:
+      213: -2606771317995975508
+    second: rex_3
+  - first:
+      213: -7724807557031671370
+    second: rex_4
+  - first:
+      213: -6747621307156137351
+    second: rex_5
+  - first:
+      213: -2306025304344085936
+    second: rex_6
+  - first:
+      213: -300433339774795271
+    second: rex_7
+  - first:
+      213: -7869660876654003636
+    second: rex_8
+  - first:
+      213: -3360739006149446714
+    second: rex_9
+  - first:
+      213: 2222461517615184823
+    second: rex_10
+  - first:
+      213: -3412667642117705269
+    second: rex_11
+  - first:
+      213: -5796741102992173869
+    second: rex_12
+  - first:
+      213: 8995055510721834874
+    second: rex_13
+  - first:
+      213: 8768307899686228660
+    second: rex_14
+  - first:
+      213: -19255984593082683
+    second: rex_15
+  - first:
+      213: 1927488360168368710
+    second: rex_16
+  - first:
+      213: -7310479138997463946
+    second: rex_17
+  - first:
+      213: 1006355347818100903
+    second: rex_18
+  - first:
+      213: 2951186450065373230
+    second: rex_19
+  - first:
+      213: -947844007778762505
+    second: rex_20
+  - first:
+      213: 4401278973421206827
+    second: rex_21
+  - first:
+      213: 6698802870449443009
+    second: rex_22
+  - first:
+      213: 2379772246090718496
+    second: rex_23
+  - first:
+      213: -7126861763903233773
+    second: rex_24
+  - first:
+      213: -2855755422905181956
+    second: rex_25
+  - first:
+      213: 5021583274035042503
+    second: rex_26
+  - first:
+      213: 8370037904380105405
+    second: rex_27
+  - first:
+      213: 412817401165855237
+    second: rex_28
+  - first:
+      213: -2986029337014749785
+    second: rex_29
+  - first:
+      213: 8190908908687822710
+    second: rex_30
+  - first:
+      213: 6815780669362310996
+    second: rex_31
+  - first:
+      213: -533330197154012092
+    second: rex_32
+  - first:
+      213: 7701496787424776456
+    second: rex_33
+  - first:
+      213: -3424730860123328006
+    second: rex_34
+  - first:
+      213: -7418753672013202327
+    second: rex_35
+  - first:
+      213: -7619899042340492279
+    second: rex_36
+  - first:
+      213: 4727002358008012248
+    second: rex_37
+  - first:
+      213: -6376352538297042051
+    second: rex_38
+  - first:
+      213: -3586240059243771405
+    second: rex_39
+  - first:
+      213: 3146878013203872406
+    second: rex_40
+  - first:
+      213: 4642469954808205362
+    second: rex_41
+  - first:
+      213: 1357159700790468372
+    second: rex_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rex_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948c4bd7530ebf830800000000000000
+      internalID: 4106122005625227337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 538
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e05c1b9d4381b6b0800000000000000
+      internalID: -5282296518590836507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 482
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26233157ea6a756d0800000000000000
+      internalID: -3001747358400433566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 482
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac4c2c2c43e2dbd0800000000000000
+      internalID: -2606771317995975508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 482
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9cfd46478fbc490800000000000000
+      internalID: -7724807557031671370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 482
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97af91ceb22ab52a0800000000000000
+      internalID: -6747621307156137351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 482
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a328b143a5fffd0800000000000000
+      internalID: -2306025304344085936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 482
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f10a002875a4dbf0800000000000000
+      internalID: -300433339774795271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4abf30c02959c290800000000000000
+      internalID: -7869660876654003636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 412
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3b9ab0ea14c51d0800000000000000
+      internalID: -3360739006149446714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbbd64a9f4c7de10800000000000000
+      internalID: 2222461517615184823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 358
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1ba1f4cd4c3a0d0800000000000000
+      internalID: -3412667642117705269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_12
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 357
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4de35eda6dd8fa0800000000000000
+      internalID: -5796741102992173869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fae73445bd4dc70800000000000000
+      internalID: 8995055510721834874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 298
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b29c0a04994fa970800000000000000
+      internalID: 8768307899686228660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 298
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c66786b8c69bbff0800000000000000
+      internalID: -19255984593082683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 298
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a29888370dfba10800000000000000
+      internalID: 1927488360168368710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6741726a4f5fb8a90800000000000000
+      internalID: -7310479138997463946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a833806bda47fd00800000000000000
+      internalID: 1006355347818100903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 196
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28b716b078b4f820800000000000000
+      internalID: 2951186450065373230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 245
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f04dd595e498d2f0800000000000000
+      internalID: -947844007778762505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 245
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dba2848eb741d30800000000000000
+      internalID: 4401278973421206827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 196
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0918908bde6fc50800000000000000
+      internalID: 6698802870449443009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 245
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d129ecf36a60120800000000000000
+      internalID: 2379772246090718496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 196
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311eb374cfc481d90800000000000000
+      internalID: -7126861763903233773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf85754c2915e58d0800000000000000
+      internalID: -2855755422905181956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 148
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8d6ead16f30b540800000000000000
+      internalID: 5021583274035042503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_27
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 148
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2912fa029582470800000000000000
+      internalID: 8370037904380105405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 100
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a37993d3f9ab500800000000000000
+      internalID: 412817401165855237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_29
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 148
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5375e732e7f86d0800000000000000
+      internalID: -2986029337014749785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 148
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f8be15144fba170800000000000000
+      internalID: 8190908908687822710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f80504864869e50800000000000000
+      internalID: 6815780669362310996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44465aae20b3998f0800000000000000
+      internalID: -533330197154012092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 49
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801144d168631ea60800000000000000
+      internalID: 7701496787424776456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_34
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1f70f7d69e870d0800000000000000
+      internalID: -3424730860123328006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_35
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 49
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c378f67da4b0990800000000000000
+      internalID: -7418753672013202327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_36
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ca4f4613ea04690800000000000000
+      internalID: -7619899042340492279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 49
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd5081999fa99140800000000000000
+      internalID: 4727002358008012248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_38
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bf4285625a287a0800000000000000
+      internalID: -6376352538297042051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_39
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 49
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9cf75baad1b3ec0800000000000000
+      internalID: -3586240059243771405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_40
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 50
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69af08051e4fbab20800000000000000
+      internalID: 3146878013203872406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_41
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23054c8b3dd5d6040800000000000000
+      internalID: 4642469954808205362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f571dae8995d210800000000000000
+      internalID: 1357159700790468372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_43
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 539
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10874c6e1daa57b45940419059afdb96
+      internalID: 475889648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_44
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 541
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbeddc0bed2b754a87424b3179105e9
+      internalID: 844240376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_45
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 541
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4b7e28ba21256429c6d8aa10dd753f
+      internalID: 274763267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_46
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 412
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb92efd802fc604479a701f49f8e6840
+      internalID: -1205793450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_47
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 413
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d2c798cd1e89647ae18e043a134826
+      internalID: -8718021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_48
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 413
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bab9effa4569c42bb21e4ec8076006
+      internalID: -1204258151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_49
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 413
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53a41c2b41405945a56effb0399a382
+      internalID: -926759971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_50
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 357
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c143469130e0340bb90be16630063e
+      internalID: 797709262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_51
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 360
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5003c1a3cb387234b8dd6661c2484d8a
+      internalID: -1351380218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_52
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 357
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1e1eee2b646df408d14ec97144ad14
+      internalID: -849064668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 102
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6f94cb289d9e94bbe91066af66c575
+      internalID: 224628037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_54
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 102
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b533434a4021b9f43870e52de0ccfcb2
+      internalID: -277962078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rex_55
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 100
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd025281675e854eacb6a604a763241
+      internalID: -1232949258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 17df0b4eb0a2c82429e7949927f17f00
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rex_0: 4106122005625227337
+      rex_1: -5282296518590836507
+      rex_10: 2222461517615184823
+      rex_11: -3412667642117705269
+      rex_12: -5796741102992173869
+      rex_13: 8995055510721834874
+      rex_14: 8768307899686228660
+      rex_15: -19255984593082683
+      rex_16: 1927488360168368710
+      rex_17: -7310479138997463946
+      rex_18: 1006355347818100903
+      rex_19: 2951186450065373230
+      rex_2: -3001747358400433566
+      rex_20: -947844007778762505
+      rex_21: 4401278973421206827
+      rex_22: 6698802870449443009
+      rex_23: 2379772246090718496
+      rex_24: -7126861763903233773
+      rex_25: -2855755422905181956
+      rex_26: 5021583274035042503
+      rex_27: 8370037904380105405
+      rex_28: 412817401165855237
+      rex_29: -2986029337014749785
+      rex_3: -2606771317995975508
+      rex_30: 8190908908687822710
+      rex_31: 6815780669362310996
+      rex_32: -533330197154012092
+      rex_33: 7701496787424776456
+      rex_34: -3424730860123328006
+      rex_35: -7418753672013202327
+      rex_36: -7619899042340492279
+      rex_37: 4727002358008012248
+      rex_38: -6376352538297042051
+      rex_39: -3586240059243771405
+      rex_4: -7724807557031671370
+      rex_40: 3146878013203872406
+      rex_41: 4642469954808205362
+      rex_42: 1357159700790468372
+      rex_43: 475889648
+      rex_44: 844240376
+      rex_45: 274763267
+      rex_46: -1205793450
+      rex_47: -8718021
+      rex_48: -1204258151
+      rex_49: -926759971
+      rex_5: -6747621307156137351
+      rex_50: 797709262
+      rex_51: -1351380218
+      rex_52: -849064668
+      rex_53: 224628037
+      rex_54: -277962078
+      rex_55: -1232949258
+      rex_6: -2306025304344085936
+      rex_7: -300433339774795271
+      rex_8: -7869660876654003636
+      rex_9: -3360739006149446714
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

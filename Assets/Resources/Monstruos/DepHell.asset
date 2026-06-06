@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a012d255da9f11449a5a4d27e02b4111, type: 3}
+  m_Name: DepHell
+  m_EditorClassIdentifier: Assembly-CSharp::MonstruoBase
+  nombre: DepHell
+  tipo: Espectro de Red
+  debilidad: Demonio de Rendimiento
+  descubierto: 0
+  descripcion: Un espectro confuso formado por una red inestable de dependencias
+    de paquetes en conflicto
+  lore: "Naci\xF3 de un proyecto de segundo a\xF1o donde un alumno intent\xF3 mezclar
+    versiones de Bootstrap, React y Angular. DepHell no tiene una forma fija,te enreda
+    en sus hilos de red, robando tu rendimiento."
+  spriteFrontal: {fileID: -69484874355628554, guid: 3b5874355e9f2cd4080884e3967c0f3e, type: 3}
+  vidaMax: 30
+  ataque: 30
+  defensa: 12
+  listaAtaques:
+  - {fileID: 11400000, guid: a6b398bd1ed30964ba38693535da933f, type: 2}
+  - {fileID: 11400000, guid: 15754c2bd60ca874a9f9066b187cd9d2, type: 2}

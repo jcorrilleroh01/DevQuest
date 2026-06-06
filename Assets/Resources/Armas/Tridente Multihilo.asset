@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f94aa13fe80246d41ae7d39a7ecfd4d7, type: 3}
+  m_Name: Tridente Multihilo
+  m_EditorClassIdentifier: Assembly-CSharp::ItemArma
+  posicionUI: {x: 472.7375, y: 61.9}
+  rotacionUI: {x: 0, y: 0, z: 0}
+  escalaUI: {x: 1, y: 1, z: 1}
+  tamanoUI: {x: 274.557, y: 198.96}
+  nombre: Tridente Multihilo
+  descripcion: "Un tridente t\xE1ctico forjado en las lecciones de Procesos y Servicios.
+    Sus tres puntas act\xFAan como hilos (threads) paralelos. Cada vez que atacas,
+    el arma ejecuta un fork() en el sistema, bifurcando el golpe para impactar m\xFAltiples
+    veces de forma concurrente sin bloquear tu hilo principal."
+  icono: {fileID: -5396631408629250201, guid: cd1abde5e67db0048ad84aa794d97bc4, type: 3}
+  desbloqueada: 0
+  ataque: 60.5
+  velocidad: 18.6
+  rango: 51.5

@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 629f4962b7e05aa4d82137e4365c989b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2884737931229534572
+    second: Spider-Man - Far From Home Character Set_0
+  - first:
+      213: -3578215112795946083
+    second: Spider-Man - Far From Home Character Set_1
+  - first:
+      213: 6351682088061999339
+    second: Spider-Man - Far From Home Character Set_2
+  - first:
+      213: -7403236085360436472
+    second: Spider-Man - Far From Home Character Set_3
+  - first:
+      213: 3941819302916774313
+    second: Spider-Man - Far From Home Character Set_4
+  - first:
+      213: 4363910130294004582
+    second: Spider-Man - Far From Home Character Set_5
+  - first:
+      213: -2868136586952576730
+    second: Spider-Man - Far From Home Character Set_6
+  - first:
+      213: -2983245070569407513
+    second: Spider-Man - Far From Home Character Set_7
+  - first:
+      213: 8327853056691568869
+    second: Spider-Man - Far From Home Character Set_8
+  - first:
+      213: 1231417788709993137
+    second: Spider-Man - Far From Home Character Set_9
+  - first:
+      213: -3716695014260678745
+    second: Spider-Man - Far From Home Character Set_10
+  - first:
+      213: 7746131084435779194
+    second: Spider-Man - Far From Home Character Set_11
+  - first:
+      213: 5290656759150632418
+    second: Spider-Man - Far From Home Character Set_12
+  - first:
+      213: 5526464230359884643
+    second: Spider-Man - Far From Home Character Set_13
+  - first:
+      213: -2614284100447564271
+    second: Spider-Man - Far From Home Character Set_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 7
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spider-Man - Far From Home Character Set_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69180d4dd5a80820800000000000000
+      internalID: 2884737931229534572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man - Far From Home Character Set_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 143
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d930dd72050a75ec0800000000000000
+      internalID: -3578215112795946083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man - Far From Home Character Set_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 143
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be89529d435b52850800000000000000
+      internalID: 6351682088061999339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man - Far From Home Character Set_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 144
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bdcbf110c624990800000000000000
+      internalID: -7403236085360436472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man - Far From Home Character Set_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 144
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9d12775c724b630800000000000000
+      internalID: 3941819302916774313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man - Far From Home Character Set_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 144
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b17eb7429bf8c30800000000000000
+      internalID: 4363910130294004582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man - Far From Home Character Set_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 95
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621f36f58f45238d0800000000000000
+      internalID: -2868136586952576730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man - Far From Home Character Set_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 95
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb76ca0a626996d0800000000000000
+      internalID: -2983245070569407513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man - Far From Home Character Set_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 95
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e080c17b3a729370800000000000000
+      internalID: 8327853056691568869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man - Far From Home Character Set_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 47
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baf72a54ffd61110800000000000000
+      internalID: 1231417788709993137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man - Far From Home Character Set_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 47
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afd6809395ab6cc0800000000000000
+      internalID: -3716695014260678745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man - Far From Home Character Set_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 47
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ee7673e29cf7b60800000000000000
+      internalID: 7746131084435779194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man - Far From Home Character Set_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed51b59a403c6940800000000000000
+      internalID: 5290656759150632418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man - Far From Home Character Set_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363e082efe1f1bc40800000000000000
+      internalID: 5526464230359884643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man - Far From Home Character Set_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e0fd2367238bbd0800000000000000
+      internalID: -2614284100447564271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spider-Man - Far From Home Character Set_0: 2884737931229534572
+      Spider-Man - Far From Home Character Set_1: -3578215112795946083
+      Spider-Man - Far From Home Character Set_10: -3716695014260678745
+      Spider-Man - Far From Home Character Set_11: 7746131084435779194
+      Spider-Man - Far From Home Character Set_12: 5290656759150632418
+      Spider-Man - Far From Home Character Set_13: 5526464230359884643
+      Spider-Man - Far From Home Character Set_14: -2614284100447564271
+      Spider-Man - Far From Home Character Set_2: 6351682088061999339
+      Spider-Man - Far From Home Character Set_3: -7403236085360436472
+      Spider-Man - Far From Home Character Set_4: 3941819302916774313
+      Spider-Man - Far From Home Character Set_5: 4363910130294004582
+      Spider-Man - Far From Home Character Set_6: -2868136586952576730
+      Spider-Man - Far From Home Character Set_7: -2983245070569407513
+      Spider-Man - Far From Home Character Set_8: 8327853056691568869
+      Spider-Man - Far From Home Character Set_9: 1231417788709993137
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

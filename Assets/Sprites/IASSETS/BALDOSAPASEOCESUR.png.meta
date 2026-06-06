@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 85a539a0c6ae72445a44d36909e09438
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4364542525103960420
+    second: BALDOSAPASEOCESUR_0
+  - first:
+      213: 2476278242782112300
+    second: BALDOSAPASEOCESUR_1
+  - first:
+      213: 5994058568375645404
+    second: BALDOSAPASEOCESUR_2
+  - first:
+      213: -2160933375064560899
+    second: BALDOSAPASEOCESUR_3
+  - first:
+      213: 5729884256221303479
+    second: BALDOSAPASEOCESUR_4
+  - first:
+      213: -8379921382040387405
+    second: BALDOSAPASEOCESUR_5
+  - first:
+      213: 9180592904989726296
+    second: BALDOSAPASEOCESUR_6
+  - first:
+      213: 3859529085072174228
+    second: BALDOSAPASEOCESUR_7
+  - first:
+      213: -6983165507840865380
+    second: BALDOSAPASEOCESUR_8
+  - first:
+      213: 1495532181747061009
+    second: BALDOSAPASEOCESUR_9
+  - first:
+      213: 6168706403301135194
+    second: BALDOSAPASEOCESUR_10
+  - first:
+      213: 2785505648565033290
+    second: BALDOSAPASEOCESUR_11
+  - first:
+      213: 4645880284062246236
+    second: BALDOSAPASEOCESUR_12
+  - first:
+      213: 6877655338664824921
+    second: BALDOSAPASEOCESUR_13
+  - first:
+      213: 2696549494302845927
+    second: BALDOSAPASEOCESUR_14
+  - first:
+      213: 5575685823024789118
+    second: BALDOSAPASEOCESUR_15
+  - first:
+      213: 2235361096413692215
+    second: BALDOSAPASEOCESUR_16
+  - first:
+      213: -8519003877212427780
+    second: BALDOSAPASEOCESUR_17
+  - first:
+      213: 7867044984078287693
+    second: BALDOSAPASEOCESUR_18
+  - first:
+      213: 1519849064277159666
+    second: BALDOSAPASEOCESUR_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 456
+        width: 106
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46178ef5d48f19c30800000000000000
+      internalID: 4364542525103960420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 458
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a6e0221f18d5220800000000000000
+      internalID: 2476278242782112300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 459
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4bae2928c2f2350800000000000000
+      internalID: 5994058568375645404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_3
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 459
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaadf36b82d202e0800000000000000
+      internalID: -2160933375064560899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 344
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b29c207f53a48f40800000000000000
+      internalID: 5729884256221303479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 341
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b048c9d6e984bb80800000000000000
+      internalID: -8379921382040387405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_6
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 341
+        width: 106
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85652613b94086f70800000000000000
+      internalID: 9180592904989726296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_7
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 341
+        width: 107
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ce304114dcf8530800000000000000
+      internalID: 3859529085072174228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 225
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b826118ffc61f90800000000000000
+      internalID: -6983165507840865380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 225
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111d23b789231c410800000000000000
+      internalID: 1495532181747061009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_10
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 225
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5311746ac5ab9550800000000000000
+      internalID: 6168706403301135194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_11
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 225
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49109e01aa18a620800000000000000
+      internalID: 2785505648565033290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 114
+        width: 123
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c556580e08b797040800000000000000
+      internalID: 4645880284062246236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_13
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 114
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9509fa45717527f50800000000000000
+      internalID: 6877655338664824921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 114
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb2e276a711c6520800000000000000
+      internalID: 2696549494302845927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_15
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 114
+        width: 124
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76f29cf6b0d06d40800000000000000
+      internalID: 5575685823024789118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3
+        width: 123
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7314770e219950f10800000000000000
+      internalID: 2235361096413692215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 3
+        width: 107
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9e39afb1b66c980800000000000000
+      internalID: -8519003877212427780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_18
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 3
+        width: 107
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43410c4bbb5d2d60800000000000000
+      internalID: 7867044984078287693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BALDOSAPASEOCESUR_19
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 3
+        width: 124
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe2374eba6971510800000000000000
+      internalID: 1519849064277159666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6fe5fa0dd1529b3498d823cdb2ee9bc0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BALDOSAPASEOCESUR_0: 4364542525103960420
+      BALDOSAPASEOCESUR_1: 2476278242782112300
+      BALDOSAPASEOCESUR_10: 6168706403301135194
+      BALDOSAPASEOCESUR_11: 2785505648565033290
+      BALDOSAPASEOCESUR_12: 4645880284062246236
+      BALDOSAPASEOCESUR_13: 6877655338664824921
+      BALDOSAPASEOCESUR_14: 2696549494302845927
+      BALDOSAPASEOCESUR_15: 5575685823024789118
+      BALDOSAPASEOCESUR_16: 2235361096413692215
+      BALDOSAPASEOCESUR_17: -8519003877212427780
+      BALDOSAPASEOCESUR_18: 7867044984078287693
+      BALDOSAPASEOCESUR_19: 1519849064277159666
+      BALDOSAPASEOCESUR_2: 5994058568375645404
+      BALDOSAPASEOCESUR_3: -2160933375064560899
+      BALDOSAPASEOCESUR_4: 5729884256221303479
+      BALDOSAPASEOCESUR_5: -8379921382040387405
+      BALDOSAPASEOCESUR_6: 9180592904989726296
+      BALDOSAPASEOCESUR_7: 3859529085072174228
+      BALDOSAPASEOCESUR_8: -6983165507840865380
+      BALDOSAPASEOCESUR_9: 1495532181747061009
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

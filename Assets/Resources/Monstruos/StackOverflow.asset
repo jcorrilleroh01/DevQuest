@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a012d255da9f11449a5a4d27e02b4111, type: 3}
+  m_Name: StackOverflow
+  m_EditorClassIdentifier: Assembly-CSharp::MonstruoBase
+  nombre: StackOverflow
+  tipo: "Anomal\xEDa L\xF3gica"
+  debilidad: Bestia de Sintaxis
+  descubierto: 0
+  descripcion: Una torre inestable de procesos apilados a punto de derrumbarse.
+  lore: "Llam\xF3 a una funci\xF3n que se llam\xF3 a s\xED misma... para siempre.
+    Una estructura tr\xE1gica atrapada en la eternidad."
+  spriteFrontal: {fileID: -8084173116391918963, guid: a2018794dd8b84945a1ffcf915a06472, type: 3}
+  vidaMax: 60
+  ataque: 40
+  defensa: 60
+  listaAtaques:
+  - {fileID: 11400000, guid: ed6f876d010208f47a4493a1de4060fd, type: 2}
+  - {fileID: 11400000, guid: 2c9700cae54ad274a98e7281ab098348, type: 2}

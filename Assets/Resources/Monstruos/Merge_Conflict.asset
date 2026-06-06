@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a012d255da9f11449a5a4d27e02b4111, type: 3}
+  m_Name: Merge_Conflict
+  m_EditorClassIdentifier: Assembly-CSharp::MonstruoBase
+  nombre: Merge_Conflict
+  tipo: Espectro de Red
+  debilidad: Demonio de Rendimiento
+  descubierto: 0
+  descripcion: "Una quimera digital dividida a la mitad. Sus dos mitades luchan por
+    el control del c\xF3digo."
+  lore: "Nacido cuando dos alumnos intentaron subir su parte del proyecto a la rama
+    Main el d\xEDa antes de la entrega sin hacer un pull previo."
+  spriteFrontal: {fileID: 6193341505254127097, guid: c278d88c515ed33409df6e88aaf00e98, type: 3}
+  vidaMax: 85
+  ataque: 90
+  defensa: 50
+  listaAtaques:
+  - {fileID: 11400000, guid: d10355d3474e3954f86adc47db5919b8, type: 2}
+  - {fileID: 11400000, guid: dd96c217769e8694bbdafc31de04f28a, type: 2}

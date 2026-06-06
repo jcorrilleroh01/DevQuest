@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: d61b1b349e08385429c9ba07142e5c98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1331013141861827344
+    second: Spider-Gwen SV Battler_0
+  - first:
+      213: 3782296551949132485
+    second: Spider-Gwen SV Battler_1
+  - first:
+      213: -2911476948381995158
+    second: Spider-Gwen SV Battler_2
+  - first:
+      213: 6152734209786944042
+    second: Spider-Gwen SV Battler_3
+  - first:
+      213: 9205776422742690533
+    second: Spider-Gwen SV Battler_4
+  - first:
+      213: -7043445256289333211
+    second: Spider-Gwen SV Battler_5
+  - first:
+      213: 774870511351422442
+    second: Spider-Gwen SV Battler_6
+  - first:
+      213: 4064450189183267078
+    second: Spider-Gwen SV Battler_7
+  - first:
+      213: 8602756407826998133
+    second: Spider-Gwen SV Battler_8
+  - first:
+      213: 5795374141946109722
+    second: Spider-Gwen SV Battler_9
+  - first:
+      213: -5679486846753843169
+    second: Spider-Gwen SV Battler_10
+  - first:
+      213: 4489133084204378361
+    second: Spider-Gwen SV Battler_11
+  - first:
+      213: -4437950900575082861
+    second: Spider-Gwen SV Battler_12
+  - first:
+      213: -1510281919642495876
+    second: Spider-Gwen SV Battler_13
+  - first:
+      213: -7571049402758814683
+    second: Spider-Gwen SV Battler_14
+  - first:
+      213: 6672730263015078464
+    second: Spider-Gwen SV Battler_15
+  - first:
+      213: -7100446349014131757
+    second: Spider-Gwen SV Battler_16
+  - first:
+      213: -251817326074329619
+    second: Spider-Gwen SV Battler_17
+  - first:
+      213: -5149108526063386604
+    second: Spider-Gwen SV Battler_18
+  - first:
+      213: 7905439140954663030
+    second: Spider-Gwen SV Battler_19
+  - first:
+      213: 4726665458325447748
+    second: Spider-Gwen SV Battler_20
+  - first:
+      213: 3434428242291077279
+    second: Spider-Gwen SV Battler_21
+  - first:
+      213: 8508777320603834120
+    second: Spider-Gwen SV Battler_22
+  - first:
+      213: 1029277114633908310
+    second: Spider-Gwen SV Battler_23
+  - first:
+      213: -6516079645518068941
+    second: Spider-Gwen SV Battler_24
+  - first:
+      213: -8288880664743803896
+    second: Spider-Gwen SV Battler_25
+  - first:
+      213: 4358524196529297091
+    second: Spider-Gwen SV Battler_26
+  - first:
+      213: -6882056407132808135
+    second: Spider-Gwen SV Battler_27
+  - first:
+      213: -8415158352117422297
+    second: Spider-Gwen SV Battler_28
+  - first:
+      213: -5644829608304804886
+    second: Spider-Gwen SV Battler_29
+  - first:
+      213: -2908710861452176969
+    second: Spider-Gwen SV Battler_30
+  - first:
+      213: 2672316918101135774
+    second: Spider-Gwen SV Battler_31
+  - first:
+      213: -4865631672032589954
+    second: Spider-Gwen SV Battler_32
+  - first:
+      213: -2426875402635462268
+    second: Spider-Gwen SV Battler_33
+  - first:
+      213: 9174780541897247732
+    second: Spider-Gwen SV Battler_34
+  - first:
+      213: 4955509919592298278
+    second: Spider-Gwen SV Battler_35
+  - first:
+      213: 4439422050262542277
+    second: Spider-Gwen SV Battler_36
+  - first:
+      213: 3230234786285912953
+    second: Spider-Gwen SV Battler_37
+  - first:
+      213: -6070927347800040699
+    second: Spider-Gwen SV Battler_38
+  - first:
+      213: -6252309862597496921
+    second: Spider-Gwen SV Battler_39
+  - first:
+      213: 6379291893831682901
+    second: Spider-Gwen SV Battler_40
+  - first:
+      213: 7876198588093784041
+    second: Spider-Gwen SV Battler_41
+  - first:
+      213: 2484599520938777584
+    second: Spider-Gwen SV Battler_42
+  - first:
+      213: 1854814193154694676
+    second: Spider-Gwen SV Battler_43
+  - first:
+      213: 1584842003793365607
+    second: Spider-Gwen SV Battler_44
+  - first:
+      213: 2920363260199095422
+    second: Spider-Gwen SV Battler_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 191
+        width: 44
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcf2f7799a478de0800000000000000
+      internalID: -1331013141861827344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 319
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2ec1eacaa6d7430800000000000000
+      internalID: 3782296551949132485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 191
+        width: 44
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fe3ff142b5897d0800000000000000
+      internalID: -2911476948381995158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 319
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a9ebb4a27e26550800000000000000
+      internalID: 6152734209786944042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 191
+        width: 44
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea8e37d1ec71cf70800000000000000
+      internalID: 9205776422742690533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 319
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520d6ff6bd7a04e90800000000000000
+      internalID: -7043445256289333211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 319
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedd608ef94e0ca00800000000000000
+      internalID: 774870511351422442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 255
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601b985a9e3d76830800000000000000
+      internalID: 4064450189183267078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 319
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5736eb1af51236770800000000000000
+      internalID: 8602756407826998133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 319
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f9e2fa31e4d6050800000000000000
+      internalID: 5795374141946109722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_10
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 255
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18dbb8ddc86e21b0800000000000000
+      internalID: -5679486846753843169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_11
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 319
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8a47171ca9c4e30800000000000000
+      internalID: 4489133084204378361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_12
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 255
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396e8905b2b3962c0800000000000000
+      internalID: -4437950900575082861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_13
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 319
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74930d88966a0be0800000000000000
+      internalID: -1510281919642495876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 255
+        width: 53
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524a0ab6eaa3ee690800000000000000
+      internalID: -7571049402758814683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 191
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a330112dc4a9c50800000000000000
+      internalID: 6672730263015078464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_16
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db1b445aa5267d90800000000000000
+      internalID: -7100446349014131757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 127
+        width: 47
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de50d03e97d518cf0800000000000000
+      internalID: -251817326074329619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 255
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4108e02a311ba88b0800000000000000
+      internalID: -5149108526063386604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 127
+        width: 47
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678621e8303c5bd60800000000000000
+      internalID: 7905439140954663030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 127
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444e89ff03d789140800000000000000
+      internalID: 4726665458325447748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 127
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90345c3a4a89af20800000000000000
+      internalID: 3434428242291077279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 127
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807dd7344ef351670800000000000000
+      internalID: 8508777320603834120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_23
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 127
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6507139151ab84e00800000000000000
+      internalID: 1029277114633908310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_24
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 191
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3330eb8061c3295a0800000000000000
+      internalID: -6516079645518068941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_25
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 191
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8048758a3faf7fc80800000000000000
+      internalID: -8288880664743803896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_26
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 191
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6d21f0aa69c7c30800000000000000
+      internalID: 4358524196529297091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cd5a019260e70a0800000000000000
+      internalID: -6882056407132808135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 63
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727216d601a573b80800000000000000
+      internalID: -8415158352117422297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_29
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 63
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb726bf06989a1b0800000000000000
+      internalID: -5644829608304804886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 63
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b192dce1ee22a7d0800000000000000
+      internalID: -2908710861452176969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 56
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e915fa6141af51520800000000000000
+      internalID: 2672316918101135774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_32
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 56
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e778b9406cdc97cb0800000000000000
+      internalID: -4865631672032589954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_33
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 127
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489b7cfeda1025ed0800000000000000
+      internalID: -2426875402635462268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_34
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 127
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb83f3fa4e535f70800000000000000
+      internalID: 9174780541897247732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_35
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 127
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6273936340285c440800000000000000
+      internalID: 4955509919592298278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c76fe965defb9d30800000000000000
+      internalID: 4439422050262542277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9738ea17c6914dc20800000000000000
+      internalID: 3230234786285912953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b9c290ebbbfbba0800000000000000
+      internalID: -6070927347800040699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_39
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af643e5e455b39a0800000000000000
+      internalID: -6252309862597496921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_40
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 63
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bcd52bd2cc78850800000000000000
+      internalID: 6379291893831682901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_41
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 63
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef53cfc2e0ed4d60800000000000000
+      internalID: 7876198588093784041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_42
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 63
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb59aea9121b7220800000000000000
+      internalID: 2484599520938777584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_43
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e96537eaf9db910800000000000000
+      internalID: 1854814193154694676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_44
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ac835d76d7ef510800000000000000
+      internalID: 1584842003793365607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Gwen SV Battler_45
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cc44399e6378820800000000000000
+      internalID: 2920363260199095422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spider-Gwen SV Battler_0: -1331013141861827344
+      Spider-Gwen SV Battler_1: 3782296551949132485
+      Spider-Gwen SV Battler_10: -5679486846753843169
+      Spider-Gwen SV Battler_11: 4489133084204378361
+      Spider-Gwen SV Battler_12: -4437950900575082861
+      Spider-Gwen SV Battler_13: -1510281919642495876
+      Spider-Gwen SV Battler_14: -7571049402758814683
+      Spider-Gwen SV Battler_15: 6672730263015078464
+      Spider-Gwen SV Battler_16: -7100446349014131757
+      Spider-Gwen SV Battler_17: -251817326074329619
+      Spider-Gwen SV Battler_18: -5149108526063386604
+      Spider-Gwen SV Battler_19: 7905439140954663030
+      Spider-Gwen SV Battler_2: -2911476948381995158
+      Spider-Gwen SV Battler_20: 4726665458325447748
+      Spider-Gwen SV Battler_21: 3434428242291077279
+      Spider-Gwen SV Battler_22: 8508777320603834120
+      Spider-Gwen SV Battler_23: 1029277114633908310
+      Spider-Gwen SV Battler_24: -6516079645518068941
+      Spider-Gwen SV Battler_25: -8288880664743803896
+      Spider-Gwen SV Battler_26: 4358524196529297091
+      Spider-Gwen SV Battler_27: -6882056407132808135
+      Spider-Gwen SV Battler_28: -8415158352117422297
+      Spider-Gwen SV Battler_29: -5644829608304804886
+      Spider-Gwen SV Battler_3: 6152734209786944042
+      Spider-Gwen SV Battler_30: -2908710861452176969
+      Spider-Gwen SV Battler_31: 2672316918101135774
+      Spider-Gwen SV Battler_32: -4865631672032589954
+      Spider-Gwen SV Battler_33: -2426875402635462268
+      Spider-Gwen SV Battler_34: 9174780541897247732
+      Spider-Gwen SV Battler_35: 4955509919592298278
+      Spider-Gwen SV Battler_36: 4439422050262542277
+      Spider-Gwen SV Battler_37: 3230234786285912953
+      Spider-Gwen SV Battler_38: -6070927347800040699
+      Spider-Gwen SV Battler_39: -6252309862597496921
+      Spider-Gwen SV Battler_4: 9205776422742690533
+      Spider-Gwen SV Battler_40: 6379291893831682901
+      Spider-Gwen SV Battler_41: 7876198588093784041
+      Spider-Gwen SV Battler_42: 2484599520938777584
+      Spider-Gwen SV Battler_43: 1854814193154694676
+      Spider-Gwen SV Battler_44: 1584842003793365607
+      Spider-Gwen SV Battler_45: 2920363260199095422
+      Spider-Gwen SV Battler_5: -7043445256289333211
+      Spider-Gwen SV Battler_6: 774870511351422442
+      Spider-Gwen SV Battler_7: 4064450189183267078
+      Spider-Gwen SV Battler_8: 8602756407826998133
+      Spider-Gwen SV Battler_9: 5795374141946109722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

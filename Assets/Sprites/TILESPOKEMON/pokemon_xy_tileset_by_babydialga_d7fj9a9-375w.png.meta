@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: 3c28c9d64208f7f49ab5161939de555e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 568558797883058638
+    second: pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_0
+  - first:
+      213: 7597024281544615330
+    second: pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_1
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec92ebdd63de3e700800000000000000
+      internalID: 568558797883058638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 187
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5eb73555d0e6960800000000000000
+      internalID: 7597024281544615330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 187
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ef4c4fe045f8b4280a06611ee3adfa
+      internalID: -909540433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 224
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5051473, y: 0.49999958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c70ccfd6924b8746b2a7f0315ba1185
+      internalID: -6569165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca6a078a0ddab740959143bdb31e590
+      internalID: -269252207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3961e1d131a5f44a2e88684ac7fbc8
+      internalID: 1269338153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 205
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5cabd16048ba24ba509c654f3f1618
+      internalID: -1124332364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 170
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c95dbe13a823945a2e12a760f87143
+      internalID: 1912366833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 170
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dda36d2a3ac23b43803235388b1a5da
+      internalID: -789766128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 168
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547a179f3efdc4842a73242148ab4d3c
+      internalID: 1397721212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2d62c24a7a26408408cb920e6e776183
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_0: 568558797883058638
+      pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_1: 7597024281544615330
+      pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_2: -909540433
+      pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_3: -6569165
+      pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_4: -269252207
+      pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_5: 1269338153
+      pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_6: -1124332364
+      pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_7: 1912366833
+      pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_8: -789766128
+      pokemon_xy_tileset_by_babydialga_d7fj9a9-375w_9: 1397721212
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a012d255da9f11449a5a4d27e02b4111, type: 3}
+  m_Name: Legacy.sql
+  m_EditorClassIdentifier: Assembly-CSharp::MonstruoBase
+  nombre: Legacy.sql
+  tipo: Demonio de Rendimiento
+  debilidad: "Anomal\xEDa L\xF3gica"
+  descubierto: 0
+  descripcion: Un golem ancestral formado por tablas sin indexar y registros de 1998.
+  lore: "Un monstruo que habita en los s\xF3tanos de la educaci\xF3n p\xFAblica.
+    Su c\xF3digo base es tan antiguo que nadie sabe ya c\xF3mo funciona."
+  spriteFrontal: {fileID: 3072170238555234141, guid: 1a06812162cd96d48a1af799204980c3, type: 3}
+  vidaMax: 90
+  ataque: 70
+  defensa: 60
+  listaAtaques:
+  - {fileID: 11400000, guid: 756c54f98d60ce24390e37cde90e4bde, type: 2}
+  - {fileID: 11400000, guid: 3b25a01b3152b7b49a42bd2050e5b226, type: 2}

@@ -1,0 +1,2857 @@
+fileFormatVersion: 2
+guid: 11a64a6c463b31c46bf0d7d711114ae7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7216851409631288587
+    second: TILSETAGORADENTRO_0
+  - first:
+      213: 632815371694779605
+    second: TILSETAGORADENTRO_1
+  - first:
+      213: 6377705995767738502
+    second: TILSETAGORADENTRO_2
+  - first:
+      213: -8395747800722390829
+    second: TILSETAGORADENTRO_3
+  - first:
+      213: 4674252570311001651
+    second: TILSETAGORADENTRO_4
+  - first:
+      213: 8736262294702065402
+    second: TILSETAGORADENTRO_5
+  - first:
+      213: 3107588735278883544
+    second: TILSETAGORADENTRO_6
+  - first:
+      213: -537571575565312691
+    second: TILSETAGORADENTRO_7
+  - first:
+      213: 2484752966481436728
+    second: TILSETAGORADENTRO_8
+  - first:
+      213: 5530823863761232193
+    second: TILSETAGORADENTRO_9
+  - first:
+      213: -3542085314169580780
+    second: TILSETAGORADENTRO_10
+  - first:
+      213: 1277964798720438972
+    second: TILSETAGORADENTRO_11
+  - first:
+      213: 2929181721955902658
+    second: TILSETAGORADENTRO_12
+  - first:
+      213: 1094901128399283342
+    second: TILSETAGORADENTRO_13
+  - first:
+      213: -3709715555348400569
+    second: TILSETAGORADENTRO_14
+  - first:
+      213: 6253996706603974681
+    second: TILSETAGORADENTRO_15
+  - first:
+      213: -7842253533894399690
+    second: TILSETAGORADENTRO_16
+  - first:
+      213: -1715009622533656222
+    second: TILSETAGORADENTRO_17
+  - first:
+      213: -2852957811410980027
+    second: TILSETAGORADENTRO_18
+  - first:
+      213: 6154252123378135251
+    second: TILSETAGORADENTRO_19
+  - first:
+      213: 7214507274045585297
+    second: TILSETAGORADENTRO_20
+  - first:
+      213: -6538079357213983050
+    second: TILSETAGORADENTRO_21
+  - first:
+      213: -6398274027540899649
+    second: TILSETAGORADENTRO_22
+  - first:
+      213: 7993768845645274340
+    second: TILSETAGORADENTRO_23
+  - first:
+      213: 6904035802107267524
+    second: TILSETAGORADENTRO_24
+  - first:
+      213: 8824766550553543958
+    second: TILSETAGORADENTRO_25
+  - first:
+      213: 245141531481719628
+    second: TILSETAGORADENTRO_26
+  - first:
+      213: -8449122623521999683
+    second: TILSETAGORADENTRO_27
+  - first:
+      213: 4701834265912193188
+    second: TILSETAGORADENTRO_28
+  - first:
+      213: -8345763651733184143
+    second: TILSETAGORADENTRO_29
+  - first:
+      213: -8898348108887108681
+    second: TILSETAGORADENTRO_30
+  - first:
+      213: 8991590448813617316
+    second: TILSETAGORADENTRO_31
+  - first:
+      213: 7235481395378025757
+    second: TILSETAGORADENTRO_32
+  - first:
+      213: -5099678124852596251
+    second: TILSETAGORADENTRO_33
+  - first:
+      213: -3018430910894880793
+    second: TILSETAGORADENTRO_34
+  - first:
+      213: -2053710255257715394
+    second: TILSETAGORADENTRO_35
+  - first:
+      213: -3143321308565335885
+    second: TILSETAGORADENTRO_36
+  - first:
+      213: -2901780737687336314
+    second: TILSETAGORADENTRO_37
+  - first:
+      213: 9200326947517796613
+    second: TILSETAGORADENTRO_38
+  - first:
+      213: 8004395173804967667
+    second: TILSETAGORADENTRO_39
+  - first:
+      213: -1222192812183450823
+    second: TILSETAGORADENTRO_40
+  - first:
+      213: 2093755018608590792
+    second: TILSETAGORADENTRO_41
+  - first:
+      213: -6957917092526579541
+    second: TILSETAGORADENTRO_42
+  - first:
+      213: 7866022775070188393
+    second: TILSETAGORADENTRO_43
+  - first:
+      213: -6090375425875583448
+    second: TILSETAGORADENTRO_44
+  - first:
+      213: 3376476941101680471
+    second: TILSETAGORADENTRO_45
+  - first:
+      213: 3921825873697372913
+    second: TILSETAGORADENTRO_46
+  - first:
+      213: 165861282942232869
+    second: TILSETAGORADENTRO_47
+  - first:
+      213: 7257633794524051991
+    second: TILSETAGORADENTRO_48
+  - first:
+      213: -3655333497264452189
+    second: TILSETAGORADENTRO_49
+  - first:
+      213: -6810438672244816651
+    second: TILSETAGORADENTRO_50
+  - first:
+      213: -5685425402454814973
+    second: TILSETAGORADENTRO_51
+  - first:
+      213: -3491680174926179970
+    second: TILSETAGORADENTRO_52
+  - first:
+      213: -2734550711437728597
+    second: TILSETAGORADENTRO_53
+  - first:
+      213: 7316424921503727892
+    second: TILSETAGORADENTRO_54
+  - first:
+      213: 77506253116790043
+    second: TILSETAGORADENTRO_55
+  - first:
+      213: -5558529325046555987
+    second: TILSETAGORADENTRO_56
+  - first:
+      213: -261486921007605662
+    second: TILSETAGORADENTRO_57
+  - first:
+      213: -6928388437576232359
+    second: TILSETAGORADENTRO_58
+  - first:
+      213: -2861455059456262748
+    second: TILSETAGORADENTRO_59
+  - first:
+      213: -4325356117880979406
+    second: TILSETAGORADENTRO_60
+  - first:
+      213: 7854335080876277559
+    second: TILSETAGORADENTRO_61
+  - first:
+      213: 5085852541600087004
+    second: TILSETAGORADENTRO_62
+  - first:
+      213: -4025085167959057715
+    second: TILSETAGORADENTRO_63
+  - first:
+      213: -8580914133797605894
+    second: TILSETAGORADENTRO_64
+  - first:
+      213: -8111333475373489232
+    second: TILSETAGORADENTRO_65
+  - first:
+      213: 204691885787355207
+    second: TILSETAGORADENTRO_66
+  - first:
+      213: -2925244640066888456
+    second: TILSETAGORADENTRO_67
+  - first:
+      213: -7993158274892764972
+    second: TILSETAGORADENTRO_68
+  - first:
+      213: 2806676173658950893
+    second: TILSETAGORADENTRO_69
+  - first:
+      213: -2464782868665188991
+    second: TILSETAGORADENTRO_70
+  - first:
+      213: 2190929786046904834
+    second: TILSETAGORADENTRO_71
+  - first:
+      213: 7833230531709933124
+    second: TILSETAGORADENTRO_72
+  - first:
+      213: 1670366029682173085
+    second: TILSETAGORADENTRO_73
+  - first:
+      213: -5788356478041695305
+    second: TILSETAGORADENTRO_74
+  - first:
+      213: -1071133200308146440
+    second: TILSETAGORADENTRO_75
+  - first:
+      213: -5817573541755380127
+    second: TILSETAGORADENTRO_76
+  - first:
+      213: -2081133923359811057
+    second: TILSETAGORADENTRO_77
+  - first:
+      213: 5856735071745438831
+    second: TILSETAGORADENTRO_78
+  - first:
+      213: -7788848144872074846
+    second: TILSETAGORADENTRO_79
+  - first:
+      213: -734408748148076581
+    second: TILSETAGORADENTRO_80
+  - first:
+      213: -1846983463486390902
+    second: TILSETAGORADENTRO_81
+  - first:
+      213: 2938142438340621358
+    second: TILSETAGORADENTRO_82
+  - first:
+      213: 8183919336390794043
+    second: TILSETAGORADENTRO_83
+  - first:
+      213: -429258453769828238
+    second: TILSETAGORADENTRO_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 730
+        width: 300
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2662421e798db90800000000000000
+      internalID: -7216851409631288587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_1
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1131
+        width: 106
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc264e4a3638c800800000000000000
+      internalID: 632815371694779605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_2
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1070
+        width: 119
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6807d9700d9228850800000000000000
+      internalID: 6377705995767738502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_3
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 10
+        width: 114
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0cc2a9bdf4c7b80800000000000000
+      internalID: -8395747800722390829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 731
+        width: 116
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33608db82f74ed040800000000000000
+      internalID: 4674252570311001651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_5
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 729
+        width: 122
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af60b5435407d3970800000000000000
+      internalID: 8736262294702065402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 729
+        width: 120
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2ad427d7f502b20800000000000000
+      internalID: 3107588735278883544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 729
+        width: 121
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d151d00892a88f0800000000000000
+      internalID: -537571575565312691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_8
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 729
+        width: 117
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83069b188ad9b7220800000000000000
+      internalID: 2484752966481436728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_9
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 729
+        width: 121
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141edb2200f61cc40800000000000000
+      internalID: 5530823863761232193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 500
+        width: 202
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4135bcc6c2cf7dec0800000000000000
+      internalID: -3542085314169580780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 499
+        width: 207
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb27f27a63e3cb110800000000000000
+      internalID: 1277964798720438972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_12
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 397
+        width: 91
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4afb3b14b86a820800000000000000
+      internalID: 2929181721955902658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_13
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 394
+        width: 97
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84e96676ced13f00800000000000000
+      internalID: 1094901128399283342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_14
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 400
+        width: 7
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746b7b97b51748cc0800000000000000
+      internalID: -3709715555348400569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_15
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 394
+        width: 109
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910c79b9ed8aac650800000000000000
+      internalID: 6253996706603974681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_16
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 401
+        width: 8
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6392ca106f7ba2390800000000000000
+      internalID: -7842253533894399690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_17
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 394
+        width: 108
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2613186b5df0338e0800000000000000
+      internalID: -1715009622533656222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_18
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 395
+        width: 7
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5433ca37cf14868d0800000000000000
+      internalID: -2852957811410980027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_19
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 394
+        width: 109
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0b52813bb486550800000000000000
+      internalID: 6154252123378135251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_20
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 394
+        width: 93
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19775f244241f1460800000000000000
+      internalID: 7214507274045585297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_21
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 505
+        width: 229
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be32fff6731445a0800000000000000
+      internalID: -6538079357213983050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_22
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 574
+        width: 231
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb811d4eba3c437a0800000000000000
+      internalID: -6398274027540899649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 129
+        width: 118
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec554d89629fee60800000000000000
+      internalID: 7993768845645274340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_24
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 587
+        width: 113
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9ce2d9bff00df50800000000000000
+      internalID: 6904035802107267524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_25
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 597
+        width: 113
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6154e7f0c6ed77a70800000000000000
+      internalID: 8824766550553543958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_26
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 537
+        width: 111
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43c9af8ceae66300800000000000000
+      internalID: 245141531481719628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_27
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 387
+        width: 67
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db431414dbfaeba80800000000000000
+      internalID: -8449122623521999683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_28
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 387
+        width: 70
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0b47c7a55404140800000000000000
+      internalID: 4701834265912193188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_29
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 390
+        width: 7
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171a31f2d24ed2c80800000000000000
+      internalID: -8345763651733184143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_30
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 387
+        width: 73
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3d30a5a87b28480800000000000000
+      internalID: -8898348108887108681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_31
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 581
+        width: 186
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0b45bafdb88cc70800000000000000
+      internalID: 8991590448813617316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_32
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 478
+        width: 86
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15747e6ef7996460800000000000000
+      internalID: 7235481395378025757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_33
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 125
+        width: 115
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1b453c3cd4a39b0800000000000000
+      internalID: -5099678124852596251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_34
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 129
+        width: 114
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e74d0134116c16d0800000000000000
+      internalID: -3018430910894880793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_35
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 479
+        width: 111
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d79c36761cf73e0800000000000000
+      internalID: -2053710255257715394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_36
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 455
+        width: 128
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b01c048ceda064d0800000000000000
+      internalID: -3143321308565335885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_37
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 455
+        width: 129
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a431a1bcdcab7d0800000000000000
+      internalID: -2901780737687336314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_38
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 418
+        width: 111
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50190440d902eaf70800000000000000
+      internalID: 9200326947517796613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_39
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1031
+        width: 106
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f60f706003551f60800000000000000
+      internalID: 8004395173804967667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_40
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 931
+        width: 105
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b05cedc16e90fe0800000000000000
+      internalID: -1222192812183450823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_41
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 931
+        width: 106
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf3bd2a8138e0d10800000000000000
+      internalID: 2093755018608590792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_42
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1031
+        width: 107
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0a55bd443807f90800000000000000
+      internalID: -6957917092526579541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_43
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1130
+        width: 107
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963e037b90ab92d60800000000000000
+      internalID: 7866022775070188393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_44
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 127
+        width: 212
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82edaef71d3aa7ba0800000000000000
+      internalID: -6090375425875583448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_45
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 129
+        width: 121
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757c9aa73e7abde20800000000000000
+      internalID: 3376476941101680471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_46
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 128
+        width: 121
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fafaa87adf1d6630800000000000000
+      internalID: 3921825873697372913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_47
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 50
+        width: 69
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52923c345f14d4200800000000000000
+      internalID: 165861282942232869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_48
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 50
+        width: 63
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71af978cb7b48b460800000000000000
+      internalID: 7257633794524051991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_49
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 50
+        width: 64
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad47ff0d85a54dc0800000000000000
+      internalID: -3655333497264452189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_50
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1129
+        width: 106
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4c3406c167c71a0800000000000000
+      internalID: -6810438672244816651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_51
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 195
+        width: 198
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fc2b918bf4911b0800000000000000
+      internalID: -5685425402454814973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_52
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 130
+        width: 108
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e715040716f0b8fc0800000000000000
+      internalID: -3491680174926179970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_53
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1033
+        width: 105
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba46670cd9cec0ad0800000000000000
+      internalID: -2734550711437728597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_54
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 132
+        width: 108
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4118b08b3b9298560800000000000000
+      internalID: 7316424921503727892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_55
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 142
+        width: 7
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15d5ecc68b531100800000000000000
+      internalID: 77506253116790043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_56
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 128
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa120b77032cd2b0800000000000000
+      internalID: -5558529325046555987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_57
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 226
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2685eefd7030f5cf0800000000000000
+      internalID: -261486921007605662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_58
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 129
+        width: 116
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95258589c6b69df90800000000000000
+      internalID: -6928388437576232359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_59
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 125
+        width: 11
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad7d58b8c11a48d0800000000000000
+      internalID: -2861455059456262748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_60
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 128
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23044aa078f39f3c0800000000000000
+      internalID: -4325356117880979406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_61
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 930
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ff48a5424300d60800000000000000
+      internalID: 7854335080876277559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_62
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1071
+        width: 120
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb371ac0f3949640800000000000000
+      internalID: 5085852541600087004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_63
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 59
+        width: 207
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca5b159d560428c0800000000000000
+      internalID: -4025085167959057715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_64
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 7
+        width: 117
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd6dd61f087ae880800000000000000
+      internalID: -8580914133797605894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_65
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 0
+        width: 7
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3e0a90e21ce6f80800000000000000
+      internalID: -8111333475373489232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_66
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1071
+        width: 120
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74892c48f2637d200800000000000000
+      internalID: 204691885787355207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_67
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1071
+        width: 120
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc92bb9f717767d0800000000000000
+      internalID: -2925244640066888456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 234
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8ea8706e8921190800000000000000
+      internalID: -7993158274892764972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_69
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 37
+        width: 240
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec8e7a0c1153f620800000000000000
+      internalID: 2806676173658950893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_70
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1069
+        width: 121
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d3eb83a055bcdd0800000000000000
+      internalID: -2464782868665188991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_71
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 56
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20af529480fb76e10800000000000000
+      internalID: 2190929786046904834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_72
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 7
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44690569aa935bc60800000000000000
+      internalID: 7833230531709933124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_73
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 20
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94e514dd055e2710800000000000000
+      internalID: 1670366029682173085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_74
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1069
+        width: 119
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb5ef48370abafa0800000000000000
+      internalID: -5788356478041695305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_75
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1070
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe618887029221f0800000000000000
+      internalID: -1071133200308146440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_76
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1070
+        width: 119
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e95f4cfa3d34fa0800000000000000
+      internalID: -5817573541755380127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_77
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 0
+        width: 93
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a9f1819b35e13e0800000000000000
+      internalID: -2081133923359811057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_78
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1070
+        width: 120
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6475f6748d474150800000000000000
+      internalID: 5856735071745438831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_79
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 1071
+        width: 122
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1907b11e378e390800000000000000
+      internalID: -7788848144872074846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_80
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 1067
+        width: 61
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfc1b6722bdec5f0800000000000000
+      internalID: -734408748148076581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_82
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 888
+        width: 120
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24fac01bf066c820800000000000000
+      internalID: 2938142438340621358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_83
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 888
+        width: 120
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b1604b64f139170800000000000000
+      internalID: 8183919336390794043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_84
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 890
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278473ae5b7fa0af0800000000000000
+      internalID: -429258453769828238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_85
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 889
+        width: 119
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c74af8992631143b0b5ad5524d39d4
+      internalID: -1384724757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_86
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 889
+        width: 120
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611c04bef9540464fa2b5bb48d01a89a
+      internalID: 167797730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_87
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 889
+        width: 118
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cba2c2e32470946a2868c8207326f1
+      internalID: 1616550838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_88
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 946
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b880ca5f22f26c41a8d75fb477b2bc3
+      internalID: 537554257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_89
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 891
+        width: 122
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66f6bb9026ddad4ea2f2b3d23eb5417
+      internalID: 574059131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_90
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 954
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252e03c34a8c26d4cae8fda31936a874
+      internalID: 1333312067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_91
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 890
+        width: 120
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67bb725ee6992c4492beb76c3192783
+      internalID: 1903749349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_92
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 891
+        width: 118
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4305c98a1d4b64c48b9ee4fdf703e293
+      internalID: -254560310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_93
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 891
+        width: 122
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4d51274164e6d40a692e10fac50e3f
+      internalID: 1876939500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_94
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 890
+        width: 61
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e6edbfabe9e484f9f0d054f0fa1afd
+      internalID: -1474918398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_95
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 732
+        width: 118
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0804b7b059e8d42824fef51afab3ad
+      internalID: 389837051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_96
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 732
+        width: 120
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f2bdff1b8d97448b62efb64ecd8b64
+      internalID: 1926604753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_97
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 731
+        width: 119
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f5b4d9a021aa34a963291704c9a30f
+      internalID: 1328977219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_98
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 731
+        width: 118
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b830ba37d50e08b47935c5adefe201c9
+      internalID: -106710937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_99
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 771
+        width: 107
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71f9a9c5770a8043922eabb7767df82
+      internalID: -77106423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_100
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 770
+        width: 106
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4144d063908924d9e197a862dc0a08
+      internalID: -784254307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_101
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 770
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cc833ca54263c42864432c23e8c915
+      internalID: 281235495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_102
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 771
+        width: 106
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ae0b206de12864585cfaf87a9c870c
+      internalID: -897932451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_103
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 770
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e960bc35ee62eb94ba92f90582450c6e
+      internalID: 1568772783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_104
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 769
+        width: 105
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4323f49793990c347905a4c8f9ef3473
+      internalID: -773681783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_105
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 770
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a295a3cf3989d4a8f4eed13d903050
+      internalID: 1882634583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_106
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 396
+        width: 202
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cb1ac027e0c4343821d5958c8302d2
+      internalID: 659974054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_107
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 130
+        width: 115
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24adc6480b63ecc4291e9f1a42bacdb4
+      internalID: 1127420308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILSETAGORADENTRO_108
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 131
+        width: 114
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528cdc98814f2e543aa121eb32ac7714
+      internalID: 1493314925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e1b24e6c707fb4a488ec0f88ce4116f8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TILSETAGORADENTRO_0: -7216851409631288587
+      TILSETAGORADENTRO_1: 632815371694779605
+      TILSETAGORADENTRO_10: -3542085314169580780
+      TILSETAGORADENTRO_100: -784254307
+      TILSETAGORADENTRO_101: 281235495
+      TILSETAGORADENTRO_102: -897932451
+      TILSETAGORADENTRO_103: 1568772783
+      TILSETAGORADENTRO_104: -773681783
+      TILSETAGORADENTRO_105: 1882634583
+      TILSETAGORADENTRO_106: 659974054
+      TILSETAGORADENTRO_107: 1127420308
+      TILSETAGORADENTRO_108: 1493314925
+      TILSETAGORADENTRO_11: 1277964798720438972
+      TILSETAGORADENTRO_12: 2929181721955902658
+      TILSETAGORADENTRO_13: 1094901128399283342
+      TILSETAGORADENTRO_14: -3709715555348400569
+      TILSETAGORADENTRO_15: 6253996706603974681
+      TILSETAGORADENTRO_16: -7842253533894399690
+      TILSETAGORADENTRO_17: -1715009622533656222
+      TILSETAGORADENTRO_18: -2852957811410980027
+      TILSETAGORADENTRO_19: 6154252123378135251
+      TILSETAGORADENTRO_2: 6377705995767738502
+      TILSETAGORADENTRO_20: 7214507274045585297
+      TILSETAGORADENTRO_21: -6538079357213983050
+      TILSETAGORADENTRO_22: -6398274027540899649
+      TILSETAGORADENTRO_23: 7993768845645274340
+      TILSETAGORADENTRO_24: 6904035802107267524
+      TILSETAGORADENTRO_25: 8824766550553543958
+      TILSETAGORADENTRO_26: 245141531481719628
+      TILSETAGORADENTRO_27: -8449122623521999683
+      TILSETAGORADENTRO_28: 4701834265912193188
+      TILSETAGORADENTRO_29: -8345763651733184143
+      TILSETAGORADENTRO_3: -8395747800722390829
+      TILSETAGORADENTRO_30: -8898348108887108681
+      TILSETAGORADENTRO_31: 8991590448813617316
+      TILSETAGORADENTRO_32: 7235481395378025757
+      TILSETAGORADENTRO_33: -5099678124852596251
+      TILSETAGORADENTRO_34: -3018430910894880793
+      TILSETAGORADENTRO_35: -2053710255257715394
+      TILSETAGORADENTRO_36: -3143321308565335885
+      TILSETAGORADENTRO_37: -2901780737687336314
+      TILSETAGORADENTRO_38: 9200326947517796613
+      TILSETAGORADENTRO_39: 8004395173804967667
+      TILSETAGORADENTRO_4: 4674252570311001651
+      TILSETAGORADENTRO_40: -1222192812183450823
+      TILSETAGORADENTRO_41: 2093755018608590792
+      TILSETAGORADENTRO_42: -6957917092526579541
+      TILSETAGORADENTRO_43: 7866022775070188393
+      TILSETAGORADENTRO_44: -6090375425875583448
+      TILSETAGORADENTRO_45: 3376476941101680471
+      TILSETAGORADENTRO_46: 3921825873697372913
+      TILSETAGORADENTRO_47: 165861282942232869
+      TILSETAGORADENTRO_48: 7257633794524051991
+      TILSETAGORADENTRO_49: -3655333497264452189
+      TILSETAGORADENTRO_5: 8736262294702065402
+      TILSETAGORADENTRO_50: -6810438672244816651
+      TILSETAGORADENTRO_51: -5685425402454814973
+      TILSETAGORADENTRO_52: -3491680174926179970
+      TILSETAGORADENTRO_53: -2734550711437728597
+      TILSETAGORADENTRO_54: 7316424921503727892
+      TILSETAGORADENTRO_55: 77506253116790043
+      TILSETAGORADENTRO_56: -5558529325046555987
+      TILSETAGORADENTRO_57: -261486921007605662
+      TILSETAGORADENTRO_58: -6928388437576232359
+      TILSETAGORADENTRO_59: -2861455059456262748
+      TILSETAGORADENTRO_6: 3107588735278883544
+      TILSETAGORADENTRO_60: -4325356117880979406
+      TILSETAGORADENTRO_61: 7854335080876277559
+      TILSETAGORADENTRO_62: 5085852541600087004
+      TILSETAGORADENTRO_63: -4025085167959057715
+      TILSETAGORADENTRO_64: -8580914133797605894
+      TILSETAGORADENTRO_65: -8111333475373489232
+      TILSETAGORADENTRO_66: 204691885787355207
+      TILSETAGORADENTRO_67: -2925244640066888456
+      TILSETAGORADENTRO_68: -7993158274892764972
+      TILSETAGORADENTRO_69: 2806676173658950893
+      TILSETAGORADENTRO_7: -537571575565312691
+      TILSETAGORADENTRO_70: -2464782868665188991
+      TILSETAGORADENTRO_71: 2190929786046904834
+      TILSETAGORADENTRO_72: 7833230531709933124
+      TILSETAGORADENTRO_73: 1670366029682173085
+      TILSETAGORADENTRO_74: -5788356478041695305
+      TILSETAGORADENTRO_75: -1071133200308146440
+      TILSETAGORADENTRO_76: -5817573541755380127
+      TILSETAGORADENTRO_77: -2081133923359811057
+      TILSETAGORADENTRO_78: 5856735071745438831
+      TILSETAGORADENTRO_79: -7788848144872074846
+      TILSETAGORADENTRO_8: 2484752966481436728
+      TILSETAGORADENTRO_80: -734408748148076581
+      TILSETAGORADENTRO_81: -1846983463486390902
+      TILSETAGORADENTRO_82: 2938142438340621358
+      TILSETAGORADENTRO_83: 8183919336390794043
+      TILSETAGORADENTRO_84: -429258453769828238
+      TILSETAGORADENTRO_85: -1384724757
+      TILSETAGORADENTRO_86: 167797730
+      TILSETAGORADENTRO_87: 1616550838
+      TILSETAGORADENTRO_88: 537554257
+      TILSETAGORADENTRO_89: 574059131
+      TILSETAGORADENTRO_9: 5530823863761232193
+      TILSETAGORADENTRO_90: 1333312067
+      TILSETAGORADENTRO_91: 1903749349
+      TILSETAGORADENTRO_92: -254560310
+      TILSETAGORADENTRO_93: 1876939500
+      TILSETAGORADENTRO_94: -1474918398
+      TILSETAGORADENTRO_95: 389837051
+      TILSETAGORADENTRO_96: 1926604753
+      TILSETAGORADENTRO_97: 1328977219
+      TILSETAGORADENTRO_98: -106710937
+      TILSETAGORADENTRO_99: -77106423
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

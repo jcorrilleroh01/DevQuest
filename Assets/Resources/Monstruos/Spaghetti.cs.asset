@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a012d255da9f11449a5a4d27e02b4111, type: 3}
+  m_Name: Spaghetti.cs
+  m_EditorClassIdentifier: Assembly-CSharp::MonstruoBase
+  nombre: Spaghetti.cs
+  tipo: Bestia de Sintaxis
+  debilidad: "Anomal\xEDa L\xF3gica"
+  descubierto: 0
+  descripcion: "Un horror enredado hecho enteramente de c\xF3digo mal formateado
+    y sin comentarios."
+  lore: "Se form\xF3 por la acumulaci\xF3n de archivos de c\xF3digo fuente de alumnos
+    que solo quer\xEDan que 'compilara'. A Spaghetti.cs no le importa el rendimiento
+    o la mantenibilidad; solo desea atraparte en su bucle infinito de dependencias
+    circulares."
+  spriteFrontal: {fileID: 2278894057839137598, guid: e570ceb99a5e1ef48a2cca45723b6a06, type: 3}
+  vidaMax: 35
+  ataque: 6
+  defensa: 4
+  listaAtaques:
+  - {fileID: 11400000, guid: bf3b1f776759de04ca44fe8efa23112c, type: 2}
+  - {fileID: 11400000, guid: 61d046de9556cd04da509fa9dce19d4c, type: 2}

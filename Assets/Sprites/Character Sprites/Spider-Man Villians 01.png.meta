@@ -1,0 +1,2483 @@
+fileFormatVersion: 2
+guid: c1bb7670a79f6e447a71e85006f6f59e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3334050428515062106
+    second: Spider-Man Villians 01_0
+  - first:
+      213: 571713069166823071
+    second: Spider-Man Villians 01_1
+  - first:
+      213: -1250632492937233494
+    second: Spider-Man Villians 01_2
+  - first:
+      213: 8301729357709642484
+    second: Spider-Man Villians 01_3
+  - first:
+      213: 411136848255503816
+    second: Spider-Man Villians 01_4
+  - first:
+      213: 8193616020375689151
+    second: Spider-Man Villians 01_5
+  - first:
+      213: 1056790385977619963
+    second: Spider-Man Villians 01_6
+  - first:
+      213: 6576850975992770636
+    second: Spider-Man Villians 01_7
+  - first:
+      213: -7616025613483944615
+    second: Spider-Man Villians 01_8
+  - first:
+      213: -4325051068145356323
+    second: Spider-Man Villians 01_9
+  - first:
+      213: 6524685419129984266
+    second: Spider-Man Villians 01_10
+  - first:
+      213: -2854769635888167079
+    second: Spider-Man Villians 01_11
+  - first:
+      213: 6263822638403202273
+    second: Spider-Man Villians 01_12
+  - first:
+      213: -6065532937615602774
+    second: Spider-Man Villians 01_13
+  - first:
+      213: 3504796795353075052
+    second: Spider-Man Villians 01_14
+  - first:
+      213: 6472427596711589749
+    second: Spider-Man Villians 01_15
+  - first:
+      213: 2623265072659873189
+    second: Spider-Man Villians 01_16
+  - first:
+      213: 811971734117952120
+    second: Spider-Man Villians 01_17
+  - first:
+      213: 5623542465118122583
+    second: Spider-Man Villians 01_18
+  - first:
+      213: -6450830627065465625
+    second: Spider-Man Villians 01_19
+  - first:
+      213: -7763972458025528831
+    second: Spider-Man Villians 01_20
+  - first:
+      213: -3613647424053649275
+    second: Spider-Man Villians 01_21
+  - first:
+      213: -741416156526985726
+    second: Spider-Man Villians 01_22
+  - first:
+      213: 248041648843397077
+    second: Spider-Man Villians 01_23
+  - first:
+      213: 974145960231223174
+    second: Spider-Man Villians 01_24
+  - first:
+      213: 6095363726511096621
+    second: Spider-Man Villians 01_25
+  - first:
+      213: 318286697356773142
+    second: Spider-Man Villians 01_26
+  - first:
+      213: -985484802978359364
+    second: Spider-Man Villians 01_27
+  - first:
+      213: 5693833511556467670
+    second: Spider-Man Villians 01_28
+  - first:
+      213: -2616632452219003231
+    second: Spider-Man Villians 01_29
+  - first:
+      213: 3572493469180622449
+    second: Spider-Man Villians 01_30
+  - first:
+      213: -3429727803565503608
+    second: Spider-Man Villians 01_31
+  - first:
+      213: 3823754806858241718
+    second: Spider-Man Villians 01_32
+  - first:
+      213: -6280460646042248361
+    second: Spider-Man Villians 01_33
+  - first:
+      213: 6394519799520766159
+    second: Spider-Man Villians 01_34
+  - first:
+      213: -8566832016754225941
+    second: Spider-Man Villians 01_35
+  - first:
+      213: 508080155952278253
+    second: Spider-Man Villians 01_36
+  - first:
+      213: 2781169295333817384
+    second: Spider-Man Villians 01_37
+  - first:
+      213: -2972472315111111380
+    second: Spider-Man Villians 01_38
+  - first:
+      213: -5053575055707711001
+    second: Spider-Man Villians 01_39
+  - first:
+      213: 6498453589936391905
+    second: Spider-Man Villians 01_40
+  - first:
+      213: 5844458154443142769
+    second: Spider-Man Villians 01_41
+  - first:
+      213: -7172659259005366755
+    second: Spider-Man Villians 01_42
+  - first:
+      213: 8574739515473910280
+    second: Spider-Man Villians 01_43
+  - first:
+      213: -945149798625849162
+    second: Spider-Man Villians 01_44
+  - first:
+      213: -5160726827118184255
+    second: Spider-Man Villians 01_45
+  - first:
+      213: -8456682981350690427
+    second: Spider-Man Villians 01_46
+  - first:
+      213: 8506678731735076980
+    second: Spider-Man Villians 01_47
+  - first:
+      213: -7655308310496139474
+    second: Spider-Man Villians 01_48
+  - first:
+      213: 960096628165392661
+    second: Spider-Man Villians 01_49
+  - first:
+      213: 6626144272538560279
+    second: Spider-Man Villians 01_50
+  - first:
+      213: -135059211959922671
+    second: Spider-Man Villians 01_51
+  - first:
+      213: -6768872502804956341
+    second: Spider-Man Villians 01_52
+  - first:
+      213: -6869499129428997906
+    second: Spider-Man Villians 01_53
+  - first:
+      213: 993940133179731972
+    second: Spider-Man Villians 01_54
+  - first:
+      213: 6237112489091765368
+    second: Spider-Man Villians 01_55
+  - first:
+      213: 690938647745549276
+    second: Spider-Man Villians 01_56
+  - first:
+      213: 8024430092401100328
+    second: Spider-Man Villians 01_57
+  - first:
+      213: -3934717035385317390
+    second: Spider-Man Villians 01_58
+  - first:
+      213: -8703433678460771207
+    second: Spider-Man Villians 01_59
+  - first:
+      213: -6298399171733030573
+    second: Spider-Man Villians 01_60
+  - first:
+      213: -5317027014029033639
+    second: Spider-Man Villians 01_61
+  - first:
+      213: 8409867185882359474
+    second: Spider-Man Villians 01_62
+  - first:
+      213: 4815870229041883887
+    second: Spider-Man Villians 01_63
+  - first:
+      213: -6117622819256431563
+    second: Spider-Man Villians 01_64
+  - first:
+      213: -1480023702190194461
+    second: Spider-Man Villians 01_65
+  - first:
+      213: -1214371314601909584
+    second: Spider-Man Villians 01_66
+  - first:
+      213: -9099772171329829180
+    second: Spider-Man Villians 01_67
+  - first:
+      213: 3374487722488708675
+    second: Spider-Man Villians 01_68
+  - first:
+      213: -328858012208799379
+    second: Spider-Man Villians 01_69
+  - first:
+      213: -8447350540833989858
+    second: Spider-Man Villians 01_70
+  - first:
+      213: 7058990450316873763
+    second: Spider-Man Villians 01_71
+  - first:
+      213: -2454315096169520017
+    second: Spider-Man Villians 01_72
+  - first:
+      213: 3027816949527883160
+    second: Spider-Man Villians 01_73
+  - first:
+      213: -239463126350515347
+    second: Spider-Man Villians 01_74
+  - first:
+      213: -1689684830945926531
+    second: Spider-Man Villians 01_75
+  - first:
+      213: -8727916266561293503
+    second: Spider-Man Villians 01_76
+  - first:
+      213: -1658626129350079230
+    second: Spider-Man Villians 01_77
+  - first:
+      213: 2122814118056205336
+    second: Spider-Man Villians 01_78
+  - first:
+      213: -6029772882380972932
+    second: Spider-Man Villians 01_79
+  - first:
+      213: -3515413363099534253
+    second: Spider-Man Villians 01_80
+  - first:
+      213: 1217119564700196998
+    second: Spider-Man Villians 01_81
+  - first:
+      213: 6406157190344708710
+    second: Spider-Man Villians 01_82
+  - first:
+      213: 6612226053336260415
+    second: Spider-Man Villians 01_83
+  - first:
+      213: 4099865681735778171
+    second: Spider-Man Villians 01_84
+  - first:
+      213: 1776314157172341957
+    second: Spider-Man Villians 01_85
+  - first:
+      213: 7211192514607269816
+    second: Spider-Man Villians 01_86
+  - first:
+      213: 3445460424077236289
+    second: Spider-Man Villians 01_87
+  - first:
+      213: 5520019989830716130
+    second: Spider-Man Villians 01_88
+  - first:
+      213: 2766330521333447403
+    second: Spider-Man Villians 01_89
+  - first:
+      213: 8527581280561848180
+    second: Spider-Man Villians 01_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 335
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5111ee333de44e20800000000000000
+      internalID: 3334050428515062106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 335
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f960321e1022fe700800000000000000
+      internalID: 571713069166823071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 335
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab3ae1bf5cd4aee0800000000000000
+      internalID: -1250632492937233494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 335
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa07bbcddaa53370800000000000000
+      internalID: 8301729357709642484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 335
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdc75209c6a4b500800000000000000
+      internalID: 411136848255503816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 335
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb75170eb5295b170800000000000000
+      internalID: 8193616020375689151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 335
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf57e36c1497aae00800000000000000
+      internalID: 1056790385977619963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 335
+        width: 98
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40fab4fd1ba54b50800000000000000
+      internalID: 6576850975992770636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_8
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 335
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95553045e017e4690800000000000000
+      internalID: -7616025613483944615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 335
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1b5c7f7f45af3c0800000000000000
+      internalID: -4325051068145356323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_10
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 335
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05d966c1d65c8a50800000000000000
+      internalID: 6524685419129984266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 287
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95780513422d168d0800000000000000
+      internalID: -2854769635888167079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 287
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eca212a0819de650800000000000000
+      internalID: 6263822638403202273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 287
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab8df70ee5e2dba0800000000000000
+      internalID: -6065532937615602774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 287
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d82fcbd1a83a030800000000000000
+      internalID: 3504796795353075052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 287
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577fd685b9ea2d950800000000000000
+      internalID: 6472427596711589749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 287
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adb4975fa5b76420800000000000000
+      internalID: 2623265072659873189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_17
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a22cb7df3b44b00800000000000000
+      internalID: 811971734117952120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_18
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 287
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752b0b4c316da0e40800000000000000
+      internalID: 5623542465118122583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 287
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e47d8ff8bb0a76a0800000000000000
+      internalID: -6450830627065465625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_20
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 287
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102d8794f24d04490800000000000000
+      internalID: -7763972458025528831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_21
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 287
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580e6c150deb9ddc0800000000000000
+      internalID: -3613647424053649275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_22
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 287
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e397f0fe5f5b5f0800000000000000
+      internalID: -741416156526985726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 239
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d710d0c098317300800000000000000
+      internalID: 248041648843397077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_24
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 239
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fb6fee69cd48d00800000000000000
+      internalID: 974145960231223174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 239
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23ce7fb305179450800000000000000
+      internalID: 6095363726511096621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 239
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617ceac9018ca6400800000000000000
+      internalID: 318286697356773142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 239
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7dde20bcad252f0800000000000000
+      internalID: -985484802978359364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_28
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 239
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbc98a596f840f40800000000000000
+      internalID: 5693833511556467670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 239
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae1ab1f5aadfabd0800000000000000
+      internalID: -2616632452219003231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_30
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 239
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176f9e0e1eb049130800000000000000
+      internalID: 3572493469180622449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_31
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 239
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b8230fbb82760d0800000000000000
+      internalID: -3429727803565503608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_32
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 239
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b65afadcb4b01530800000000000000
+      internalID: 3823754806858241718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_33
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 239
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bd4d6515257d8a0800000000000000
+      internalID: -6280460646042248361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_34
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 239
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc823a7c0e5edb850800000000000000
+      internalID: 6394519799520766159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 191
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beccbe67baf7c1980800000000000000
+      internalID: -8566832016754225941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 191
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deae5fcb5301d0700800000000000000
+      internalID: 508080155952278253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 191
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c78942db2b89620800000000000000
+      internalID: 2781169295333817384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 191
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c258e11ad28afb6d0800000000000000
+      internalID: -2972472315111111380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 191
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e954c603481ed9b0800000000000000
+      internalID: -5053575055707711001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_40
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 191
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e645891c152f2a50800000000000000
+      internalID: 6498453589936391905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 191
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176f738e9bfab1150800000000000000
+      internalID: 5844458154443142769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_42
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 143
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e81140868957c90800000000000000
+      internalID: -7172659259005366755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_43
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 143
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ad35d88289ff670800000000000000
+      internalID: 8574739515473910280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_44
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 191
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0df59044722e2f0800000000000000
+      internalID: -945149798625849162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_45
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 191
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8bace1b4a6168b0800000000000000
+      internalID: -5160726827118184255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_46
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 191
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581308642a3d3aa80800000000000000
+      internalID: -8456682981350690427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47090777c3bcd0670800000000000000
+      internalID: 8506678731735076980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 143
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2728c2b6a1e2c590800000000000000
+      internalID: -7655308310496139474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 143
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51939d7ebc2f25d00800000000000000
+      internalID: 960096628165392661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717662beb1bc4fb50800000000000000
+      internalID: 6626144272538560279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 143
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1101c7fbc5c202ef0800000000000000
+      internalID: -135059211959922671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_52
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 143
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bb66c52522012a0800000000000000
+      internalID: -6768872502804956341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_53
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 95
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8878d10f2aaa0a0800000000000000
+      internalID: -6869499129428997906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_54
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 95
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400be26f84f2bcd00800000000000000
+      internalID: 993940133179731972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_55
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 95
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874977063ccae8650800000000000000
+      internalID: 6237112489091765368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_56
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 143
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd356741a05b69900800000000000000
+      internalID: 690938647745549276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_57
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 143
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826c58e57a08c5f60800000000000000
+      internalID: 8024430092401100328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_58
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 143
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f71e2e04b31569c0800000000000000
+      internalID: -3934717035385317390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974ac25ae21373780800000000000000
+      internalID: -8703433678460771207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_60
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 95
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359fc3bd2579798a0800000000000000
+      internalID: -6298399171733030573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fb4aff9102636b0800000000000000
+      internalID: -5317027014029033639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_62
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 95
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b66bbee5a9d5b470800000000000000
+      internalID: 8409867185882359474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_63
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 95
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaab6e257865d240800000000000000
+      internalID: 4815870229041883887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_64
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 95
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c856c5576d91ba0800000000000000
+      internalID: -6117622819256431563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_65
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 47
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e08bcbc846e57be0800000000000000
+      internalID: -1480023702190194461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_66
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2aabf29bfa52fe0800000000000000
+      internalID: -1214371314601909584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_67
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 47
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c686ee3c6d17b180800000000000000
+      internalID: -9099772171329829180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_68
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 95
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e3bdd64b694de20800000000000000
+      internalID: 3374487722488708675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_69
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 95
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61e0c85169af6bf0800000000000000
+      internalID: -328858012208799379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_70
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 95
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bd268607bf4ca80800000000000000
+      internalID: -8447350540833989858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32013081a6296f160800000000000000
+      internalID: 7058990450316873763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_72
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64efed6c6580fdd0800000000000000
+      internalID: -2454315096169520017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 47
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d24893977f40a20800000000000000
+      internalID: 3027816949527883160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_74
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 47
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63b2192e814dacf0800000000000000
+      internalID: -239463126350515347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_75
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 47
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d722a1d39980d88e0800000000000000
+      internalID: -1689684830945926531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_76
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 47
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143b246e56630e680800000000000000
+      internalID: -8727916266561293503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_77
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d48e8b2506bf8e0800000000000000
+      internalID: -1658626129350079230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_78
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c9ce67130c57d10800000000000000
+      internalID: 2122814118056205336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_79
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 47
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c1665b281f15ca0800000000000000
+      internalID: -6029772882380972932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_80
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 47
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c7ac5fb2eb63fc0800000000000000
+      internalID: -3515413363099534253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_81
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 47
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6802227abc314e010800000000000000
+      internalID: 1217119564700196998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6629fc9f50e37e850800000000000000
+      internalID: 6406157190344708710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fd0bbff8853cb50800000000000000
+      internalID: 6612226053336260415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_84
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ffca29d16a5e830800000000000000
+      internalID: 4099865681735778171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_85
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc31cb805cb6a810800000000000000
+      internalID: 1776314157172341957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_86
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b74f10b26d431460800000000000000
+      internalID: 7211192514607269816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1485ac8300cb0df20800000000000000
+      internalID: 3445460424077236289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_88
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea4ae63fec0b9c40800000000000000
+      internalID: 5520019989830716130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_89
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beab667d3faf36620800000000000000
+      internalID: 2766330521333447403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Villians 01_90
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fd82d5efd085670800000000000000
+      internalID: 8527581280561848180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spider-Man Villians 01_0: 3334050428515062106
+      Spider-Man Villians 01_1: 571713069166823071
+      Spider-Man Villians 01_10: 6524685419129984266
+      Spider-Man Villians 01_11: -2854769635888167079
+      Spider-Man Villians 01_12: 6263822638403202273
+      Spider-Man Villians 01_13: -6065532937615602774
+      Spider-Man Villians 01_14: 3504796795353075052
+      Spider-Man Villians 01_15: 6472427596711589749
+      Spider-Man Villians 01_16: 2623265072659873189
+      Spider-Man Villians 01_17: 811971734117952120
+      Spider-Man Villians 01_18: 5623542465118122583
+      Spider-Man Villians 01_19: -6450830627065465625
+      Spider-Man Villians 01_2: -1250632492937233494
+      Spider-Man Villians 01_20: -7763972458025528831
+      Spider-Man Villians 01_21: -3613647424053649275
+      Spider-Man Villians 01_22: -741416156526985726
+      Spider-Man Villians 01_23: 248041648843397077
+      Spider-Man Villians 01_24: 974145960231223174
+      Spider-Man Villians 01_25: 6095363726511096621
+      Spider-Man Villians 01_26: 318286697356773142
+      Spider-Man Villians 01_27: -985484802978359364
+      Spider-Man Villians 01_28: 5693833511556467670
+      Spider-Man Villians 01_29: -2616632452219003231
+      Spider-Man Villians 01_3: 8301729357709642484
+      Spider-Man Villians 01_30: 3572493469180622449
+      Spider-Man Villians 01_31: -3429727803565503608
+      Spider-Man Villians 01_32: 3823754806858241718
+      Spider-Man Villians 01_33: -6280460646042248361
+      Spider-Man Villians 01_34: 6394519799520766159
+      Spider-Man Villians 01_35: -8566832016754225941
+      Spider-Man Villians 01_36: 508080155952278253
+      Spider-Man Villians 01_37: 2781169295333817384
+      Spider-Man Villians 01_38: -2972472315111111380
+      Spider-Man Villians 01_39: -5053575055707711001
+      Spider-Man Villians 01_4: 411136848255503816
+      Spider-Man Villians 01_40: 6498453589936391905
+      Spider-Man Villians 01_41: 5844458154443142769
+      Spider-Man Villians 01_42: -7172659259005366755
+      Spider-Man Villians 01_43: 8574739515473910280
+      Spider-Man Villians 01_44: -945149798625849162
+      Spider-Man Villians 01_45: -5160726827118184255
+      Spider-Man Villians 01_46: -8456682981350690427
+      Spider-Man Villians 01_47: 8506678731735076980
+      Spider-Man Villians 01_48: -7655308310496139474
+      Spider-Man Villians 01_49: 960096628165392661
+      Spider-Man Villians 01_5: 8193616020375689151
+      Spider-Man Villians 01_50: 6626144272538560279
+      Spider-Man Villians 01_51: -135059211959922671
+      Spider-Man Villians 01_52: -6768872502804956341
+      Spider-Man Villians 01_53: -6869499129428997906
+      Spider-Man Villians 01_54: 993940133179731972
+      Spider-Man Villians 01_55: 6237112489091765368
+      Spider-Man Villians 01_56: 690938647745549276
+      Spider-Man Villians 01_57: 8024430092401100328
+      Spider-Man Villians 01_58: -3934717035385317390
+      Spider-Man Villians 01_59: -8703433678460771207
+      Spider-Man Villians 01_6: 1056790385977619963
+      Spider-Man Villians 01_60: -6298399171733030573
+      Spider-Man Villians 01_61: -5317027014029033639
+      Spider-Man Villians 01_62: 8409867185882359474
+      Spider-Man Villians 01_63: 4815870229041883887
+      Spider-Man Villians 01_64: -6117622819256431563
+      Spider-Man Villians 01_65: -1480023702190194461
+      Spider-Man Villians 01_66: -1214371314601909584
+      Spider-Man Villians 01_67: -9099772171329829180
+      Spider-Man Villians 01_68: 3374487722488708675
+      Spider-Man Villians 01_69: -328858012208799379
+      Spider-Man Villians 01_7: 6576850975992770636
+      Spider-Man Villians 01_70: -8447350540833989858
+      Spider-Man Villians 01_71: 7058990450316873763
+      Spider-Man Villians 01_72: -2454315096169520017
+      Spider-Man Villians 01_73: 3027816949527883160
+      Spider-Man Villians 01_74: -239463126350515347
+      Spider-Man Villians 01_75: -1689684830945926531
+      Spider-Man Villians 01_76: -8727916266561293503
+      Spider-Man Villians 01_77: -1658626129350079230
+      Spider-Man Villians 01_78: 2122814118056205336
+      Spider-Man Villians 01_79: -6029772882380972932
+      Spider-Man Villians 01_8: -7616025613483944615
+      Spider-Man Villians 01_80: -3515413363099534253
+      Spider-Man Villians 01_81: 1217119564700196998
+      Spider-Man Villians 01_82: 6406157190344708710
+      Spider-Man Villians 01_83: 6612226053336260415
+      Spider-Man Villians 01_84: 4099865681735778171
+      Spider-Man Villians 01_85: 1776314157172341957
+      Spider-Man Villians 01_86: 7211192514607269816
+      Spider-Man Villians 01_87: 3445460424077236289
+      Spider-Man Villians 01_88: 5520019989830716130
+      Spider-Man Villians 01_89: 2766330521333447403
+      Spider-Man Villians 01_9: -4325051068145356323
+      Spider-Man Villians 01_90: 8527581280561848180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

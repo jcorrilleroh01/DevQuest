@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 4cf82291767c9164fb3cdcff6f6fc3d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3092982727640743905
+    second: Iron-Spider SV Battler 01_0
+  - first:
+      213: -7288946730387551510
+    second: Iron-Spider SV Battler 01_1
+  - first:
+      213: -6619769984946916491
+    second: Iron-Spider SV Battler 01_2
+  - first:
+      213: 200752707971168327
+    second: Iron-Spider SV Battler 01_3
+  - first:
+      213: 7893004072365973315
+    second: Iron-Spider SV Battler 01_4
+  - first:
+      213: 5777096280967099768
+    second: Iron-Spider SV Battler 01_5
+  - first:
+      213: 7929992282892843775
+    second: Iron-Spider SV Battler 01_6
+  - first:
+      213: -1534565041357870998
+    second: Iron-Spider SV Battler 01_7
+  - first:
+      213: 3805379475273737529
+    second: Iron-Spider SV Battler 01_8
+  - first:
+      213: 6870962236359172373
+    second: Iron-Spider SV Battler 01_9
+  - first:
+      213: 788011933440050293
+    second: Iron-Spider SV Battler 01_10
+  - first:
+      213: -3963926838983681118
+    second: Iron-Spider SV Battler 01_11
+  - first:
+      213: 771701679224250852
+    second: Iron-Spider SV Battler 01_12
+  - first:
+      213: -6086367446925545487
+    second: Iron-Spider SV Battler 01_13
+  - first:
+      213: -166667260021244903
+    second: Iron-Spider SV Battler 01_14
+  - first:
+      213: 8342115482892863263
+    second: Iron-Spider SV Battler 01_15
+  - first:
+      213: 5338903899291864799
+    second: Iron-Spider SV Battler 01_16
+  - first:
+      213: -1182189673622419397
+    second: Iron-Spider SV Battler 01_17
+  - first:
+      213: -8711902344500638432
+    second: Iron-Spider SV Battler 01_18
+  - first:
+      213: 6621188721687462950
+    second: Iron-Spider SV Battler 01_19
+  - first:
+      213: -7723424032326259616
+    second: Iron-Spider SV Battler 01_20
+  - first:
+      213: -6959776825041147714
+    second: Iron-Spider SV Battler 01_21
+  - first:
+      213: -4907366765447874725
+    second: Iron-Spider SV Battler 01_22
+  - first:
+      213: -8273235468980049746
+    second: Iron-Spider SV Battler 01_23
+  - first:
+      213: -5746038894839034542
+    second: Iron-Spider SV Battler 01_24
+  - first:
+      213: 4879486861803850166
+    second: Iron-Spider SV Battler 01_25
+  - first:
+      213: -4352862281563352074
+    second: Iron-Spider SV Battler 01_26
+  - first:
+      213: -6146582799030236508
+    second: Iron-Spider SV Battler 01_27
+  - first:
+      213: -9037864563777782971
+    second: Iron-Spider SV Battler 01_28
+  - first:
+      213: 4481428161251759259
+    second: Iron-Spider SV Battler 01_29
+  - first:
+      213: 3966374890447492891
+    second: Iron-Spider SV Battler 01_30
+  - first:
+      213: 1987352684064871096
+    second: Iron-Spider SV Battler 01_31
+  - first:
+      213: -6971212046500042183
+    second: Iron-Spider SV Battler 01_32
+  - first:
+      213: -5016369887459075919
+    second: Iron-Spider SV Battler 01_33
+  - first:
+      213: 9072273136026324988
+    second: Iron-Spider SV Battler 01_34
+  - first:
+      213: -5909389383385499717
+    second: Iron-Spider SV Battler 01_35
+  - first:
+      213: -7086737911688901140
+    second: Iron-Spider SV Battler 01_36
+  - first:
+      213: -8410969272059476398
+    second: Iron-Spider SV Battler 01_37
+  - first:
+      213: 5452515747214545938
+    second: Iron-Spider SV Battler 01_38
+  - first:
+      213: 9203436678212749831
+    second: Iron-Spider SV Battler 01_39
+  - first:
+      213: 5687157050631102145
+    second: Iron-Spider SV Battler 01_40
+  - first:
+      213: 1543820990221868848
+    second: Iron-Spider SV Battler 01_41
+  - first:
+      213: -5516380754113851866
+    second: Iron-Spider SV Battler 01_42
+  - first:
+      213: 2733161661588454124
+    second: Iron-Spider SV Battler 01_43
+  - first:
+      213: -3749256417626210870
+    second: Iron-Spider SV Battler 01_44
+  - first:
+      213: 809875542241265811
+    second: Iron-Spider SV Battler 01_45
+  - first:
+      213: 5579735494970186499
+    second: Iron-Spider SV Battler 01_46
+  - first:
+      213: 2662008484630372193
+    second: Iron-Spider SV Battler 01_47
+  - first:
+      213: 5885075052737306206
+    second: Iron-Spider SV Battler 01_48
+  - first:
+      213: -5472038848268831316
+    second: Iron-Spider SV Battler 01_49
+  - first:
+      213: -2213511881188064276
+    second: Iron-Spider SV Battler 01_50
+  - first:
+      213: 94904402057162546
+    second: Iron-Spider SV Battler 01_51
+  - first:
+      213: 7356022267403652948
+    second: Iron-Spider SV Battler 01_52
+  - first:
+      213: -4345512126180638313
+    second: Iron-Spider SV Battler 01_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 319
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eff179476b7cea20800000000000000
+      internalID: 3092982727640743905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 319
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea4184319578da90800000000000000
+      internalID: -7288946730387551510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 319
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5733270954ad124a0800000000000000
+      internalID: -6619769984946916491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 319
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748b156368739c200800000000000000
+      internalID: 200752707971168327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 319
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fd5188265998d60800000000000000
+      internalID: 7893004072365973315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 319
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875364c857e5c2050800000000000000
+      internalID: 5777096280967099768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 319
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaba6567fdfc0e60800000000000000
+      internalID: 7929992282892843775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 319
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68a121b93124bae0800000000000000
+      internalID: -1534565041357870998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 319
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935e043987c6fc430800000000000000
+      internalID: 3805379475273737529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 255
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511ef4300cf8a5f50800000000000000
+      internalID: 6870962236359172373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 255
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574867bada49fea00800000000000000
+      internalID: 788011933440050293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 255
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab9dbeaa8d4df8c0800000000000000
+      internalID: -3963926838983681118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 255
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1ebbea692a5ba00800000000000000
+      internalID: 771701679224250852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff6081dd01e88ba0800000000000000
+      internalID: -6086367446925545487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 255
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cfeb29201efadf0800000000000000
+      internalID: -166667260021244903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 255
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f178d1155d525c370800000000000000
+      internalID: 8342115482892863263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 256
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde4d374fc8971a40800000000000000
+      internalID: 5338903899291864799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 257
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38c99e51c4089fe0800000000000000
+      internalID: -1182189673622419397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 191
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d852ea9fa191780800000000000000
+      internalID: -8711902344500638432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 191
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6240103df0033eb50800000000000000
+      internalID: 6621188721687462950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 191
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c6a7753c2e0d490800000000000000
+      internalID: -7723424032326259616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 191
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb82d632ad7e96f90800000000000000
+      internalID: -6959776825041147714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 191
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57fbea5de785ebb0800000000000000
+      internalID: -4907366765447874725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 191
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea82848ac209f2d80800000000000000
+      internalID: -8273235468980049746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_24
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 191
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d8a87a118f140b0800000000000000
+      internalID: -5746038894839034542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_25
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 191
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9010cb27b67b340800000000000000
+      internalID: 4879486861803850166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_26
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 191
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3583f31d68793c0800000000000000
+      internalID: -4352862281563352074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 127
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aac641a283f2baa0800000000000000
+      internalID: -6146582799030236508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 127
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b3feb501e039280800000000000000
+      internalID: -9037864563777782971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 127
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94d7d54b2b313e30800000000000000
+      internalID: 4481428161251759259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 127
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17d627b2f46b0730800000000000000
+      internalID: 3966374890447492891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_31
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 127
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b21b199cbe749b10800000000000000
+      internalID: 1987352684064871096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_32
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 127
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ae07a2497414f90800000000000000
+      internalID: -6971212046500042183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 127
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8190c4a26426ab0800000000000000
+      internalID: -5016369887459075919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_34
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 127
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff0b2aa95037ed70800000000000000
+      internalID: 9072273136026324988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_35
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 127
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7b7d34aa1adfda0800000000000000
+      internalID: -5909389383385499717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 63
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced4d7d9a69d6ad90800000000000000
+      internalID: -7086737911688901140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 63
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2564b22a20c364b80800000000000000
+      internalID: -8410969272059476398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 63
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21452f4fe2a3bab40800000000000000
+      internalID: 5452515747214545938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a0cad95ec29bf70800000000000000
+      internalID: 9203436678212749831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 63
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce99b8a437dcee40800000000000000
+      internalID: 5687157050631102145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f57f6d201cc6510800000000000000
+      internalID: 1543820990221868848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_42
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 63
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e0e316ee0e173b0800000000000000
+      internalID: -5516380754113851866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_43
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 63
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea32b0ec042ee520800000000000000
+      internalID: 2733161661588454124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_44
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 63
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd398f0727f7fbc0800000000000000
+      internalID: -3749256417626210870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3984197c3814d3b00800000000000000
+      internalID: 809875542241265811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_46
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b1656bed33f6d40800000000000000
+      internalID: 5579735494970186499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_47
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f1873ec9a51f420800000000000000
+      internalID: 2662008484630372193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e9bea749cfba150800000000000000
+      internalID: 5885075052737306206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_49
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca57ccbd8a96f04b0800000000000000
+      internalID: -5472038848268831316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3cda7fba60841e0800000000000000
+      internalID: -2213511881188064276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fec340d0b215100800000000000000
+      internalID: 94904402057162546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_52
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f45704747d51660800000000000000
+      internalID: 7356022267403652948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider SV Battler 01_53
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791c9d7aeb3a1b3c0800000000000000
+      internalID: -4345512126180638313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Iron-Spider SV Battler 01_0: 3092982727640743905
+      Iron-Spider SV Battler 01_1: -7288946730387551510
+      Iron-Spider SV Battler 01_10: 788011933440050293
+      Iron-Spider SV Battler 01_11: -3963926838983681118
+      Iron-Spider SV Battler 01_12: 771701679224250852
+      Iron-Spider SV Battler 01_13: -6086367446925545487
+      Iron-Spider SV Battler 01_14: -166667260021244903
+      Iron-Spider SV Battler 01_15: 8342115482892863263
+      Iron-Spider SV Battler 01_16: 5338903899291864799
+      Iron-Spider SV Battler 01_17: -1182189673622419397
+      Iron-Spider SV Battler 01_18: -8711902344500638432
+      Iron-Spider SV Battler 01_19: 6621188721687462950
+      Iron-Spider SV Battler 01_2: -6619769984946916491
+      Iron-Spider SV Battler 01_20: -7723424032326259616
+      Iron-Spider SV Battler 01_21: -6959776825041147714
+      Iron-Spider SV Battler 01_22: -4907366765447874725
+      Iron-Spider SV Battler 01_23: -8273235468980049746
+      Iron-Spider SV Battler 01_24: -5746038894839034542
+      Iron-Spider SV Battler 01_25: 4879486861803850166
+      Iron-Spider SV Battler 01_26: -4352862281563352074
+      Iron-Spider SV Battler 01_27: -6146582799030236508
+      Iron-Spider SV Battler 01_28: -9037864563777782971
+      Iron-Spider SV Battler 01_29: 4481428161251759259
+      Iron-Spider SV Battler 01_3: 200752707971168327
+      Iron-Spider SV Battler 01_30: 3966374890447492891
+      Iron-Spider SV Battler 01_31: 1987352684064871096
+      Iron-Spider SV Battler 01_32: -6971212046500042183
+      Iron-Spider SV Battler 01_33: -5016369887459075919
+      Iron-Spider SV Battler 01_34: 9072273136026324988
+      Iron-Spider SV Battler 01_35: -5909389383385499717
+      Iron-Spider SV Battler 01_36: -7086737911688901140
+      Iron-Spider SV Battler 01_37: -8410969272059476398
+      Iron-Spider SV Battler 01_38: 5452515747214545938
+      Iron-Spider SV Battler 01_39: 9203436678212749831
+      Iron-Spider SV Battler 01_4: 7893004072365973315
+      Iron-Spider SV Battler 01_40: 5687157050631102145
+      Iron-Spider SV Battler 01_41: 1543820990221868848
+      Iron-Spider SV Battler 01_42: -5516380754113851866
+      Iron-Spider SV Battler 01_43: 2733161661588454124
+      Iron-Spider SV Battler 01_44: -3749256417626210870
+      Iron-Spider SV Battler 01_45: 809875542241265811
+      Iron-Spider SV Battler 01_46: 5579735494970186499
+      Iron-Spider SV Battler 01_47: 2662008484630372193
+      Iron-Spider SV Battler 01_48: 5885075052737306206
+      Iron-Spider SV Battler 01_49: -5472038848268831316
+      Iron-Spider SV Battler 01_5: 5777096280967099768
+      Iron-Spider SV Battler 01_50: -2213511881188064276
+      Iron-Spider SV Battler 01_51: 94904402057162546
+      Iron-Spider SV Battler 01_52: 7356022267403652948
+      Iron-Spider SV Battler 01_53: -4345512126180638313
+      Iron-Spider SV Battler 01_6: 7929992282892843775
+      Iron-Spider SV Battler 01_7: -1534565041357870998
+      Iron-Spider SV Battler 01_8: 3805379475273737529
+      Iron-Spider SV Battler 01_9: 6870962236359172373
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

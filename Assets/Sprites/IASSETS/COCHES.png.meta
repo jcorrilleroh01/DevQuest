@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 4314412f897cd014fb8393fbb758c2df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7134075578561397158
+    second: COCHES_0
+  - first:
+      213: 1670296613591957979
+    second: COCHES_1
+  - first:
+      213: 7689049988119269029
+    second: COCHES_2
+  - first:
+      213: 2259078594535717567
+    second: COCHES_3
+  - first:
+      213: -5273582430376287630
+    second: COCHES_4
+  - first:
+      213: 2989747805903882795
+    second: COCHES_5
+  - first:
+      213: -3809828088403546680
+    second: COCHES_6
+  - first:
+      213: 4231043646673877842
+    second: COCHES_7
+  - first:
+      213: 8109031766050949352
+    second: COCHES_8
+  - first:
+      213: 7862571485679117086
+    second: COCHES_9
+  - first:
+      213: 4081243941784853895
+    second: COCHES_10
+  - first:
+      213: 2246344565938901197
+    second: COCHES_11
+  - first:
+      213: 5588212735993478427
+    second: COCHES_12
+  - first:
+      213: -2812211641596529990
+    second: COCHES_13
+  - first:
+      213: -7772309524845422860
+    second: COCHES_14
+  - first:
+      213: -8270065369914760657
+    second: COCHES_15
+  - first:
+      213: 2409266324283799261
+    second: COCHES_16
+  - first:
+      213: -3982253895399933718
+    second: COCHES_17
+  - first:
+      213: -6517130428559991458
+    second: COCHES_18
+  - first:
+      213: -6925422728725513242
+    second: COCHES_19
+  - first:
+      213: 5371933459905125979
+    second: COCHES_20
+  - first:
+      213: -4052665907530726162
+    second: COCHES_21
+  - first:
+      213: -571823984299160677
+    second: COCHES_22
+  - first:
+      213: 7751534843029567622
+    second: COCHES_23
+  - first:
+      213: 1122781076557873752
+    second: COCHES_24
+  - first:
+      213: -6960996056979544133
+    second: COCHES_25
+  - first:
+      213: 8723506300059420410
+    second: COCHES_26
+  - first:
+      213: 6804293664325482043
+    second: COCHES_27
+  - first:
+      213: -5766635292883588120
+    second: COCHES_28
+  - first:
+      213: 6277353333305328345
+    second: COCHES_29
+  - first:
+      213: -6004480501449922007
+    second: COCHES_30
+  - first:
+      213: -6953397862732097504
+    second: COCHES_31
+  - first:
+      213: -382927927322887883
+    second: COCHES_32
+  - first:
+      213: -6423675239868804
+    second: COCHES_33
+  - first:
+      213: 6789334505577763169
+    second: COCHES_34
+  - first:
+      213: -3424019662737505035
+    second: COCHES_35
+  - first:
+      213: -5994846339810378228
+    second: COCHES_36
+  - first:
+      213: -4063734619113693541
+    second: COCHES_37
+  - first:
+      213: 3545926910376513872
+    second: COCHES_38
+  - first:
+      213: 6293011019326186979
+    second: COCHES_39
+  - first:
+      213: -5815916075487626213
+    second: COCHES_40
+  - first:
+      213: 4774781067129037461
+    second: COCHES_41
+  - first:
+      213: -2037346511770459349
+    second: COCHES_42
+  - first:
+      213: -5363401679066847197
+    second: COCHES_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: COCHES_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 305
+        width: 303
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bcccdad197018f0800000000000000
+      internalID: -571823984299160677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COCHES_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 305
+        width: 304
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68837decedbf29b60800000000000000
+      internalID: 7751534843029567622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COCHES_24
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 305
+        width: 302
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85243ccb07be49f00800000000000000
+      internalID: 1122781076557873752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COCHES_41
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 28
+        width: 302
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592ac7a251e634240800000000000000
+      internalID: 4774781067129037461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COCHES_42
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 27
+        width: 302
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b236a815424e9b3e0800000000000000
+      internalID: -2037346511770459349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COCHES_43
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 27
+        width: 96
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328ac73e69e5195b0800000000000000
+      internalID: -5363401679066847197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 67aa2fd1fbf4eff46b6ed943ba7a62f6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      COCHES_0: -7134075578561397158
+      COCHES_1: 1670296613591957979
+      COCHES_10: 4081243941784853895
+      COCHES_11: 2246344565938901197
+      COCHES_12: 5588212735993478427
+      COCHES_13: -2812211641596529990
+      COCHES_14: -7772309524845422860
+      COCHES_15: -8270065369914760657
+      COCHES_16: 2409266324283799261
+      COCHES_17: -3982253895399933718
+      COCHES_18: -6517130428559991458
+      COCHES_19: -6925422728725513242
+      COCHES_2: 7689049988119269029
+      COCHES_20: 5371933459905125979
+      COCHES_21: -4052665907530726162
+      COCHES_22: -571823984299160677
+      COCHES_23: 7751534843029567622
+      COCHES_24: 1122781076557873752
+      COCHES_25: -6960996056979544133
+      COCHES_26: 8723506300059420410
+      COCHES_27: 6804293664325482043
+      COCHES_28: -5766635292883588120
+      COCHES_29: 6277353333305328345
+      COCHES_3: 2259078594535717567
+      COCHES_30: -6004480501449922007
+      COCHES_31: -6953397862732097504
+      COCHES_32: -382927927322887883
+      COCHES_33: -6423675239868804
+      COCHES_34: 6789334505577763169
+      COCHES_35: -3424019662737505035
+      COCHES_36: -5994846339810378228
+      COCHES_37: -4063734619113693541
+      COCHES_38: 3545926910376513872
+      COCHES_39: 6293011019326186979
+      COCHES_4: -5273582430376287630
+      COCHES_40: -5815916075487626213
+      COCHES_41: 4774781067129037461
+      COCHES_42: -2037346511770459349
+      COCHES_43: -5363401679066847197
+      COCHES_5: 2989747805903882795
+      COCHES_6: -3809828088403546680
+      COCHES_7: 4231043646673877842
+      COCHES_8: 8109031766050949352
+      COCHES_9: 7862571485679117086
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

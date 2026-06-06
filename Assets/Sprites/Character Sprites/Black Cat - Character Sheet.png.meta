@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 67345fca06f45774590f44213e558cfd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -644534936065739625
+    second: Black Cat - Character Sheet_0
+  - first:
+      213: -353548076255994851
+    second: Black Cat - Character Sheet_1
+  - first:
+      213: -2606012854683076968
+    second: Black Cat - Character Sheet_2
+  - first:
+      213: -9208887895551125941
+    second: Black Cat - Character Sheet_3
+  - first:
+      213: -3980685498873266880
+    second: Black Cat - Character Sheet_4
+  - first:
+      213: 929929991042555265
+    second: Black Cat - Character Sheet_5
+  - first:
+      213: 5121063859058381675
+    second: Black Cat - Character Sheet_6
+  - first:
+      213: -1272579757190129377
+    second: Black Cat - Character Sheet_7
+  - first:
+      213: 6950965122593516989
+    second: Black Cat - Character Sheet_8
+  - first:
+      213: 340088941387226822
+    second: Black Cat - Character Sheet_9
+  - first:
+      213: 3467170853240280027
+    second: Black Cat - Character Sheet_10
+  - first:
+      213: 3381608635678096611
+    second: Black Cat - Character Sheet_11
+  - first:
+      213: -2328117246044036523
+    second: Black Cat - Character Sheet_12
+  - first:
+      213: 5698029247327232468
+    second: Black Cat - Character Sheet_13
+  - first:
+      213: 2710231536996452931
+    second: Black Cat - Character Sheet_14
+  - first:
+      213: -1301880489636625991
+    second: Black Cat - Character Sheet_15
+  - first:
+      213: -6168012889825122761
+    second: Black Cat - Character Sheet_16
+  - first:
+      213: 7259180789877499127
+    second: Black Cat - Character Sheet_17
+  - first:
+      213: -3276289690312959882
+    second: Black Cat - Character Sheet_18
+  - first:
+      213: 3145872777048863201
+    second: Black Cat - Character Sheet_19
+  - first:
+      213: 6590803983621211095
+    second: Black Cat - Character Sheet_20
+  - first:
+      213: -977811117816134723
+    second: Black Cat - Character Sheet_21
+  - first:
+      213: -8949230052243362606
+    second: Black Cat - Character Sheet_22
+  - first:
+      213: -514766023237284621
+    second: Black Cat - Character Sheet_23
+  - first:
+      213: 8461813132036571025
+    second: Black Cat - Character Sheet_24
+  - first:
+      213: 4883667334373754872
+    second: Black Cat - Character Sheet_25
+  - first:
+      213: 5433849952660240549
+    second: Black Cat - Character Sheet_26
+  - first:
+      213: 1501312255965924189
+    second: Black Cat - Character Sheet_27
+  - first:
+      213: 8861656099331076330
+    second: Black Cat - Character Sheet_28
+  - first:
+      213: -4863400392250318829
+    second: Black Cat - Character Sheet_29
+  - first:
+      213: -776916686778398597
+    second: Black Cat - Character Sheet_30
+  - first:
+      213: 5576882630597861710
+    second: Black Cat - Character Sheet_31
+  - first:
+      213: -3344147186773889804
+    second: Black Cat - Character Sheet_32
+  - first:
+      213: 3336697968468298257
+    second: Black Cat - Character Sheet_33
+  - first:
+      213: -1121146691691625639
+    second: Black Cat - Character Sheet_34
+  - first:
+      213: 3571874041935378094
+    second: Black Cat - Character Sheet_35
+  - first:
+      213: 3144011301393366381
+    second: Black Cat - Character Sheet_36
+  - first:
+      213: -6095972469650877962
+    second: Black Cat - Character Sheet_37
+  - first:
+      213: -7885409982377013357
+    second: Black Cat - Character Sheet_38
+  - first:
+      213: 2358176352756146266
+    second: Black Cat - Character Sheet_39
+  - first:
+      213: 5781493728982169491
+    second: Black Cat - Character Sheet_40
+  - first:
+      213: -4183693742880264229
+    second: Black Cat - Character Sheet_41
+  - first:
+      213: 6021090978432742386
+    second: Black Cat - Character Sheet_42
+  - first:
+      213: -237390941124233287
+    second: Black Cat - Character Sheet_43
+  - first:
+      213: -4688094526656913125
+    second: Black Cat - Character Sheet_44
+  - first:
+      213: -7037351567019459115
+    second: Black Cat - Character Sheet_45
+  - first:
+      213: 8260889595019400555
+    second: Black Cat - Character Sheet_46
+  - first:
+      213: 4390813617152290563
+    second: Black Cat - Character Sheet_47
+  - first:
+      213: 5259227970722910796
+    second: Black Cat - Character Sheet_48
+  - first:
+      213: -3598678776293459910
+    second: Black Cat - Character Sheet_49
+  - first:
+      213: 5849724412686649962
+    second: Black Cat - Character Sheet_50
+  - first:
+      213: 6620845015628016410
+    second: Black Cat - Character Sheet_51
+  - first:
+      213: 8734482613752430136
+    second: Black Cat - Character Sheet_52
+  - first:
+      213: 2698073409101587332
+    second: Black Cat - Character Sheet_53
+  - first:
+      213: -3946045842481295256
+    second: Black Cat - Character Sheet_54
+  - first:
+      213: -2667100785347739801
+    second: Black Cat - Character Sheet_55
+  - first:
+      213: -2878269747459100074
+    second: Black Cat - Character Sheet_56
+  - first:
+      213: -3784675033722682392
+    second: Black Cat - Character Sheet_57
+  - first:
+      213: 7535531720428906939
+    second: Black Cat - Character Sheet_58
+  - first:
+      213: 2048264920330286869
+    second: Black Cat - Character Sheet_59
+  - first:
+      213: 4892231961064224525
+    second: Black Cat - Character Sheet_60
+  - first:
+      213: -7550406658887412260
+    second: Black Cat - Character Sheet_61
+  - first:
+      213: -7847001101024482348
+    second: Black Cat - Character Sheet_62
+  - first:
+      213: -8787501419420032825
+    second: Black Cat - Character Sheet_63
+  - first:
+      213: 7176866867808993817
+    second: Black Cat - Character Sheet_64
+  - first:
+      213: -2796835919328644365
+    second: Black Cat - Character Sheet_65
+  - first:
+      213: 3697739714445254765
+    second: Black Cat - Character Sheet_66
+  - first:
+      213: 2704735708385516048
+    second: Black Cat - Character Sheet_67
+  - first:
+      213: -7772606792054084465
+    second: Black Cat - Character Sheet_68
+  - first:
+      213: -6042338118676356701
+    second: Black Cat - Character Sheet_69
+  - first:
+      213: -1919333765898973937
+    second: Black Cat - Character Sheet_70
+  - first:
+      213: 5962319215013376420
+    second: Black Cat - Character Sheet_71
+  - first:
+      213: -7505723591202856509
+    second: Black Cat - Character Sheet_72
+  - first:
+      213: -729398054843986421
+    second: Black Cat - Character Sheet_73
+  - first:
+      213: 8485442725664060875
+    second: Black Cat - Character Sheet_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 335
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794f87af3e62e07f0800000000000000
+      internalID: -644534936065739625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 335
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c1db7d5e1f71bf0800000000000000
+      internalID: -353548076255994851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 335
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896738cad1595dbd0800000000000000
+      internalID: -2606012854683076968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 335
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46d741ff35733080800000000000000
+      internalID: -9208887895551125941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 335
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d3c1d11a3c1c8c0800000000000000
+      internalID: -3980685498873266880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 335
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dd21e5666c7ec00800000000000000
+      internalID: 929929991042555265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 335
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63144f727ca11740800000000000000
+      internalID: 5121063859058381675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 287
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1954580473e65ee0800000000000000
+      internalID: -1272579757190129377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 335
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbde05283f9c67060800000000000000
+      internalID: 6950965122593516989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 287
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce9c6f171d38b400800000000000000
+      internalID: 340088941387226822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 335
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd399fa658ddd1030800000000000000
+      internalID: 3467170853240280027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 287
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec7cfa3323edee20800000000000000
+      internalID: 3381608635678096611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 287
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552a51a13bdd0bfd0800000000000000
+      internalID: -2328117246044036523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 287
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1e9b63967731f40800000000000000
+      internalID: 5698029247327232468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 287
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a0cb5393dac9520800000000000000
+      internalID: 2710231536996452931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 287
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b18233a79aceede0800000000000000
+      internalID: -1301880489636625991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 287
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73661fbc4f0d66aa0800000000000000
+      internalID: -6168012889825122761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 287
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4ecf4b77acdb460800000000000000
+      internalID: 7259180789877499127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 239
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6781f9b92e74882d0800000000000000
+      internalID: -3276289690312959882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 239
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1b1988f9268ab20800000000000000
+      internalID: 3145872777048863201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 239
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3c8f3bd4d377b50800000000000000
+      internalID: 6590803983621211095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 239
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3442118fd1e62f0800000000000000
+      internalID: -977811117816134723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 239
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dca8cabea2fdc380800000000000000
+      internalID: -8949230052243362606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 239
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc408a770f2bd8f0800000000000000
+      internalID: -514766023237284621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 239
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f76c206366e6570800000000000000
+      internalID: 8461813132036571025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 239
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7c68ad09546c340800000000000000
+      internalID: 4883667334373754872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 239
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8361ffdb9e86b40800000000000000
+      internalID: 5433849952660240549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 191
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b0ac1ea8bb5d410800000000000000
+      internalID: 1501312255965924189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 191
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae07d42754deafa70800000000000000
+      internalID: 8861656099331076330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 191
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310ac635c1bb18cb0800000000000000
+      internalID: -4863400392250318829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 191
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b780080c366d735f0800000000000000
+      internalID: -776916686778398597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 191
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41e4d67431156d40800000000000000
+      internalID: 5576882630597861710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 191
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc68b70ad33791d0800000000000000
+      internalID: -3344147186773889804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 191
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a025daf155e4e20800000000000000
+      internalID: 3336697968468298257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 191
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953cd942603e070f0800000000000000
+      internalID: -1121146691691625639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 191
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea63ffb3488d19130800000000000000
+      internalID: 3571874041935378094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 192
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d7d55fe95c1ab20800000000000000
+      internalID: 3144011301393366381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 192
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f116e13651c66ba0800000000000000
+      internalID: -6095972469650877962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 192
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f49145665619290800000000000000
+      internalID: -7885409982377013357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 143
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50a1cf06ece9b020800000000000000
+      internalID: 2358176352756146266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 143
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39771233aedfb3050800000000000000
+      internalID: 5781493728982169491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 143
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfe89ef4b880f5c0800000000000000
+      internalID: -4183693742880264229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 143
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3fac108563f8350800000000000000
+      internalID: 6021090978432742386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 143
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7f461623e94bcf0800000000000000
+      internalID: -237390941124233287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 143
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b116929ddda80feb0800000000000000
+      internalID: -4688094526656913125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 144
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd3448090e465e90800000000000000
+      internalID: -7037351567019459115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 144
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b651adf815394a270800000000000000
+      internalID: 8260889595019400555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 144
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f6f45a8bd4fec30800000000000000
+      internalID: 4390813617152290563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42dcbb89f78cf840800000000000000
+      internalID: 5259227970722910796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 95
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a387a4638bcee0ec0800000000000000
+      internalID: -3598678776293459910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a4e143c556e2150800000000000000
+      internalID: 5849724412686649962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b6c658677f1eb50800000000000000
+      internalID: 6620845015628016410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 95
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ef981f8ad173970800000000000000
+      internalID: 8734482613752430136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4836d67787b717520800000000000000
+      internalID: 2698073409101587332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 96
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860de7b9634dc39c0800000000000000
+      internalID: -3946045842481295256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 96
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fbe2577fd8cfad0800000000000000
+      internalID: -2667100785347739801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 96
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65272f61ae45e08d0800000000000000
+      internalID: -2878269747459100074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 47
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e38ba0eb122a7bc0800000000000000
+      internalID: -3784675033722682392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 47
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb96addbc26939860800000000000000
+      internalID: 7535531720428906939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 47
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5173e26c716ec6c10800000000000000
+      internalID: 2048264920330286869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 47
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07bb066c03b4e340800000000000000
+      internalID: 4892231961064224525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 47
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd59543c521973790800000000000000
+      internalID: -7550406658887412260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 47
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db2655e21ad91390800000000000000
+      internalID: -7847001101024482348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 48
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c06a3864068c0680800000000000000
+      internalID: -8787501419420032825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 48
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9128600446a599360800000000000000
+      internalID: 7176866867808993817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 48
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2fc55bc84af29d0800000000000000
+      internalID: -2796835919328644365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d602d57cda2015330800000000000000
+      internalID: 3697739714445254765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a12a5ebc6298520800000000000000
+      internalID: 2704735708385516048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ce3dcbd47222490800000000000000
+      internalID: -7772606792054084465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a16e77ae7d452ca0800000000000000
+      internalID: -6042338118676356701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dcd26eb182d55e0800000000000000
+      internalID: -1919333765898973937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1bb508cb96eb250800000000000000
+      internalID: 5962319215013376420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1a51c292056d790800000000000000
+      internalID: -7505723591202856509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ec9296558a0e5f0800000000000000
+      internalID: -729398054843986421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Cat - Character Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5f021833952c570800000000000000
+      internalID: 8485442725664060875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black Cat - Character Sheet_0: -644534936065739625
+      Black Cat - Character Sheet_1: -353548076255994851
+      Black Cat - Character Sheet_10: 3467170853240280027
+      Black Cat - Character Sheet_11: 3381608635678096611
+      Black Cat - Character Sheet_12: -2328117246044036523
+      Black Cat - Character Sheet_13: 5698029247327232468
+      Black Cat - Character Sheet_14: 2710231536996452931
+      Black Cat - Character Sheet_15: -1301880489636625991
+      Black Cat - Character Sheet_16: -6168012889825122761
+      Black Cat - Character Sheet_17: 7259180789877499127
+      Black Cat - Character Sheet_18: -3276289690312959882
+      Black Cat - Character Sheet_19: 3145872777048863201
+      Black Cat - Character Sheet_2: -2606012854683076968
+      Black Cat - Character Sheet_20: 6590803983621211095
+      Black Cat - Character Sheet_21: -977811117816134723
+      Black Cat - Character Sheet_22: -8949230052243362606
+      Black Cat - Character Sheet_23: -514766023237284621
+      Black Cat - Character Sheet_24: 8461813132036571025
+      Black Cat - Character Sheet_25: 4883667334373754872
+      Black Cat - Character Sheet_26: 5433849952660240549
+      Black Cat - Character Sheet_27: 1501312255965924189
+      Black Cat - Character Sheet_28: 8861656099331076330
+      Black Cat - Character Sheet_29: -4863400392250318829
+      Black Cat - Character Sheet_3: -9208887895551125941
+      Black Cat - Character Sheet_30: -776916686778398597
+      Black Cat - Character Sheet_31: 5576882630597861710
+      Black Cat - Character Sheet_32: -3344147186773889804
+      Black Cat - Character Sheet_33: 3336697968468298257
+      Black Cat - Character Sheet_34: -1121146691691625639
+      Black Cat - Character Sheet_35: 3571874041935378094
+      Black Cat - Character Sheet_36: 3144011301393366381
+      Black Cat - Character Sheet_37: -6095972469650877962
+      Black Cat - Character Sheet_38: -7885409982377013357
+      Black Cat - Character Sheet_39: 2358176352756146266
+      Black Cat - Character Sheet_4: -3980685498873266880
+      Black Cat - Character Sheet_40: 5781493728982169491
+      Black Cat - Character Sheet_41: -4183693742880264229
+      Black Cat - Character Sheet_42: 6021090978432742386
+      Black Cat - Character Sheet_43: -237390941124233287
+      Black Cat - Character Sheet_44: -4688094526656913125
+      Black Cat - Character Sheet_45: -7037351567019459115
+      Black Cat - Character Sheet_46: 8260889595019400555
+      Black Cat - Character Sheet_47: 4390813617152290563
+      Black Cat - Character Sheet_48: 5259227970722910796
+      Black Cat - Character Sheet_49: -3598678776293459910
+      Black Cat - Character Sheet_5: 929929991042555265
+      Black Cat - Character Sheet_50: 5849724412686649962
+      Black Cat - Character Sheet_51: 6620845015628016410
+      Black Cat - Character Sheet_52: 8734482613752430136
+      Black Cat - Character Sheet_53: 2698073409101587332
+      Black Cat - Character Sheet_54: -3946045842481295256
+      Black Cat - Character Sheet_55: -2667100785347739801
+      Black Cat - Character Sheet_56: -2878269747459100074
+      Black Cat - Character Sheet_57: -3784675033722682392
+      Black Cat - Character Sheet_58: 7535531720428906939
+      Black Cat - Character Sheet_59: 2048264920330286869
+      Black Cat - Character Sheet_6: 5121063859058381675
+      Black Cat - Character Sheet_60: 4892231961064224525
+      Black Cat - Character Sheet_61: -7550406658887412260
+      Black Cat - Character Sheet_62: -7847001101024482348
+      Black Cat - Character Sheet_63: -8787501419420032825
+      Black Cat - Character Sheet_64: 7176866867808993817
+      Black Cat - Character Sheet_65: -2796835919328644365
+      Black Cat - Character Sheet_66: 3697739714445254765
+      Black Cat - Character Sheet_67: 2704735708385516048
+      Black Cat - Character Sheet_68: -7772606792054084465
+      Black Cat - Character Sheet_69: -6042338118676356701
+      Black Cat - Character Sheet_7: -1272579757190129377
+      Black Cat - Character Sheet_70: -1919333765898973937
+      Black Cat - Character Sheet_71: 5962319215013376420
+      Black Cat - Character Sheet_72: -7505723591202856509
+      Black Cat - Character Sheet_73: -729398054843986421
+      Black Cat - Character Sheet_74: 8485442725664060875
+      Black Cat - Character Sheet_8: 6950965122593516989
+      Black Cat - Character Sheet_9: 340088941387226822
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

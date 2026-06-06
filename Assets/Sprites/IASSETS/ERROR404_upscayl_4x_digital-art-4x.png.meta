@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: 7d3cce3d21771b240a5850230c653c9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6436771280721720120
+    second: ERROR404_upscayl_4x_digital-art-4x_0
+  - first:
+      213: 8972989172962350268
+    second: ERROR404_upscayl_4x_digital-art-4x_1
+  - first:
+      213: 6672126358275745350
+    second: ERROR404_upscayl_4x_digital-art-4x_2
+  - first:
+      213: 7709334201095814013
+    second: ERROR404_upscayl_4x_digital-art-4x_3
+  - first:
+      213: -1163153032941017615
+    second: ERROR404_upscayl_4x_digital-art-4x_4
+  - first:
+      213: -5468558157152638196
+    second: ERROR404_upscayl_4x_digital-art-4x_5
+  - first:
+      213: -1161531034986793762
+    second: ERROR404_upscayl_4x_digital-art-4x_6
+  - first:
+      213: -8079068493604716544
+    second: ERROR404_upscayl_4x_digital-art-4x_7
+  - first:
+      213: 7233776016624060203
+    second: ERROR404_upscayl_4x_digital-art-4x_8
+  - first:
+      213: -7198780039115266384
+    second: ERROR404_upscayl_4x_digital-art-4x_9
+  - first:
+      213: 1574037178130886670
+    second: ERROR404_upscayl_4x_digital-art-4x_10
+  - first:
+      213: 4813063660355988748
+    second: ERROR404_upscayl_4x_digital-art-4x_11
+  - first:
+      213: -144185356270014262
+    second: ERROR404_upscayl_4x_digital-art-4x_12
+  - first:
+      213: 5262260810112895894
+    second: ERROR404_upscayl_4x_digital-art-4x_13
+  - first:
+      213: 8052140623651758127
+    second: ERROR404_upscayl_4x_digital-art-4x_14
+  - first:
+      213: 6511322064736427828
+    second: ERROR404_upscayl_4x_digital-art-4x_15
+  - first:
+      213: 9109636670675818561
+    second: ERROR404_upscayl_4x_digital-art-4x_16
+  - first:
+      213: 5477455274806170920
+    second: ERROR404_upscayl_4x_digital-art-4x_17
+  - first:
+      213: -8551226546070343905
+    second: ERROR404_upscayl_4x_digital-art-4x_18
+  - first:
+      213: -7445213006169730718
+    second: ERROR404_upscayl_4x_digital-art-4x_19
+  - first:
+      213: -7120660134831537060
+    second: ERROR404_upscayl_4x_digital-art-4x_20
+  - first:
+      213: 4018719835749896560
+    second: ERROR404_upscayl_4x_digital-art-4x_21
+  - first:
+      213: 3878269825875501718
+    second: ERROR404_upscayl_4x_digital-art-4x_22
+  - first:
+      213: 9207846777387679636
+    second: ERROR404_upscayl_4x_digital-art-4x_23
+  - first:
+      213: -6950259594839387262
+    second: ERROR404_upscayl_4x_digital-art-4x_24
+  - first:
+      213: 3532331764719361771
+    second: ERROR404_upscayl_4x_digital-art-4x_25
+  - first:
+      213: -1258946673742618951
+    second: ERROR404_upscayl_4x_digital-art-4x_26
+  - first:
+      213: -2726544119110090331
+    second: ERROR404_upscayl_4x_digital-art-4x_27
+  - first:
+      213: -680090480340879061
+    second: ERROR404_upscayl_4x_digital-art-4x_28
+  - first:
+      213: 6269591848452402611
+    second: ERROR404_upscayl_4x_digital-art-4x_29
+  - first:
+      213: 8771566343519816999
+    second: ERROR404_upscayl_4x_digital-art-4x_30
+  - first:
+      213: 1996314643494508386
+    second: ERROR404_upscayl_4x_digital-art-4x_31
+  - first:
+      213: 5285758630750849041
+    second: ERROR404_upscayl_4x_digital-art-4x_32
+  - first:
+      213: 6307699459128730128
+    second: ERROR404_upscayl_4x_digital-art-4x_33
+  - first:
+      213: 7886340095704746034
+    second: ERROR404_upscayl_4x_digital-art-4x_34
+  - first:
+      213: -5528154574392428131
+    second: ERROR404_upscayl_4x_digital-art-4x_35
+  - first:
+      213: -319643285031346206
+    second: ERROR404_upscayl_4x_digital-art-4x_36
+  - first:
+      213: 5579380940116583892
+    second: ERROR404_upscayl_4x_digital-art-4x_37
+  - first:
+      213: 6098870072804103046
+    second: ERROR404_upscayl_4x_digital-art-4x_38
+  - first:
+      213: 2480916714374789858
+    second: ERROR404_upscayl_4x_digital-art-4x_39
+  - first:
+      213: -8476174288560917591
+    second: ERROR404_upscayl_4x_digital-art-4x_40
+  - first:
+      213: -2440152597430935215
+    second: ERROR404_upscayl_4x_digital-art-4x_41
+  - first:
+      213: 7780607357380908073
+    second: ERROR404_upscayl_4x_digital-art-4x_42
+  - first:
+      213: 709527008686397111
+    second: ERROR404_upscayl_4x_digital-art-4x_43
+  - first:
+      213: -7269423274952959342
+    second: ERROR404_upscayl_4x_digital-art-4x_44
+  - first:
+      213: 8517450063384996300
+    second: ERROR404_upscayl_4x_digital-art-4x_45
+  - first:
+      213: 6944383136166749244
+    second: ERROR404_upscayl_4x_digital-art-4x_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_0
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1995
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833bad75061045950800000000000000
+      internalID: 6436771280721720120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1975
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4d8d3ac16768c70800000000000000
+      internalID: 8972989172962350268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_2
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1975
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646eb898297289c50800000000000000
+      internalID: 6672126358275745350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1951
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bf51f2c9e0dfa60800000000000000
+      internalID: 7709334201095814013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_4
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1907
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5e12caa76abdfe0800000000000000
+      internalID: -1163153032941017615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_5
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1887
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b2a596457cb14b0800000000000000
+      internalID: -5468558157152638196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1859
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed435008da961efe0800000000000000
+      internalID: -1161531034986793762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_7
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1835
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00004a2820261ef80800000000000000
+      internalID: -8079068493604716544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_8
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1831
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b270e9ff5f8836460800000000000000
+      internalID: 7233776016624060203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_9
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1823
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6ac58f1bbc81c90800000000000000
+      internalID: -7198780039115266384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_10
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1815
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00ffb1597a18d510800000000000000
+      internalID: 1574037178130886670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_11
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1815
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d2cdcf5ef6bc240800000000000000
+      internalID: 4813063660355988748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_12
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1791
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac076b1be20cffdf0800000000000000
+      internalID: -144185356270014262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_13
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1787
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b0d3e735e470940800000000000000
+      internalID: 5262260810112895894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1695
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2061423c33febf60800000000000000
+      internalID: 8052140623651758127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_15
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 239
+        width: 1554
+        height: 1502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f17ce5becdc5a50800000000000000
+      internalID: 6511322064736427828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1683
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148118c794eeb6e70800000000000000
+      internalID: 9109636670675818561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1671
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82559e73d84d30c40800000000000000
+      internalID: 5477455274806170920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1615
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f269f33c0f35980800000000000000
+      internalID: -8551226546070343905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_19
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1499
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2619222a73a4da890800000000000000
+      internalID: -7445213006169730718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_20
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1475
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54c41195555e2d90800000000000000
+      internalID: -7120660134831537060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1415
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07150b5066c55c730800000000000000
+      internalID: 4018719835749896560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1287
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692ec62dbd162d530800000000000000
+      internalID: 3878269825875501718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1275
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ffa68dbd7d8cf70800000000000000
+      internalID: 9207846777387679636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_24
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1263
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28319d8f8b7bb8f90800000000000000
+      internalID: -6950259594839387262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1179
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee1de0660d550130800000000000000
+      internalID: 3532331764719361771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1175
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be5960aba2578ee0800000000000000
+      internalID: -1258946673742618951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 923
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1430cc19e592ad0800000000000000
+      internalID: -2726544119110090331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_28
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 899
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b293828bf45df86f0800000000000000
+      internalID: -680090480340879061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 819
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bda0b58190120750800000000000000
+      internalID: 6269591848452402611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 623
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d454d9d1ddab970800000000000000
+      internalID: 8771566343519816999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_31
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 359
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2679661679554bb10800000000000000
+      internalID: 1996314643494508386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 239
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1180c523879ca5940800000000000000
+      internalID: 5285758630750849041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_33
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 239
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012aa4b0d33798750800000000000000
+      internalID: 6307699459128730128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_34
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 231
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238c66e8888e17d60800000000000000
+      internalID: 7886340095704746034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_35
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 211
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9973e934bc0843b0800000000000000
+      internalID: -5528154574392428131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_36
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef1ed43026609bf0800000000000000
+      internalID: -319643285031346206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_37
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 191
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5eb3a7761fd6d40800000000000000
+      internalID: 5579380940116583892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_38
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683dfbc940a83a450800000000000000
+      internalID: 6098870072804103046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_39
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea73a57b9cfd6220800000000000000
+      internalID: 2480916714374789858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_40
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3f60ca4649e5a80800000000000000
+      internalID: -8476174288560917591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_41
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151e1602426d22ed0800000000000000
+      internalID: -2440152597430935215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_42
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924da790b254afb60800000000000000
+      internalID: 7780607357380908073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_43
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b65c4f1e0fb8d900800000000000000
+      internalID: 709527008686397111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_44
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ad876eb02dd1b90800000000000000
+      internalID: -7269423274952959342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_45
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9e03c84bf043670800000000000000
+      internalID: 8517450063384996300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ERROR404_upscayl_4x_digital-art-4x_46
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34ae6f5ba76f5060800000000000000
+      internalID: 6944383136166749244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ERROR404_upscayl_4x_digital-art-4x_0: 6436771280721720120
+      ERROR404_upscayl_4x_digital-art-4x_1: 8972989172962350268
+      ERROR404_upscayl_4x_digital-art-4x_10: 1574037178130886670
+      ERROR404_upscayl_4x_digital-art-4x_11: 4813063660355988748
+      ERROR404_upscayl_4x_digital-art-4x_12: -144185356270014262
+      ERROR404_upscayl_4x_digital-art-4x_13: 5262260810112895894
+      ERROR404_upscayl_4x_digital-art-4x_14: 8052140623651758127
+      ERROR404_upscayl_4x_digital-art-4x_15: 6511322064736427828
+      ERROR404_upscayl_4x_digital-art-4x_16: 9109636670675818561
+      ERROR404_upscayl_4x_digital-art-4x_17: 5477455274806170920
+      ERROR404_upscayl_4x_digital-art-4x_18: -8551226546070343905
+      ERROR404_upscayl_4x_digital-art-4x_19: -7445213006169730718
+      ERROR404_upscayl_4x_digital-art-4x_2: 6672126358275745350
+      ERROR404_upscayl_4x_digital-art-4x_20: -7120660134831537060
+      ERROR404_upscayl_4x_digital-art-4x_21: 4018719835749896560
+      ERROR404_upscayl_4x_digital-art-4x_22: 3878269825875501718
+      ERROR404_upscayl_4x_digital-art-4x_23: 9207846777387679636
+      ERROR404_upscayl_4x_digital-art-4x_24: -6950259594839387262
+      ERROR404_upscayl_4x_digital-art-4x_25: 3532331764719361771
+      ERROR404_upscayl_4x_digital-art-4x_26: -1258946673742618951
+      ERROR404_upscayl_4x_digital-art-4x_27: -2726544119110090331
+      ERROR404_upscayl_4x_digital-art-4x_28: -680090480340879061
+      ERROR404_upscayl_4x_digital-art-4x_29: 6269591848452402611
+      ERROR404_upscayl_4x_digital-art-4x_3: 7709334201095814013
+      ERROR404_upscayl_4x_digital-art-4x_30: 8771566343519816999
+      ERROR404_upscayl_4x_digital-art-4x_31: 1996314643494508386
+      ERROR404_upscayl_4x_digital-art-4x_32: 5285758630750849041
+      ERROR404_upscayl_4x_digital-art-4x_33: 6307699459128730128
+      ERROR404_upscayl_4x_digital-art-4x_34: 7886340095704746034
+      ERROR404_upscayl_4x_digital-art-4x_35: -5528154574392428131
+      ERROR404_upscayl_4x_digital-art-4x_36: -319643285031346206
+      ERROR404_upscayl_4x_digital-art-4x_37: 5579380940116583892
+      ERROR404_upscayl_4x_digital-art-4x_38: 6098870072804103046
+      ERROR404_upscayl_4x_digital-art-4x_39: 2480916714374789858
+      ERROR404_upscayl_4x_digital-art-4x_4: -1163153032941017615
+      ERROR404_upscayl_4x_digital-art-4x_40: -8476174288560917591
+      ERROR404_upscayl_4x_digital-art-4x_41: -2440152597430935215
+      ERROR404_upscayl_4x_digital-art-4x_42: 7780607357380908073
+      ERROR404_upscayl_4x_digital-art-4x_43: 709527008686397111
+      ERROR404_upscayl_4x_digital-art-4x_44: -7269423274952959342
+      ERROR404_upscayl_4x_digital-art-4x_45: 8517450063384996300
+      ERROR404_upscayl_4x_digital-art-4x_46: 6944383136166749244
+      ERROR404_upscayl_4x_digital-art-4x_5: -5468558157152638196
+      ERROR404_upscayl_4x_digital-art-4x_6: -1161531034986793762
+      ERROR404_upscayl_4x_digital-art-4x_7: -8079068493604716544
+      ERROR404_upscayl_4x_digital-art-4x_8: 7233776016624060203
+      ERROR404_upscayl_4x_digital-art-4x_9: -7198780039115266384
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

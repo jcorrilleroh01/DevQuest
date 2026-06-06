@@ -1,0 +1,1859 @@
+fileFormatVersion: 2
+guid: c6e450019f266f84ca640219569f566f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5038405144303718408
+    second: Iron-Spider Character Set_0
+  - first:
+      213: -6428710315746779862
+    second: Iron-Spider Character Set_1
+  - first:
+      213: -7727846922499565207
+    second: Iron-Spider Character Set_2
+  - first:
+      213: 1768563713471233002
+    second: Iron-Spider Character Set_3
+  - first:
+      213: -5455461289931533147
+    second: Iron-Spider Character Set_4
+  - first:
+      213: 2135427014453996338
+    second: Iron-Spider Character Set_5
+  - first:
+      213: -4177421544835636732
+    second: Iron-Spider Character Set_6
+  - first:
+      213: -2794481124405443825
+    second: Iron-Spider Character Set_7
+  - first:
+      213: -210235722700807329
+    second: Iron-Spider Character Set_8
+  - first:
+      213: -1310579110648167454
+    second: Iron-Spider Character Set_9
+  - first:
+      213: 7502838548222013473
+    second: Iron-Spider Character Set_10
+  - first:
+      213: 6503827892250276718
+    second: Iron-Spider Character Set_11
+  - first:
+      213: -3112210774096996584
+    second: Iron-Spider Character Set_12
+  - first:
+      213: 3058551141718610791
+    second: Iron-Spider Character Set_13
+  - first:
+      213: 9039594081619554782
+    second: Iron-Spider Character Set_14
+  - first:
+      213: -3410976167375843371
+    second: Iron-Spider Character Set_15
+  - first:
+      213: 4852557850347916728
+    second: Iron-Spider Character Set_16
+  - first:
+      213: 2527353263309656457
+    second: Iron-Spider Character Set_17
+  - first:
+      213: -7360497232020331006
+    second: Iron-Spider Character Set_18
+  - first:
+      213: 8813469770699317056
+    second: Iron-Spider Character Set_19
+  - first:
+      213: -256288484517506476
+    second: Iron-Spider Character Set_20
+  - first:
+      213: 1319820524946675499
+    second: Iron-Spider Character Set_21
+  - first:
+      213: 684453637458655311
+    second: Iron-Spider Character Set_22
+  - first:
+      213: 5918905117933901774
+    second: Iron-Spider Character Set_23
+  - first:
+      213: -7292895299022514118
+    second: Iron-Spider Character Set_24
+  - first:
+      213: -5944095731027322835
+    second: Iron-Spider Character Set_25
+  - first:
+      213: -1653801371198929704
+    second: Iron-Spider Character Set_26
+  - first:
+      213: -5029346100750513021
+    second: Iron-Spider Character Set_27
+  - first:
+      213: -8332398126757268007
+    second: Iron-Spider Character Set_28
+  - first:
+      213: 4703707824336703313
+    second: Iron-Spider Character Set_29
+  - first:
+      213: 1177287202411007810
+    second: Iron-Spider Character Set_30
+  - first:
+      213: 2122962538132694503
+    second: Iron-Spider Character Set_31
+  - first:
+      213: -5661476236993400847
+    second: Iron-Spider Character Set_32
+  - first:
+      213: 8779240419783531552
+    second: Iron-Spider Character Set_33
+  - first:
+      213: -6222426680325093868
+    second: Iron-Spider Character Set_34
+  - first:
+      213: -6614653422397461342
+    second: Iron-Spider Character Set_35
+  - first:
+      213: -9080267063291284045
+    second: Iron-Spider Character Set_36
+  - first:
+      213: -7598168361887494655
+    second: Iron-Spider Character Set_37
+  - first:
+      213: 2676353095983218393
+    second: Iron-Spider Character Set_38
+  - first:
+      213: -7620655399478425871
+    second: Iron-Spider Character Set_39
+  - first:
+      213: 6637810572240953404
+    second: Iron-Spider Character Set_40
+  - first:
+      213: 6925150246842338601
+    second: Iron-Spider Character Set_41
+  - first:
+      213: 2729631112857138737
+    second: Iron-Spider Character Set_42
+  - first:
+      213: 786146485595296154
+    second: Iron-Spider Character Set_43
+  - first:
+      213: -5573115239943666928
+    second: Iron-Spider Character Set_44
+  - first:
+      213: 1428959617288893723
+    second: Iron-Spider Character Set_45
+  - first:
+      213: 2734220099196864981
+    second: Iron-Spider Character Set_46
+  - first:
+      213: 4760623026182281359
+    second: Iron-Spider Character Set_47
+  - first:
+      213: -6701534321791890448
+    second: Iron-Spider Character Set_48
+  - first:
+      213: 6085761358612523332
+    second: Iron-Spider Character Set_49
+  - first:
+      213: -1465562518485759242
+    second: Iron-Spider Character Set_50
+  - first:
+      213: -5256065996156589267
+    second: Iron-Spider Character Set_51
+  - first:
+      213: 396042087447301372
+    second: Iron-Spider Character Set_52
+  - first:
+      213: -6663400029124116295
+    second: Iron-Spider Character Set_53
+  - first:
+      213: 6576298305352582123
+    second: Iron-Spider Character Set_54
+  - first:
+      213: -5724257220372063284
+    second: Iron-Spider Character Set_55
+  - first:
+      213: 6097220480260135930
+    second: Iron-Spider Character Set_56
+  - first:
+      213: -7890505000520987507
+    second: Iron-Spider Character Set_57
+  - first:
+      213: 4040076451317988733
+    second: Iron-Spider Character Set_58
+  - first:
+      213: -330703511095269360
+    second: Iron-Spider Character Set_59
+  - first:
+      213: 1256374616797034730
+    second: Iron-Spider Character Set_60
+  - first:
+      213: -4541113649440794787
+    second: Iron-Spider Character Set_61
+  - first:
+      213: -5176886702188067454
+    second: Iron-Spider Character Set_62
+  - first:
+      213: 8559944797788552372
+    second: Iron-Spider Character Set_63
+  - first:
+      213: 6744664356523844990
+    second: Iron-Spider Character Set_64
+  - first:
+      213: 328684417706189596
+    second: Iron-Spider Character Set_65
+  - first:
+      213: -410214518869149148
+    second: Iron-Spider Character Set_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 335
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80059bcb8c20ce540800000000000000
+      internalID: 5038405144303718408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 335
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d16025702a8c6a0800000000000000
+      internalID: -6428710315746779862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 335
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96951d9fa2c21c490800000000000000
+      internalID: -7727846922499565207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 335
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb3910c3533b8810800000000000000
+      internalID: 1768563713471233002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 335
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a49cbf6cde4a44b0800000000000000
+      internalID: -5455461289931533147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 335
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bad404e8f82ad10800000000000000
+      internalID: 2135427014453996338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 287
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4022207ec31d606c0800000000000000
+      internalID: -4177421544835636732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 287
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03874029320839d0800000000000000
+      internalID: -2794481124405443825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 287
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53225d59b7151df0800000000000000
+      internalID: -210235722700807329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 287
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3c4cb1e33efcde0800000000000000
+      internalID: -1310579110648167454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 287
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12071e968ef6f1860800000000000000
+      internalID: 7502838548222013473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 287
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63fadd520d324a50800000000000000
+      internalID: 6503827892250276718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 239
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8171ec74ac43fc4d0800000000000000
+      internalID: -3112210774096996584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 239
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763d089fe08227a20800000000000000
+      internalID: 3058551141718610791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 239
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed138a46ce6137d70800000000000000
+      internalID: 9039594081619554782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 239
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df4d367f37c9a0d0800000000000000
+      internalID: -3410976167375843371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 239
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd450aa7afb75340800000000000000
+      internalID: 4852557850347916728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 239
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9811f790766f21320800000000000000
+      internalID: 2527353263309656457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 191
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206ae2bd3c24ad990800000000000000
+      internalID: -7360497232020331006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 191
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f1d298f0cbf4a70800000000000000
+      internalID: 8813469770699317056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 191
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4529f403bfa717cf0800000000000000
+      internalID: -256288484517506476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 191
+        width: 146
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2757b456c1f05210800000000000000
+      internalID: 1319820524946675499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_22
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 144
+        width: 145
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4872f5f4faaf7900800000000000000
+      internalID: 684453637458655311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_23
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 192
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec711b558dc242250800000000000000
+      internalID: 5918905117933901774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_24
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 192
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3895ad6d5e6aca90800000000000000
+      internalID: -7292895299022514118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_25
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 192
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2853310d64528da0800000000000000
+      internalID: -5944095731027322835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d442a44a648c09e0800000000000000
+      internalID: -1653801371198929704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 143
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c05443e5c243ab0800000000000000
+      internalID: -5029346100750513021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 143
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5b087fc006d5c80800000000000000
+      internalID: -8332398126757268007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_29
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f80dc485de64140800000000000000
+      internalID: 4703707824336703313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 143
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f425a1970965010800000000000000
+      internalID: 1177287202411007810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_31
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 143
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e56cd43e27467d10800000000000000
+      internalID: 2122962538132694503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_32
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 143
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff61b5bb556e61b0800000000000000
+      internalID: -5661476236993400847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 143
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cd2fab5a026d970800000000000000
+      internalID: 8779240419783531552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_34
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 143
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4164f4ee6ef75a9a0800000000000000
+      internalID: -6222426680325093868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_35
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 96
+        width: 145
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac6dad12c70434a0800000000000000
+      internalID: -6614653422397461342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5f7da17396cf180800000000000000
+      internalID: -9080267063291284045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 95
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e8516b122ed8690800000000000000
+      internalID: -7598168361887494655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 95
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deb89bf5f0542520800000000000000
+      internalID: 2676353095983218393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_39
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 95
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f60d664a4efd3690800000000000000
+      internalID: -7620655399478425871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_40
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 95
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3021ccfb8d3e1c50800000000000000
+      internalID: 6637810572240953404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_41
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 95
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d0f3f55731b1060800000000000000
+      internalID: 6925150246842338601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13634b1f80991e520800000000000000
+      internalID: 2729631112857138737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_43
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 95
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91545f3014f8ea00800000000000000
+      internalID: 786146485595296154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_44
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 95
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01387d6873158a2b0800000000000000
+      internalID: -5573115239943666928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 47
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15f1e2733fa4d310800000000000000
+      internalID: 1428959617288893723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_46
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 47
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9cc5691b6e1f520800000000000000
+      internalID: 2734220099196864981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 47
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88d3216b61211240800000000000000
+      internalID: 4760623026182281359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_48
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb81836a0e5ff2a0800000000000000
+      internalID: -6701534321791890448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_49
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449e5ef36b7f47450800000000000000
+      internalID: 6085761358612523332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 47
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa878187a649abe0800000000000000
+      internalID: -1465562518485759242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_51
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 47
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ba31703d3be07b0800000000000000
+      internalID: -5256065996156589267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_52
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 47
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc86622e260f7500800000000000000
+      internalID: 396042087447301372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_53
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 47
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0cabb4af8d683a0800000000000000
+      internalID: -6663400029124116295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_54
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 48
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be34b8b4774b34b50800000000000000
+      internalID: 6576298305352582123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_55
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 48
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb12c0f26a5f80b0800000000000000
+      internalID: -5724257220372063284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_56
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 48
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb542be8bdad9450800000000000000
+      internalID: 6097220480260135930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cc089f18b4f7290800000000000000
+      internalID: -7890505000520987507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_58
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dba32902c311830800000000000000
+      internalID: 4040076451317988733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_59
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0182137a8ea196bf0800000000000000
+      internalID: -330703511095269360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_60
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 146
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae83103be0a8f6110800000000000000
+      internalID: 1256374616797034730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_61
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5757681239baf0c0800000000000000
+      internalID: -4541113649440794787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_62
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28503a109f00828b0800000000000000
+      internalID: -5176886702188067454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_63
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcb329e0780bc670800000000000000
+      internalID: 8559944797788552372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_64
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75a7db5f7cd99d50800000000000000
+      internalID: 6744664356523844990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_65
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1365988cb8bf8400800000000000000
+      internalID: 328684417706189596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron-Spider Character Set_66
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ab8198110ae4af0800000000000000
+      internalID: -410214518869149148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Iron-Spider Character Set_0: 5038405144303718408
+      Iron-Spider Character Set_1: -6428710315746779862
+      Iron-Spider Character Set_10: 7502838548222013473
+      Iron-Spider Character Set_11: 6503827892250276718
+      Iron-Spider Character Set_12: -3112210774096996584
+      Iron-Spider Character Set_13: 3058551141718610791
+      Iron-Spider Character Set_14: 9039594081619554782
+      Iron-Spider Character Set_15: -3410976167375843371
+      Iron-Spider Character Set_16: 4852557850347916728
+      Iron-Spider Character Set_17: 2527353263309656457
+      Iron-Spider Character Set_18: -7360497232020331006
+      Iron-Spider Character Set_19: 8813469770699317056
+      Iron-Spider Character Set_2: -7727846922499565207
+      Iron-Spider Character Set_20: -256288484517506476
+      Iron-Spider Character Set_21: 1319820524946675499
+      Iron-Spider Character Set_22: 684453637458655311
+      Iron-Spider Character Set_23: 5918905117933901774
+      Iron-Spider Character Set_24: -7292895299022514118
+      Iron-Spider Character Set_25: -5944095731027322835
+      Iron-Spider Character Set_26: -1653801371198929704
+      Iron-Spider Character Set_27: -5029346100750513021
+      Iron-Spider Character Set_28: -8332398126757268007
+      Iron-Spider Character Set_29: 4703707824336703313
+      Iron-Spider Character Set_3: 1768563713471233002
+      Iron-Spider Character Set_30: 1177287202411007810
+      Iron-Spider Character Set_31: 2122962538132694503
+      Iron-Spider Character Set_32: -5661476236993400847
+      Iron-Spider Character Set_33: 8779240419783531552
+      Iron-Spider Character Set_34: -6222426680325093868
+      Iron-Spider Character Set_35: -6614653422397461342
+      Iron-Spider Character Set_36: -9080267063291284045
+      Iron-Spider Character Set_37: -7598168361887494655
+      Iron-Spider Character Set_38: 2676353095983218393
+      Iron-Spider Character Set_39: -7620655399478425871
+      Iron-Spider Character Set_4: -5455461289931533147
+      Iron-Spider Character Set_40: 6637810572240953404
+      Iron-Spider Character Set_41: 6925150246842338601
+      Iron-Spider Character Set_42: 2729631112857138737
+      Iron-Spider Character Set_43: 786146485595296154
+      Iron-Spider Character Set_44: -5573115239943666928
+      Iron-Spider Character Set_45: 1428959617288893723
+      Iron-Spider Character Set_46: 2734220099196864981
+      Iron-Spider Character Set_47: 4760623026182281359
+      Iron-Spider Character Set_48: -6701534321791890448
+      Iron-Spider Character Set_49: 6085761358612523332
+      Iron-Spider Character Set_5: 2135427014453996338
+      Iron-Spider Character Set_50: -1465562518485759242
+      Iron-Spider Character Set_51: -5256065996156589267
+      Iron-Spider Character Set_52: 396042087447301372
+      Iron-Spider Character Set_53: -6663400029124116295
+      Iron-Spider Character Set_54: 6576298305352582123
+      Iron-Spider Character Set_55: -5724257220372063284
+      Iron-Spider Character Set_56: 6097220480260135930
+      Iron-Spider Character Set_57: -7890505000520987507
+      Iron-Spider Character Set_58: 4040076451317988733
+      Iron-Spider Character Set_59: -330703511095269360
+      Iron-Spider Character Set_6: -4177421544835636732
+      Iron-Spider Character Set_60: 1256374616797034730
+      Iron-Spider Character Set_61: -4541113649440794787
+      Iron-Spider Character Set_62: -5176886702188067454
+      Iron-Spider Character Set_63: 8559944797788552372
+      Iron-Spider Character Set_64: 6744664356523844990
+      Iron-Spider Character Set_65: 328684417706189596
+      Iron-Spider Character Set_66: -410214518869149148
+      Iron-Spider Character Set_7: -2794481124405443825
+      Iron-Spider Character Set_8: -210235722700807329
+      Iron-Spider Character Set_9: -1310579110648167454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

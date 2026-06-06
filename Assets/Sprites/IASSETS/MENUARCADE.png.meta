@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: dc10709bbdefb56418e608d017a47acb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5407847092295768132
+    second: MENUARCADE_0
+  - first:
+      213: 8735289105681484152
+    second: MENUARCADE_1
+  - first:
+      213: 4816593282927302798
+    second: MENUARCADE_2
+  - first:
+      213: -8853444408321799521
+    second: MENUARCADE_3
+  - first:
+      213: 2423649921718009395
+    second: MENUARCADE_4
+  - first:
+      213: 7823621482880018990
+    second: MENUARCADE_5
+  - first:
+      213: 3553229981141951989
+    second: MENUARCADE_6
+  - first:
+      213: -7158525880450642917
+    second: MENUARCADE_7
+  - first:
+      213: 3009670718992449853
+    second: MENUARCADE_8
+  - first:
+      213: 5863262818375976815
+    second: MENUARCADE_9
+  - first:
+      213: 4772229979721452289
+    second: MENUARCADE_10
+  - first:
+      213: -8264936186752583835
+    second: MENUARCADE_11
+  - first:
+      213: 5888085174545535100
+    second: MENUARCADE_12
+  - first:
+      213: -8693240260540526687
+    second: MENUARCADE_13
+  - first:
+      213: 2243705789173493428
+    second: MENUARCADE_14
+  - first:
+      213: 6302967848023630025
+    second: MENUARCADE_15
+  - first:
+      213: -7247997882673759671
+    second: MENUARCADE_16
+  - first:
+      213: 5724252599069779630
+    second: MENUARCADE_17
+  - first:
+      213: -2708413453112112458
+    second: MENUARCADE_18
+  - first:
+      213: -1704014249552418601
+    second: MENUARCADE_19
+  - first:
+      213: 2439693540008985541
+    second: MENUARCADE_20
+  - first:
+      213: -5238075329261164430
+    second: MENUARCADE_21
+  - first:
+      213: -3262903318489827192
+    second: MENUARCADE_22
+  - first:
+      213: -6187779513677362215
+    second: MENUARCADE_23
+  - first:
+      213: -8711809162711292041
+    second: MENUARCADE_24
+  - first:
+      213: -4717297435084789696
+    second: MENUARCADE_25
+  - first:
+      213: -228341893779852989
+    second: MENUARCADE_26
+  - first:
+      213: -4831069486380631460
+    second: MENUARCADE_27
+  - first:
+      213: 6750913396845665314
+    second: MENUARCADE_28
+  - first:
+      213: -5234219618312543733
+    second: MENUARCADE_29
+  - first:
+      213: -1385381767885627076
+    second: MENUARCADE_30
+  - first:
+      213: 6637669089617381398
+    second: MENUARCADE_31
+  - first:
+      213: 9029548949345115465
+    second: MENUARCADE_32
+  - first:
+      213: -7779794216841900593
+    second: MENUARCADE_33
+  - first:
+      213: -502558070578678099
+    second: MENUARCADE_34
+  - first:
+      213: 4959298986072625406
+    second: MENUARCADE_35
+  - first:
+      213: -975522510056742166
+    second: MENUARCADE_36
+  - first:
+      213: 7399810110795690652
+    second: MENUARCADE_37
+  - first:
+      213: -1971649472753978604
+    second: MENUARCADE_38
+  - first:
+      213: -7907218511261701900
+    second: MENUARCADE_39
+  - first:
+      213: 4582309048437517003
+    second: MENUARCADE_40
+  - first:
+      213: -5405702102338177546
+    second: MENUARCADE_41
+  - first:
+      213: 9176280232577083746
+    second: MENUARCADE_42
+  - first:
+      213: 1461309194339841460
+    second: MENUARCADE_43
+  - first:
+      213: -1358275280940430625
+    second: MENUARCADE_44
+  - first:
+      213: -3598864367997582904
+    second: MENUARCADE_45
+  - first:
+      213: 1478137268254158480
+    second: MENUARCADE_46
+  - first:
+      213: 51661022124035478
+    second: MENUARCADE_47
+  - first:
+      213: -2666226578781816083
+    second: MENUARCADE_48
+  - first:
+      213: 1775120591812147632
+    second: MENUARCADE_49
+  - first:
+      213: -130332263315545493
+    second: MENUARCADE_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MENUARCADE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 834
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4481be747488c0b40800000000000000
+      internalID: 5407847092295768132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_1
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1075
+        width: 268
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8790c7af82bf93970800000000000000
+      internalID: 8735289105681484152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_2
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1075
+        width: 269
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e881a68421af7d240800000000000000
+      internalID: 4816593282927302798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_3
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1075
+        width: 268
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a8f4bd73f322580800000000000000
+      internalID: -8853444408321799521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_4
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1075
+        width: 268
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eb7e343c882a120800000000000000
+      internalID: 2423649921718009395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_5
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1075
+        width: 324
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aad209946139c60800000000000000
+      internalID: 7823621482880018990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_6
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1034
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5eb3f87db9f4130800000000000000
+      internalID: 3553229981141951989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_7
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1034
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c8c44a3aec7ac90800000000000000
+      internalID: -7158525880450642917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_8
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1034
+        width: 69
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d318070b29f74c920800000000000000
+      internalID: 3009670718992449853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_9
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1035
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f674e0ae77e7e5150800000000000000
+      internalID: 5863262818375976815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_10
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1034
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b44c7d1ed5a3240800000000000000
+      internalID: 4772229979721452289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_11
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1034
+        width: 79
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5673751e35c0d4d80800000000000000
+      internalID: -8264936186752583835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_12
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1034
+        width: 141
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70d704154ea6b150800000000000000
+      internalID: 5888085174545535100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_13
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 891
+        width: 269
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af8b53ba086b5780800000000000000
+      internalID: -8693240260540526687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_14
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 891
+        width: 270
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be6c20178e332f10800000000000000
+      internalID: 2243705789173493428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_15
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 891
+        width: 268
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0282cfcd3a87750800000000000000
+      internalID: 6302967848023630025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_16
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 891
+        width: 268
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a7276c350f96b90800000000000000
+      internalID: -7247997882673759671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_17
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 891
+        width: 267
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea629241961a07f40800000000000000
+      internalID: 5724252599069779630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_18
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 731
+        width: 270
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba0d5e6058c96ad0800000000000000
+      internalID: -2708413453112112458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_19
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 731
+        width: 269
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8693b71102a58e0800000000000000
+      internalID: -1704014249552418601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_20
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 730
+        width: 268
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c30d0d39588bd120800000000000000
+      internalID: 2439693540008985541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_21
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 731
+        width: 267
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278a6a49d3e9e47b0800000000000000
+      internalID: -5238075329261164430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_22
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 730
+        width: 267
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88878fc28b6d7b2d0800000000000000
+      internalID: -3262903318489827192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_23
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 686
+        width: 127
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db42da0157902aa0800000000000000
+      internalID: -6187779513677362215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_24
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 686
+        width: 106
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777a99149bf691780800000000000000
+      internalID: -8711809162711292041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_25
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 686
+        width: 138
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048e8e1e9fac88eb0800000000000000
+      internalID: -4717297435084789696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_26
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 686
+        width: 139
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34179e5e144c4dcf0800000000000000
+      internalID: -228341893779852989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_27
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 686
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5abd03f5e794fcb0800000000000000
+      internalID: -4831069486380631460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_28
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 431
+        width: 372
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c596077ff00bd50800000000000000
+      internalID: 6750913396845665314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_29
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 431
+        width: 377
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02a91e3df05c57b0800000000000000
+      internalID: -5234219618312543733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_30
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 517
+        width: 270
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31efd64f9226cce0800000000000000
+      internalID: -1385381767885627076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_31
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 517
+        width: 268
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6180c3f7edcbd1c50800000000000000
+      internalID: 6637669089617381398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_32
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 517
+        width: 267
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d97b7cde66f4d70800000000000000
+      internalID: 9029548949345115465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_33
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 517
+        width: 266
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd008ff06e980490800000000000000
+      internalID: -7779794216841900593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_34
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 517
+        width: 266
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6f624f81e8609f0800000000000000
+      internalID: -502558070578678099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_35
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 472
+        width: 118
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef050dff628f2d440800000000000000
+      internalID: 4959298986072625406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_36
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 473
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2aba5127f3672f0800000000000000
+      internalID: -975522510056742166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_37
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 472
+        width: 106
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c923253071861b660800000000000000
+      internalID: 7399810110795690652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_38
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 472
+        width: 139
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413b9e2304b43a4e0800000000000000
+      internalID: -1971649472753978604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_39
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 472
+        width: 139
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f86ad288aae34290800000000000000
+      internalID: -7907218511261701900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_40
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 472
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca2d2b2dc1a79f30800000000000000
+      internalID: 4582309048437517003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 403
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5fc8c14961bf4b0800000000000000
+      internalID: -5405702102338177546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_42
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 58
+        width: 327
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2692236e042b85f70800000000000000
+      internalID: 9176280232577083746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_43
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 68
+        width: 344
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b573ab48fc974410800000000000000
+      internalID: 1461309194339841460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_44
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 58
+        width: 357
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda0a5414df662de0800000000000000
+      internalID: -1358275280940430625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_45
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 58
+        width: 326
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c181b6cce34e0ec0800000000000000
+      internalID: -3598864367997582904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_46
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 227
+        width: 66
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e2e839306638410800000000000000
+      internalID: 1478137268254158480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_47
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 227
+        width: 68
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dcf680d6987b000800000000000000
+      internalID: 51661022124035478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_48
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 248
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea31098d09affad0800000000000000
+      internalID: -2666226578781816083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_49
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 68
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9b174f5ce72a810800000000000000
+      internalID: 1775120591812147632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MENUARCADE_50
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 0
+        width: 203
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62ed4e3f77f03ef0800000000000000
+      internalID: -130332263315545493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MENUARCADE_0: 5407847092295768132
+      MENUARCADE_1: 8735289105681484152
+      MENUARCADE_10: 4772229979721452289
+      MENUARCADE_11: -8264936186752583835
+      MENUARCADE_12: 5888085174545535100
+      MENUARCADE_13: -8693240260540526687
+      MENUARCADE_14: 2243705789173493428
+      MENUARCADE_15: 6302967848023630025
+      MENUARCADE_16: -7247997882673759671
+      MENUARCADE_17: 5724252599069779630
+      MENUARCADE_18: -2708413453112112458
+      MENUARCADE_19: -1704014249552418601
+      MENUARCADE_2: 4816593282927302798
+      MENUARCADE_20: 2439693540008985541
+      MENUARCADE_21: -5238075329261164430
+      MENUARCADE_22: -3262903318489827192
+      MENUARCADE_23: -6187779513677362215
+      MENUARCADE_24: -8711809162711292041
+      MENUARCADE_25: -4717297435084789696
+      MENUARCADE_26: -228341893779852989
+      MENUARCADE_27: -4831069486380631460
+      MENUARCADE_28: 6750913396845665314
+      MENUARCADE_29: -5234219618312543733
+      MENUARCADE_3: -8853444408321799521
+      MENUARCADE_30: -1385381767885627076
+      MENUARCADE_31: 6637669089617381398
+      MENUARCADE_32: 9029548949345115465
+      MENUARCADE_33: -7779794216841900593
+      MENUARCADE_34: -502558070578678099
+      MENUARCADE_35: 4959298986072625406
+      MENUARCADE_36: -975522510056742166
+      MENUARCADE_37: 7399810110795690652
+      MENUARCADE_38: -1971649472753978604
+      MENUARCADE_39: -7907218511261701900
+      MENUARCADE_4: 2423649921718009395
+      MENUARCADE_40: 4582309048437517003
+      MENUARCADE_41: -5405702102338177546
+      MENUARCADE_42: 9176280232577083746
+      MENUARCADE_43: 1461309194339841460
+      MENUARCADE_44: -1358275280940430625
+      MENUARCADE_45: -3598864367997582904
+      MENUARCADE_46: 1478137268254158480
+      MENUARCADE_47: 51661022124035478
+      MENUARCADE_48: -2666226578781816083
+      MENUARCADE_49: 1775120591812147632
+      MENUARCADE_5: 7823621482880018990
+      MENUARCADE_50: -130332263315545493
+      MENUARCADE_6: 3553229981141951989
+      MENUARCADE_7: -7158525880450642917
+      MENUARCADE_8: 3009670718992449853
+      MENUARCADE_9: 5863262818375976815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

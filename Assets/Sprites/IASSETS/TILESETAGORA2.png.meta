@@ -1,0 +1,3470 @@
+fileFormatVersion: 2
+guid: 8d9d1493ba256a748b6be37e51652ace
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4654980084408390421
+    second: TILESETAGORA2_0
+  - first:
+      213: 3739198615276779402
+    second: TILESETAGORA2_1
+  - first:
+      213: 8556431677782715921
+    second: TILESETAGORA2_2
+  - first:
+      213: -8925421386165444365
+    second: TILESETAGORA2_3
+  - first:
+      213: -8419980951907535913
+    second: TILESETAGORA2_4
+  - first:
+      213: -7511804649827311315
+    second: TILESETAGORA2_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TILESETAGORA2_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 556
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bece150c640366fb0800000000000000
+      internalID: -4654980084408390421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 479
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a877438545d44e330800000000000000
+      internalID: 3739198615276779402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 333
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e632be64d8eb670800000000000000
+      internalID: 8556431677782715921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 405
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f02fe6c988822480800000000000000
+      internalID: -8925421386165444365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 334
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3fef96fe7362b80800000000000000
+      internalID: -8419980951907535913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 333
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d216ae06875b0c790800000000000000
+      internalID: -7511804649827311315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 602
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4179296cc6ab13146b630cb3be10102e
+      internalID: 515491085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 602
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06457e484ac18b84f8ab09a20323bf09
+      internalID: 1596977679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 556
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ae55e9d23245547bcdf088827aeab8
+      internalID: 1493707572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 602
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbc025f768d4c2488fe2fd708b34353
+      internalID: 1465585505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_10
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 555
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0602eac2bd433c4b912fc0cec7b8027
+      internalID: 1680517204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 603
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e61f7545aa9424f87610ff5306bb4d
+      internalID: -621003351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 555
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011791d46c989714494904210cdd08b1
+      internalID: 452474306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_13
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 604
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351fe2fd2dff02344b1b245e21889ed7
+      internalID: -1127599229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 554
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a325617d450164bb07da892e015c63
+      internalID: 799292394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 604
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3962eef1a3ca649bff375066820c32
+      internalID: -1804888275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 554
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8d002cff660bb4fa3ea7a95c9e0c9b
+      internalID: -1365358356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 603
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7e10cee6c16ee40807d5c698d51104
+      internalID: 2012373310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_18
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 554
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030ae943c17c9d14195bcdfd8a3ce40d
+      internalID: -1077562591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_19
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 603
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0758a7f2cabc34943ae47f8a2b153480
+      internalID: 249186993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 554
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa84844f557d96a4fb58ec05b96a8bc2
+      internalID: 1631492374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_21
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 602
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d22296cfc680545ae45031a707d9d6
+      internalID: 780473056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_22
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 602
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed782e57f036594d8de95f61d54c14a
+      internalID: -1001726663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_23
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 553
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f6f668a9b3b324ba3eb61d4c46a306
+      internalID: -1552301011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_24
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 554
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb112f67c19fa644188293591efcf319
+      internalID: 1185506614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_25
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 555
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e0259dd3fb4124f809a996efe06c82
+      internalID: -259822734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_26
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 602
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52349cf9060b390478db055631561476
+      internalID: 103706257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_27
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 602
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5c788101571c34bbcb295f5755a22a
+      internalID: -2070691255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_28
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 552
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb592386486ae94da0e766606ecd220
+      internalID: -1939450264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_29
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 554
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501bc5e15978e0b4caaeacd456bca7b5
+      internalID: -1701313107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_30
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 603
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad04b6f69ff0e844693e0192573520d0
+      internalID: -1222540464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_31
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 602
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221ad4ebd43f8ed4a9c106565c79e1ca
+      internalID: 565691928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_32
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 602
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e61d6376ff0ab84eb62a652a4e11281
+      internalID: 662648091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_33
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 604
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d286a2c5b8d3d84299d9a0104b79391
+      internalID: -324903901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_34
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 602
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4875c4cca8051b4e9b06c6d980fb230
+      internalID: -1175021345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_35
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 554
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dce37444dab80c449b6bfedcbfb0663
+      internalID: -1992920431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_36
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 553
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4166f88457cfd42b07793fd81fce10
+      internalID: -683407903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_37
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 603
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcebef16aad9d5499ada18e3cf5445a
+      internalID: -1052032497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_38
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 603
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8950aa9aab0ae994cbd804649c329ce2
+      internalID: 374589607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_39
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 604
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365a1f44cf3fd2948a021d89ee8c14cd
+      internalID: -239054267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_40
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 555
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f7f398b9086d448b73e6cc039a0073
+      internalID: 1768127469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_41
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 555
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425b534f240005e4db1db966ab22ba71
+      internalID: -562068995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_42
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 430
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8d7db3cd7d86148858aeb96e61100e
+      internalID: 2125214720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_43
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 429
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dd66ae7632c6c41866e024479128fe
+      internalID: -1927323938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 479
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b63bb0001c325b4ba17c9b9e0ee03d0
+      internalID: 2034690859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_45
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 430
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2439f8d427599ab43a0312d7112fa750
+      internalID: 1142265150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_46
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 477
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcff1d8865d8d54d9af7bf21aed1762
+      internalID: -1073016158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 480
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea26ffbc1f284c4fb8b06bac599d85f
+      internalID: 1080816960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_48
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 431
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172f08d8fb0064d498d986c9fc4733fe
+      internalID: -1242693448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 479
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f3e896d3a0f8a408f035bcdb6a3bc4
+      internalID: 1907949099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_50
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 427
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8fee374603fdc4db85b4c30018bdb0
+      internalID: 244966092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_51
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 430
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7bf2c915ee0834aa9f9b4fe2a431f2
+      internalID: -755098817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_52
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 481
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa48ce4e6c7aafb43960754ca32e12b3
+      internalID: -1701534736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_53
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 477
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f3574071d266c46911dbce5f5ccb43
+      internalID: -242635403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_54
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 427
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ab412548f7d0c48a011250f732ccca
+      internalID: -752435945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_55
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 430
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9694f7e64e8cb4f4385d52c8673fc194
+      internalID: -393567984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_56
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 479
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b0f79bde940440981db4b36b13cfe
+      internalID: 1352853615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_57
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 479
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c305545f5e72b1046a8057b4c05ff514
+      internalID: 1543326427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_58
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 430
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed0829c32fcc304389e9e0c87fc8f0f
+      internalID: 46342508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_59
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 430
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d422c3c22de1b44e82781de6e1421fe
+      internalID: -139651815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_60
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 479
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e259617bd94e1e4480040d8e46483bb
+      internalID: 1616156912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_61
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 477
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f520b97add4e1249aca72ec71a13d8a
+      internalID: 1715312462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_62
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 429
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f693bd9253024f14e878e8e18600c2ab
+      internalID: -1103718600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_63
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 429
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d13e0a24803ddb4a9d448b757968680
+      internalID: -2146086564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_64
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 477
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7246ebb95d0faa4084049072aff5725
+      internalID: 489594786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_65
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 478
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5ae249bbd7c52419e92e03370b3443
+      internalID: -1429949264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_66
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 429
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bdeeebaea946345a602df79f167196
+      internalID: -171444615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_67
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 479
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b427153afdb07a4eb85545ed9004101
+      internalID: 38350970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_68
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 430
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8d52a3813bcfe4ca7260064430b71f
+      internalID: -1681363378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_69
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 429
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562b2903c7e05ff4faaa68de8d5a3c65
+      internalID: 1734190022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_70
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 480
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296a72b05e24bcd44a5fa4cc4c93d985
+      internalID: 1350766719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_71
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 478
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3147b0971ca4fd041806aaaea2d67fbe
+      internalID: -1331072999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_72
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 429
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cdf218d9518b34ca43925625a84895
+      internalID: -1538348993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_73
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 429
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ded18f5748913e4a8a01481d7d38768
+      internalID: -119457136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_74
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 480
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67699d28aca6fb74ba710c2adf7dbb52
+      internalID: 2048152510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_75
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 479
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0f3795974a31845bc50cd1015bf98a
+      internalID: -1738297301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_76
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 430
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f2eee54e7f30944b52423da7ebcfd7
+      internalID: -1070616887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_77
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 479
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab400f155680134896251ccb48c6d98
+      internalID: 2141917875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_78
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 429
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6871bd7f2cdd34480b643076a73ba2
+      internalID: -1349793222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_79
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 479
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493a173d512849840aacec0e5739e46a
+      internalID: -2024202580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_80
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 428
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9ed02b2c5a934498948568e74acaa4
+      internalID: -1922266572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_81
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 351
+        width: 243
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9b3c6dc15859c439c5b7c287d42892
+      internalID: -2073354325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_82
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 351
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6863ac5af2ffd0b458565e40991a8929
+      internalID: -296474159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_83
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 359
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d09241024c776459181e00ede39304
+      internalID: 1852029070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_84
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 358
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8533ec57bb57d47b1684aa8165e613
+      internalID: -189642289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_85
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 358
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02602df5325586d46a034ebceb163103
+      internalID: 446226611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_86
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 353
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b2c0e5bd092d54089e6f78d8db77a3
+      internalID: 164326675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_87
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 354
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db9185889802c54ab59d497e692161e
+      internalID: -1150267702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_88
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 351
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56c16013a5f2ab46a4fdb28a8490f11
+      internalID: -1031848280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_89
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 353
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00edfc033fc1374eb85e6ea826162b9
+      internalID: 1384255633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_90
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 353
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b16cd5772aa87e469004b04e9505739
+      internalID: 1094116807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_91
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 354
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56e18fdaf3fb054c8f20f4e0e7ec287
+      internalID: 2020647823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_92
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 354
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8886fa234fbbf9d49b5f390db8a486d2
+      internalID: -1479058982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_93
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 354
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7ba1c46c6c9c844963615d9f965b80
+      internalID: -266882439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_94
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 352
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e86c7e59b71a545a946cb23be4d0f5
+      internalID: -1855539583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_95
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 231
+        width: 150
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea446d49aa7601040ac4fe27a912ffe3
+      internalID: 1111426662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_96
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 231
+        width: 153
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd639c1735f2de246a12680546d08171
+      internalID: 439640202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_97
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 226
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03935fd1e2079b64dab60e01cee0ab12
+      internalID: -1312561661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_98
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 226
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432b1f36f8366d94cb368f2bb6537e8f
+      internalID: 1276650524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_99
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 227
+        width: 26
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90523622e8b7e545bff4b3cab3dbacd
+      internalID: -807266787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_100
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 226
+        width: 22
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5e46a660310b0488380014ac5d1aed
+      internalID: -2070616692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_101
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 227
+        width: 181
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75caccca8039364eb7026b566326448
+      internalID: -230770538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_102
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 227
+        width: 184
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6cb3ed14c008f4da4929da14b2bc23
+      internalID: 1285009379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_103
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 227
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6468d15ea985d5e46bc320823549b862
+      internalID: -2108956327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_104
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 227
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77db15d5832ffe74caad172581bd8a88
+      internalID: 212202087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_105
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 36
+        width: 56
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c6ecdf9280e9643a60dbefb5ae6668
+      internalID: -1625935710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_106
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 33
+        width: 97
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8529ca155afba8841b3cd63f1434857e
+      internalID: -800777431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_107
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 91
+        width: 98
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8408120bd038724c964f116af150604
+      internalID: 745407595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_108
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 146
+        width: 98
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96605cb5f8052c24eb097ec131586178
+      internalID: 2069906991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_109
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 84
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5963b34f465a5104586b76bd8ff9360d
+      internalID: -1413955940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_110
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 23
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322f515b822afc244ae3354566321b38
+      internalID: 1325492797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_111
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 37
+        width: 107
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b982a43bb10394bba11baec6993053
+      internalID: 1076994294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_112
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 34
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828a39f8dd296df4dadbda6920383f00
+      internalID: 365829838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_113
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 88
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ee17b3ddbb8c44b91d5ed6a2c45540
+      internalID: 2015710149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_114
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 146
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202b28ec8ddad7a4789f9b628d20dfc7
+      internalID: -1384954911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_115
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 33
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1876740b10be60947860a7263c2719a5
+      internalID: 1860151068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_116
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 32
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a252cd5668c5e43b7308057a9fc2bb
+      internalID: -2140312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_117
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 32
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca50af9565bd8c41a55985a20d5aff0
+      internalID: -1611352065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_118
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 32
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f70fba79dd33e4886dc7be98f91949
+      internalID: -1211310839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_119
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 92
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc4d0b5346cce5479bc5a0722d5dcbd
+      internalID: -40496392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_120
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 93
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395ee7b59f4d0414b9520d02803227b3
+      internalID: -667359551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_121
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 87
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7befda2dfe71c479a277682fea1c9e
+      internalID: -1146832780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_122
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 88
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea08adb6e5f96f244980dc6f35a4edc8
+      internalID: -1619022305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_123
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 149
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd9e86aedcfe134a9a237bc10bdfbe3
+      internalID: 1597200253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_124
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 149
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d048420c133c35347950431eec4977ee
+      internalID: 487495853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_125
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 147
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e539cd20783f46c4cb972e75856e4642
+      internalID: -1271027867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_126
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 146
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad358af4a2285a841a93f209c3c238d2
+      internalID: 1281739673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_127
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 35
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cba337680c2a0a42aa0d10022f55a7e
+      internalID: -859176482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_128
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 29
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c23dcde4ff7a244d9c62c5d843126b4
+      internalID: -1803896488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_129
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 35
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5984f7d67e329458cd922fb6ff2907
+      internalID: 1316485202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_130
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 30
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c751cee5d532ba46ad08e7afb58bb4b
+      internalID: 1654469424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_131
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 30
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e08c7c4d5e9cd649a1ed4c0c32a7ec3
+      internalID: -213591779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_132
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 89
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3464fda66db3d24fbebc34b5c7b2d64
+      internalID: 1559907196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_133
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 91
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588089f54a6d4d54ebdf97f797df9b21
+      internalID: 429449706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_134
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 91
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30446ad5536b7947b8ccc50fff1995e
+      internalID: -1588413638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_135
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 90
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1697f402adedf8343b6c155bd56219e2
+      internalID: -1831581115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_136
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 144
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7a1a2f4b0733b4d978297cbbdbe6d0
+      internalID: -1756327862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_137
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 146
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b09a10bbb858448819177816226393
+      internalID: -1510057864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_138
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 91
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa19886f262ec72408f96fcc9b8134cb
+      internalID: -1913846640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_139
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 35
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07ce17f9e21b8a4a8dd5859ffffc1b6
+      internalID: 1440334686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_140
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 34
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec22514ee07bdb14d842358507d313cf
+      internalID: -1830529439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_141
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 89
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83103dd5626201240bdff8d660ac40de
+      internalID: 296180312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_142
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 147
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601513f8b44037c4a8ea741ff7d387a8
+      internalID: -616158672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_143
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 147
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ee72774e38c2a428aa2f49fed570d1
+      internalID: 331060357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESETAGORA2_144
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 145
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2458038a60a9947a9ab28db00dbb54
+      internalID: -244747560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 13b62557edc2785419e110f72b65f5ed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TILESETAGORA2_0: -4654980084408390421
+      TILESETAGORA2_1: 3739198615276779402
+      TILESETAGORA2_10: 1680517204
+      TILESETAGORA2_100: -2070616692
+      TILESETAGORA2_101: -230770538
+      TILESETAGORA2_102: 1285009379
+      TILESETAGORA2_103: -2108956327
+      TILESETAGORA2_104: 212202087
+      TILESETAGORA2_105: -1625935710
+      TILESETAGORA2_106: -800777431
+      TILESETAGORA2_107: 745407595
+      TILESETAGORA2_108: 2069906991
+      TILESETAGORA2_109: -1413955940
+      TILESETAGORA2_11: -621003351
+      TILESETAGORA2_110: 1325492797
+      TILESETAGORA2_111: 1076994294
+      TILESETAGORA2_112: 365829838
+      TILESETAGORA2_113: 2015710149
+      TILESETAGORA2_114: -1384954911
+      TILESETAGORA2_115: 1860151068
+      TILESETAGORA2_116: -2140312
+      TILESETAGORA2_117: -1611352065
+      TILESETAGORA2_118: -1211310839
+      TILESETAGORA2_119: -40496392
+      TILESETAGORA2_12: 452474306
+      TILESETAGORA2_120: -667359551
+      TILESETAGORA2_121: -1146832780
+      TILESETAGORA2_122: -1619022305
+      TILESETAGORA2_123: 1597200253
+      TILESETAGORA2_124: 487495853
+      TILESETAGORA2_125: -1271027867
+      TILESETAGORA2_126: 1281739673
+      TILESETAGORA2_127: -859176482
+      TILESETAGORA2_128: -1803896488
+      TILESETAGORA2_129: 1316485202
+      TILESETAGORA2_13: -1127599229
+      TILESETAGORA2_130: 1654469424
+      TILESETAGORA2_131: -213591779
+      TILESETAGORA2_132: 1559907196
+      TILESETAGORA2_133: 429449706
+      TILESETAGORA2_134: -1588413638
+      TILESETAGORA2_135: -1831581115
+      TILESETAGORA2_136: -1756327862
+      TILESETAGORA2_137: -1510057864
+      TILESETAGORA2_138: -1913846640
+      TILESETAGORA2_139: 1440334686
+      TILESETAGORA2_14: 799292394
+      TILESETAGORA2_140: -1830529439
+      TILESETAGORA2_141: 296180312
+      TILESETAGORA2_142: -616158672
+      TILESETAGORA2_143: 331060357
+      TILESETAGORA2_144: -244747560
+      TILESETAGORA2_15: -1804888275
+      TILESETAGORA2_16: -1365358356
+      TILESETAGORA2_17: 2012373310
+      TILESETAGORA2_18: -1077562591
+      TILESETAGORA2_19: 249186993
+      TILESETAGORA2_2: 8556431677782715921
+      TILESETAGORA2_20: 1631492374
+      TILESETAGORA2_21: 780473056
+      TILESETAGORA2_22: -1001726663
+      TILESETAGORA2_23: -1552301011
+      TILESETAGORA2_24: 1185506614
+      TILESETAGORA2_25: -259822734
+      TILESETAGORA2_26: 103706257
+      TILESETAGORA2_27: -2070691255
+      TILESETAGORA2_28: -1939450264
+      TILESETAGORA2_29: -1701313107
+      TILESETAGORA2_3: -8925421386165444365
+      TILESETAGORA2_30: -1222540464
+      TILESETAGORA2_31: 565691928
+      TILESETAGORA2_32: 662648091
+      TILESETAGORA2_33: -324903901
+      TILESETAGORA2_34: -1175021345
+      TILESETAGORA2_35: -1992920431
+      TILESETAGORA2_36: -683407903
+      TILESETAGORA2_37: -1052032497
+      TILESETAGORA2_38: 374589607
+      TILESETAGORA2_39: -239054267
+      TILESETAGORA2_4: -8419980951907535913
+      TILESETAGORA2_40: 1768127469
+      TILESETAGORA2_41: -562068995
+      TILESETAGORA2_42: 2125214720
+      TILESETAGORA2_43: -1927323938
+      TILESETAGORA2_44: 2034690859
+      TILESETAGORA2_45: 1142265150
+      TILESETAGORA2_46: -1073016158
+      TILESETAGORA2_47: 1080816960
+      TILESETAGORA2_48: -1242693448
+      TILESETAGORA2_49: 1907949099
+      TILESETAGORA2_5: -7511804649827311315
+      TILESETAGORA2_50: 244966092
+      TILESETAGORA2_51: -755098817
+      TILESETAGORA2_52: -1701534736
+      TILESETAGORA2_53: -242635403
+      TILESETAGORA2_54: -752435945
+      TILESETAGORA2_55: -393567984
+      TILESETAGORA2_56: 1352853615
+      TILESETAGORA2_57: 1543326427
+      TILESETAGORA2_58: 46342508
+      TILESETAGORA2_59: -139651815
+      TILESETAGORA2_6: 515491085
+      TILESETAGORA2_60: 1616156912
+      TILESETAGORA2_61: 1715312462
+      TILESETAGORA2_62: -1103718600
+      TILESETAGORA2_63: -2146086564
+      TILESETAGORA2_64: 489594786
+      TILESETAGORA2_65: -1429949264
+      TILESETAGORA2_66: -171444615
+      TILESETAGORA2_67: 38350970
+      TILESETAGORA2_68: -1681363378
+      TILESETAGORA2_69: 1734190022
+      TILESETAGORA2_7: 1596977679
+      TILESETAGORA2_70: 1350766719
+      TILESETAGORA2_71: -1331072999
+      TILESETAGORA2_72: -1538348993
+      TILESETAGORA2_73: -119457136
+      TILESETAGORA2_74: 2048152510
+      TILESETAGORA2_75: -1738297301
+      TILESETAGORA2_76: -1070616887
+      TILESETAGORA2_77: 2141917875
+      TILESETAGORA2_78: -1349793222
+      TILESETAGORA2_79: -2024202580
+      TILESETAGORA2_8: 1493707572
+      TILESETAGORA2_80: -1922266572
+      TILESETAGORA2_81: -2073354325
+      TILESETAGORA2_82: -296474159
+      TILESETAGORA2_83: 1852029070
+      TILESETAGORA2_84: -189642289
+      TILESETAGORA2_85: 446226611
+      TILESETAGORA2_86: 164326675
+      TILESETAGORA2_87: -1150267702
+      TILESETAGORA2_88: -1031848280
+      TILESETAGORA2_89: 1384255633
+      TILESETAGORA2_9: 1465585505
+      TILESETAGORA2_90: 1094116807
+      TILESETAGORA2_91: 2020647823
+      TILESETAGORA2_92: -1479058982
+      TILESETAGORA2_93: -266882439
+      TILESETAGORA2_94: -1855539583
+      TILESETAGORA2_95: 1111426662
+      TILESETAGORA2_96: 439640202
+      TILESETAGORA2_97: -1312561661
+      TILESETAGORA2_98: 1276650524
+      TILESETAGORA2_99: -807266787
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

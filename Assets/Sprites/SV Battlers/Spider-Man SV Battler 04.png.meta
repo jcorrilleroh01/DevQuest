@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: b01d8b342436b3744bf7d30a591c3497
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -178553327354342495
+    second: Spider-Man SV Battler 04_0
+  - first:
+      213: -151596044966035599
+    second: Spider-Man SV Battler 04_1
+  - first:
+      213: 8719490962129556130
+    second: Spider-Man SV Battler 04_2
+  - first:
+      213: -5187813824062627958
+    second: Spider-Man SV Battler 04_3
+  - first:
+      213: -2475620967622522363
+    second: Spider-Man SV Battler 04_4
+  - first:
+      213: -696762782152002894
+    second: Spider-Man SV Battler 04_5
+  - first:
+      213: -2887304438246502749
+    second: Spider-Man SV Battler 04_6
+  - first:
+      213: -7036518195735062600
+    second: Spider-Man SV Battler 04_7
+  - first:
+      213: 7295165759566485420
+    second: Spider-Man SV Battler 04_8
+  - first:
+      213: 3192438245324954048
+    second: Spider-Man SV Battler 04_9
+  - first:
+      213: -7712522371917887539
+    second: Spider-Man SV Battler 04_10
+  - first:
+      213: -483542003590969827
+    second: Spider-Man SV Battler 04_11
+  - first:
+      213: -5800668497325248695
+    second: Spider-Man SV Battler 04_12
+  - first:
+      213: -3590008407467975766
+    second: Spider-Man SV Battler 04_13
+  - first:
+      213: -5095705719509490060
+    second: Spider-Man SV Battler 04_14
+  - first:
+      213: -5093272680806178648
+    second: Spider-Man SV Battler 04_15
+  - first:
+      213: -5281445249528486294
+    second: Spider-Man SV Battler 04_16
+  - first:
+      213: 8869022265411181784
+    second: Spider-Man SV Battler 04_17
+  - first:
+      213: -1573008187042020557
+    second: Spider-Man SV Battler 04_18
+  - first:
+      213: 5907057314276726805
+    second: Spider-Man SV Battler 04_19
+  - first:
+      213: 3511509478154049286
+    second: Spider-Man SV Battler 04_20
+  - first:
+      213: -7749314136789012342
+    second: Spider-Man SV Battler 04_21
+  - first:
+      213: 3802651439816523458
+    second: Spider-Man SV Battler 04_22
+  - first:
+      213: -9166896382224729360
+    second: Spider-Man SV Battler 04_23
+  - first:
+      213: 6354283863381951093
+    second: Spider-Man SV Battler 04_24
+  - first:
+      213: 8554188536737963719
+    second: Spider-Man SV Battler 04_25
+  - first:
+      213: -8201624840965620066
+    second: Spider-Man SV Battler 04_26
+  - first:
+      213: 2660084193165287917
+    second: Spider-Man SV Battler 04_27
+  - first:
+      213: 5310722610797500914
+    second: Spider-Man SV Battler 04_28
+  - first:
+      213: -3902324793373188304
+    second: Spider-Man SV Battler 04_29
+  - first:
+      213: -6777506571121205133
+    second: Spider-Man SV Battler 04_30
+  - first:
+      213: -2646811898516979123
+    second: Spider-Man SV Battler 04_31
+  - first:
+      213: -4003082720217627427
+    second: Spider-Man SV Battler 04_32
+  - first:
+      213: -2815645155858299978
+    second: Spider-Man SV Battler 04_33
+  - first:
+      213: -2482987856774305935
+    second: Spider-Man SV Battler 04_34
+  - first:
+      213: -6797251076352000540
+    second: Spider-Man SV Battler 04_35
+  - first:
+      213: -5158468167041503361
+    second: Spider-Man SV Battler 04_36
+  - first:
+      213: 792580507103373956
+    second: Spider-Man SV Battler 04_37
+  - first:
+      213: 597330949452684495
+    second: Spider-Man SV Battler 04_38
+  - first:
+      213: 8561115259325560495
+    second: Spider-Man SV Battler 04_39
+  - first:
+      213: 3234250053092259708
+    second: Spider-Man SV Battler 04_40
+  - first:
+      213: 3267159561288833446
+    second: Spider-Man SV Battler 04_41
+  - first:
+      213: 6532472414410680083
+    second: Spider-Man SV Battler 04_42
+  - first:
+      213: -719912486679386796
+    second: Spider-Man SV Battler 04_43
+  - first:
+      213: 2087246193111103517
+    second: Spider-Man SV Battler 04_44
+  - first:
+      213: 5868838862938707823
+    second: Spider-Man SV Battler 04_45
+  - first:
+      213: 6295127588058413515
+    second: Spider-Man SV Battler 04_46
+  - first:
+      213: -8892844275322302624
+    second: Spider-Man SV Battler 04_47
+  - first:
+      213: 2179946086087355056
+    second: Spider-Man SV Battler 04_48
+  - first:
+      213: -3551865777195982601
+    second: Spider-Man SV Battler 04_49
+  - first:
+      213: -2111147839279663544
+    second: Spider-Man SV Battler 04_50
+  - first:
+      213: -7240916060681757471
+    second: Spider-Man SV Battler 04_51
+  - first:
+      213: 2330198189483136656
+    second: Spider-Man SV Battler 04_52
+  - first:
+      213: -2773472240986139147
+    second: Spider-Man SV Battler 04_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 319
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3949dd1b6a58df0800000000000000
+      internalID: -178553327354342495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 319
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ff176433c65edf0800000000000000
+      internalID: -151596044966035599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 319
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a216fb05dad10970800000000000000
+      internalID: 8719490962129556130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 319
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fd2ef20de2108b0800000000000000
+      internalID: -5187813824062627958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 319
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ac95aa8d3d4add0800000000000000
+      internalID: -2475620967622522363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 319
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2fd15f0f99456f0800000000000000
+      internalID: -696762782152002894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 319
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae88e739eb3ee7d0800000000000000
+      internalID: -2887304438246502749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 319
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b793a76bf3495e90800000000000000
+      internalID: -7036518195735062600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 319
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca79d8c5b92ad3560800000000000000
+      internalID: 7295165759566485420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 255
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c917fb7ba1dd4c20800000000000000
+      internalID: 3192438245324954048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 255
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7c493f3cd97f490800000000000000
+      internalID: -7712522371917887539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 255
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16caf11c1d1a49f0800000000000000
+      internalID: -483542003590969827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 255
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f21252cb2ef7fa0800000000000000
+      internalID: -5800668497325248695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab9434cf5abd2ec0800000000000000
+      internalID: -3590008407467975766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 255
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476e5b475aa6849b0800000000000000
+      internalID: -5095705719509490060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_15
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 255
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0a85c6b7f0159b0800000000000000
+      internalID: -5093272680806178648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 256
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a662e21278984b6b0800000000000000
+      internalID: -5281445249528486294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 257
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc1dd2a2c8151b70800000000000000
+      internalID: 8869022265411181784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 191
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3334496536d8b2ae0800000000000000
+      internalID: -1573008187042020557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 191
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518565594551af150800000000000000
+      internalID: 5907057314276726805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 191
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6071acef3436bb030800000000000000
+      internalID: 3511509478154049286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 191
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8037c7a9d7e47490800000000000000
+      internalID: -7749314136789012342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 191
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce34e2565bb5c430800000000000000
+      internalID: 3802651439816523458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_23
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 191
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa7ea40f44a8c080800000000000000
+      internalID: -9166896382224729360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_24
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 191
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572c0eed183fe2850800000000000000
+      internalID: 6354283863381951093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_25
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 191
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce1cf1f62596b670800000000000000
+      internalID: 8554188536737963719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_26
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 191
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e793549a9fd2e80800000000000000
+      internalID: -8201624840965620066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 127
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1af3eda748ae420800000000000000
+      internalID: 2660084193165287917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 127
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9583db31a73b940800000000000000
+      internalID: 5310722610797500914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 127
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f9acc964828d9c0800000000000000
+      internalID: -3902324793373188304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 127
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370e17daea571f1a0800000000000000
+      internalID: -6777506571121205133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_31
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 127
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d424e990a92a44bd0800000000000000
+      internalID: -2646811898516979123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_32
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 127
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd48ce6a9713278c0800000000000000
+      internalID: -4003082720217627427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 127
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3448f06a1dce8d0800000000000000
+      internalID: -2815645155858299978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_34
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 127
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177eb5f13b7aa8dd0800000000000000
+      internalID: -2482987856774305935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_35
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 127
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edb5e0d8205ba1a0800000000000000
+      internalID: -6797251076352000540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 63
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fa45668807968b0800000000000000
+      internalID: -5158468167041503361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 63
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48aabcd95cfcffa00800000000000000
+      internalID: 792580507103373956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 63
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc597f65552a4800800000000000000
+      internalID: 597330949452684495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6b64938f03fc670800000000000000
+      internalID: 8561115259325560495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 63
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c773a59994d52ec20800000000000000
+      internalID: 3234250053092259708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a954239f48475d20800000000000000
+      internalID: 3267159561288833446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_42
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 63
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317acf5ec0108aa50800000000000000
+      internalID: 6532472414410680083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_43
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 63
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4556b1a586b5206f0800000000000000
+      internalID: -719912486679386796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_44
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 63
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d187c2b9a5367fc10800000000000000
+      internalID: 2087246193111103517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f671875f9dd427150800000000000000
+      internalID: 5868838862938707823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_46
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9bbf53039cc5750800000000000000
+      internalID: 6295127588058413515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_47
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f4c867f35469480800000000000000
+      internalID: -8892844275322302624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba6dba5a69b04e10800000000000000
+      internalID: 2179946086087355056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_49
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0ed5ce4ec35bec0800000000000000
+      internalID: -3551865777195982601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846f66bb932b3b2e0800000000000000
+      internalID: -2111147839279663544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec94a2f439138b90800000000000000
+      internalID: -7240916060681757471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_52
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096966c48e6865020800000000000000
+      internalID: 2330198189483136656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man SV Battler 04_53
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f55d99f0b5a289d0800000000000000
+      internalID: -2773472240986139147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spider-Man SV Battler 04_0: -178553327354342495
+      Spider-Man SV Battler 04_1: -151596044966035599
+      Spider-Man SV Battler 04_10: -7712522371917887539
+      Spider-Man SV Battler 04_11: -483542003590969827
+      Spider-Man SV Battler 04_12: -5800668497325248695
+      Spider-Man SV Battler 04_13: -3590008407467975766
+      Spider-Man SV Battler 04_14: -5095705719509490060
+      Spider-Man SV Battler 04_15: -5093272680806178648
+      Spider-Man SV Battler 04_16: -5281445249528486294
+      Spider-Man SV Battler 04_17: 8869022265411181784
+      Spider-Man SV Battler 04_18: -1573008187042020557
+      Spider-Man SV Battler 04_19: 5907057314276726805
+      Spider-Man SV Battler 04_2: 8719490962129556130
+      Spider-Man SV Battler 04_20: 3511509478154049286
+      Spider-Man SV Battler 04_21: -7749314136789012342
+      Spider-Man SV Battler 04_22: 3802651439816523458
+      Spider-Man SV Battler 04_23: -9166896382224729360
+      Spider-Man SV Battler 04_24: 6354283863381951093
+      Spider-Man SV Battler 04_25: 8554188536737963719
+      Spider-Man SV Battler 04_26: -8201624840965620066
+      Spider-Man SV Battler 04_27: 2660084193165287917
+      Spider-Man SV Battler 04_28: 5310722610797500914
+      Spider-Man SV Battler 04_29: -3902324793373188304
+      Spider-Man SV Battler 04_3: -5187813824062627958
+      Spider-Man SV Battler 04_30: -6777506571121205133
+      Spider-Man SV Battler 04_31: -2646811898516979123
+      Spider-Man SV Battler 04_32: -4003082720217627427
+      Spider-Man SV Battler 04_33: -2815645155858299978
+      Spider-Man SV Battler 04_34: -2482987856774305935
+      Spider-Man SV Battler 04_35: -6797251076352000540
+      Spider-Man SV Battler 04_36: -5158468167041503361
+      Spider-Man SV Battler 04_37: 792580507103373956
+      Spider-Man SV Battler 04_38: 597330949452684495
+      Spider-Man SV Battler 04_39: 8561115259325560495
+      Spider-Man SV Battler 04_4: -2475620967622522363
+      Spider-Man SV Battler 04_40: 3234250053092259708
+      Spider-Man SV Battler 04_41: 3267159561288833446
+      Spider-Man SV Battler 04_42: 6532472414410680083
+      Spider-Man SV Battler 04_43: -719912486679386796
+      Spider-Man SV Battler 04_44: 2087246193111103517
+      Spider-Man SV Battler 04_45: 5868838862938707823
+      Spider-Man SV Battler 04_46: 6295127588058413515
+      Spider-Man SV Battler 04_47: -8892844275322302624
+      Spider-Man SV Battler 04_48: 2179946086087355056
+      Spider-Man SV Battler 04_49: -3551865777195982601
+      Spider-Man SV Battler 04_5: -696762782152002894
+      Spider-Man SV Battler 04_50: -2111147839279663544
+      Spider-Man SV Battler 04_51: -7240916060681757471
+      Spider-Man SV Battler 04_52: 2330198189483136656
+      Spider-Man SV Battler 04_53: -2773472240986139147
+      Spider-Man SV Battler 04_6: -2887304438246502749
+      Spider-Man SV Battler 04_7: -7036518195735062600
+      Spider-Man SV Battler 04_8: 7295165759566485420
+      Spider-Man SV Battler 04_9: 3192438245324954048
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

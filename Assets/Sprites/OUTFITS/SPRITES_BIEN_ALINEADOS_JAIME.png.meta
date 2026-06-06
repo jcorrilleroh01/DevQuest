@@ -1,0 +1,1567 @@
+fileFormatVersion: 2
+guid: 712640064642c0b4fa700600390530ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -378872762026772801
+    second: SPRITES_BIEN_ALINEADOS_JAIME_0
+  - first:
+      213: 2468453815472950052
+    second: SPRITES_BIEN_ALINEADOS_JAIME_1
+  - first:
+      213: 2545674785559137744
+    second: SPRITES_BIEN_ALINEADOS_JAIME_2
+  - first:
+      213: 2066364798889366636
+    second: SPRITES_BIEN_ALINEADOS_JAIME_3
+  - first:
+      213: -8711753230317863779
+    second: SPRITES_BIEN_ALINEADOS_JAIME_4
+  - first:
+      213: -9046874257094715942
+    second: SPRITES_BIEN_ALINEADOS_JAIME_5
+  - first:
+      213: 1134159710168031514
+    second: SPRITES_BIEN_ALINEADOS_JAIME_6
+  - first:
+      213: 3253913334972404366
+    second: SPRITES_BIEN_ALINEADOS_JAIME_7
+  - first:
+      213: 5796480289057162354
+    second: SPRITES_BIEN_ALINEADOS_JAIME_8
+  - first:
+      213: -9113739562023464887
+    second: SPRITES_BIEN_ALINEADOS_JAIME_9
+  - first:
+      213: 1511339086876237778
+    second: SPRITES_BIEN_ALINEADOS_JAIME_10
+  - first:
+      213: -988019904529112232
+    second: SPRITES_BIEN_ALINEADOS_JAIME_11
+  - first:
+      213: -2199760301559097055
+    second: SPRITES_BIEN_ALINEADOS_JAIME_12
+  - first:
+      213: 4145387410805984431
+    second: SPRITES_BIEN_ALINEADOS_JAIME_13
+  - first:
+      213: -8678886215366870674
+    second: SPRITES_BIEN_ALINEADOS_JAIME_14
+  - first:
+      213: 2021878587367460083
+    second: SPRITES_BIEN_ALINEADOS_JAIME_15
+  - first:
+      213: -8817020071400292888
+    second: SPRITES_BIEN_ALINEADOS_JAIME_16
+  - first:
+      213: -8064359543498590740
+    second: SPRITES_BIEN_ALINEADOS_JAIME_17
+  - first:
+      213: -4631776770380884828
+    second: SPRITES_BIEN_ALINEADOS_JAIME_18
+  - first:
+      213: -3198431744712153565
+    second: SPRITES_BIEN_ALINEADOS_JAIME_19
+  - first:
+      213: 8413245783519382142
+    second: SPRITES_BIEN_ALINEADOS_JAIME_20
+  - first:
+      213: -1059486008484430955
+    second: SPRITES_BIEN_ALINEADOS_JAIME_21
+  - first:
+      213: 8683790758921503928
+    second: SPRITES_BIEN_ALINEADOS_JAIME_22
+  - first:
+      213: -7656981211723574589
+    second: SPRITES_BIEN_ALINEADOS_JAIME_23
+  - first:
+      213: 3010035474372142405
+    second: SPRITES_BIEN_ALINEADOS_JAIME_24
+  - first:
+      213: 1776428253851529782
+    second: SPRITES_BIEN_ALINEADOS_JAIME_25
+  - first:
+      213: -7410323882780137791
+    second: SPRITES_BIEN_ALINEADOS_JAIME_26
+  - first:
+      213: -8062513606227868760
+    second: SPRITES_BIEN_ALINEADOS_JAIME_27
+  - first:
+      213: 5733493371584374621
+    second: SPRITES_BIEN_ALINEADOS_JAIME_28
+  - first:
+      213: -4124513505416248864
+    second: SPRITES_BIEN_ALINEADOS_JAIME_29
+  - first:
+      213: -2548885106078838850
+    second: SPRITES_BIEN_ALINEADOS_JAIME_30
+  - first:
+      213: -8106584484895959944
+    second: SPRITES_BIEN_ALINEADOS_JAIME_31
+  - first:
+      213: 8029270998207429512
+    second: SPRITES_BIEN_ALINEADOS_JAIME_32
+  - first:
+      213: 6221887344481997642
+    second: SPRITES_BIEN_ALINEADOS_JAIME_33
+  - first:
+      213: -7368242140430783538
+    second: SPRITES_BIEN_ALINEADOS_JAIME_34
+  - first:
+      213: -2959237756369382289
+    second: SPRITES_BIEN_ALINEADOS_JAIME_35
+  - first:
+      213: -1837426627832351265
+    second: SPRITES_BIEN_ALINEADOS_JAIME_36
+  - first:
+      213: -6558332565462760688
+    second: SPRITES_BIEN_ALINEADOS_JAIME_37
+  - first:
+      213: 9081119979154169345
+    second: SPRITES_BIEN_ALINEADOS_JAIME_38
+  - first:
+      213: -7739303997351277056
+    second: SPRITES_BIEN_ALINEADOS_JAIME_39
+  - first:
+      213: -1629290493210251140
+    second: SPRITES_BIEN_ALINEADOS_JAIME_40
+  - first:
+      213: -70961045963280461
+    second: SPRITES_BIEN_ALINEADOS_JAIME_41
+  - first:
+      213: -9024784814397872198
+    second: SPRITES_BIEN_ALINEADOS_JAIME_42
+  - first:
+      213: 3947361362528092304
+    second: SPRITES_BIEN_ALINEADOS_JAIME_43
+  - first:
+      213: 901408292961502883
+    second: SPRITES_BIEN_ALINEADOS_JAIME_44
+  - first:
+      213: -4823536709719274977
+    second: SPRITES_BIEN_ALINEADOS_JAIME_45
+  - first:
+      213: -2378459016949600495
+    second: SPRITES_BIEN_ALINEADOS_JAIME_46
+  - first:
+      213: -1173858716727868787
+    second: SPRITES_BIEN_ALINEADOS_JAIME_47
+  - first:
+      213: 3401866717174527068
+    second: SPRITES_BIEN_ALINEADOS_JAIME_48
+  - first:
+      213: 7108789917102409806
+    second: SPRITES_BIEN_ALINEADOS_JAIME_49
+  - first:
+      213: 6925347665384187500
+    second: SPRITES_BIEN_ALINEADOS_JAIME_50
+  - first:
+      213: 3800266870535603309
+    second: SPRITES_BIEN_ALINEADOS_JAIME_51
+  - first:
+      213: 660803587837720276
+    second: SPRITES_BIEN_ALINEADOS_JAIME_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2529
+        width: 129
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6b254fa39fdbaf0800000000000000
+      internalID: -378872762026772801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2531
+        width: 130
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b09bfaaa5b14220800000000000000
+      internalID: 2468453815472950052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2530
+        width: 130
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddcbeadabd045320800000000000000
+      internalID: 2545674785559137744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2529
+        width: 128
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c641c2626d33dac10800000000000000
+      internalID: 2066364798889366636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2257
+        width: 106
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cba080892a91780800000000000000
+      internalID: -8711753230317863779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2264
+        width: 113
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad55e3aabcb037280800000000000000
+      internalID: -9046874257094715942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2261
+        width: 106
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1120235f385dbf00800000000000000
+      internalID: 1134159710168031514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2263
+        width: 112
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82dfec20f8382d20800000000000000
+      internalID: 3253913334972404366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_8
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2262
+        width: 106
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2744ec0ac1c317050800000000000000
+      internalID: 5796480289057162354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_9
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 2261
+        width: 107
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940da2ea72e758180800000000000000
+      internalID: -9113739562023464887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1937
+        width: 123
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfdb6064ea59f410800000000000000
+      internalID: 1511339086876237778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_11
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1940
+        width: 128
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853e68fa129d942f0800000000000000
+      internalID: -988019904529112232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1939
+        width: 125
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129509a19a1e871e0800000000000000
+      internalID: -2199760301559097055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1941
+        width: 127
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac877d03ef578930800000000000000
+      internalID: 4145387410805984431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_14
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1938
+        width: 126
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69f50748f66e8780800000000000000
+      internalID: -8678886215366870674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_15
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1938
+        width: 124
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc8103ecd72f0c10800000000000000
+      internalID: 2021878587367460083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1677
+        width: 125
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed32baa5f6a3a580800000000000000
+      internalID: -8817020071400292888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1677
+        width: 123
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce53cb4d8b3a51090800000000000000
+      internalID: -8064359543498590740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_18
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1682
+        width: 119
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a49a8a419f98bfb0800000000000000
+      internalID: -4631776770380884828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1682
+        width: 118
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32669123643ec93d0800000000000000
+      internalID: -3198431744712153565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_20
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1677
+        width: 124
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ac9bef67ad1c470800000000000000
+      internalID: 8413245783519382142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_21
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1677
+        width: 126
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bf9c3b613fb41f0800000000000000
+      internalID: -1059486008484430955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1397
+        width: 102
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b40651cfa5038870800000000000000
+      internalID: 8683790758921503928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1400
+        width: 101
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c250670820fcb590800000000000000
+      internalID: -7656981211723574589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_24
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1399
+        width: 100
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545a64be05bc5c920800000000000000
+      internalID: 3010035474372142405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_25
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1397
+        width: 103
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632b9cfb51427a810800000000000000
+      internalID: 1776428253851529782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_26
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1156
+        width: 107
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6eb40b0bd392990800000000000000
+      internalID: -7410323882780137791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_27
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1154
+        width: 115
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3c80897923c1090800000000000000
+      internalID: -8062513606227868760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_28
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1155
+        width: 113
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57e75718d5719f40800000000000000
+      internalID: 5733493371584374621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_29
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1154
+        width: 107
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e10d56c1d8c2c6c0800000000000000
+      internalID: -4124513505416248864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 926
+        width: 101
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf03e6208a80acd0800000000000000
+      internalID: -2548885106078838850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_31
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 928
+        width: 97
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874551c8c50af7f80800000000000000
+      internalID: -8106584484895959944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_32
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 926
+        width: 100
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bff759e63bd6f60800000000000000
+      internalID: 8029270998207429512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_33
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 934
+        width: 103
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4319582395985650800000000000000
+      internalID: 6221887344481997642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_34
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 701
+        width: 112
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb2f88dfcebeb990800000000000000
+      internalID: -7368242140430783538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_35
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 703
+        width: 109
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64dda570fcaee6d0800000000000000
+      internalID: -2959237756369382289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_36
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 704
+        width: 108
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5753397362086e0800000000000000
+      internalID: -1837426627832351265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_37
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 702
+        width: 112
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01347bc774f1cf4a0800000000000000
+      internalID: -6558332565462760688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 476
+        width: 120
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10edf28d18e960e70800000000000000
+      internalID: 9081119979154169345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 479
+        width: 112
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ecd1dd408789490800000000000000
+      internalID: -7739303997351277056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_40
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 481
+        width: 113
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c703844cde89369e0800000000000000
+      internalID: -1629290493210251140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_41
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 480
+        width: 115
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfe77efd45e30ff0800000000000000
+      internalID: -70961045963280461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_42
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 479
+        width: 119
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7a973d60681c280800000000000000
+      internalID: -9024784814397872198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_43
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 481
+        width: 118
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090c695ce38d7c630800000000000000
+      internalID: 3947361362528092304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 239
+        width: 119
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6cf8b0112728c00800000000000000
+      internalID: 901408292961502883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 239
+        width: 118
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a40203bea5f0db0800000000000000
+      internalID: -4823536709719274977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_46
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 243
+        width: 106
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fe4ed20240efed0800000000000000
+      internalID: -2378459016949600495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_47
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 239
+        width: 120
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8280fc67bd95bfe0800000000000000
+      internalID: -1173858716727868787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_48
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 240
+        width: 108
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54796261cbd53f20800000000000000
+      internalID: 3401866717174527068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_49
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 246
+        width: 120
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4884cff3ce77a260800000000000000
+      internalID: 7108789917102409806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 114
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c662e457207cb1060800000000000000
+      internalID: 6925347665384187500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_51
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 115
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64c5f585924db430800000000000000
+      internalID: 3800266870535603309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_52
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 111
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6fe5fac55ab2900800000000000000
+      internalID: 660803587837720276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_53
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 113
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2343c8207a2710f4f901173a6a5f558a
+      internalID: 921969912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_54
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 108
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb79250bbe222248aa4baacde2657c0
+      internalID: 863149812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITES_BIEN_ALINEADOS_JAIME_55
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 112
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbab64bad22eb0f4694fc21df1ab2b15
+      internalID: 671998227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a8bc76d97d3c3554097dd3d74ed24b25
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SPRITES_BIEN_ALINEADOS_JAIME_0: -378872762026772801
+      SPRITES_BIEN_ALINEADOS_JAIME_1: 2468453815472950052
+      SPRITES_BIEN_ALINEADOS_JAIME_10: 1511339086876237778
+      SPRITES_BIEN_ALINEADOS_JAIME_11: -988019904529112232
+      SPRITES_BIEN_ALINEADOS_JAIME_12: -2199760301559097055
+      SPRITES_BIEN_ALINEADOS_JAIME_13: 4145387410805984431
+      SPRITES_BIEN_ALINEADOS_JAIME_14: -8678886215366870674
+      SPRITES_BIEN_ALINEADOS_JAIME_15: 2021878587367460083
+      SPRITES_BIEN_ALINEADOS_JAIME_16: -8817020071400292888
+      SPRITES_BIEN_ALINEADOS_JAIME_17: -8064359543498590740
+      SPRITES_BIEN_ALINEADOS_JAIME_18: -4631776770380884828
+      SPRITES_BIEN_ALINEADOS_JAIME_19: -3198431744712153565
+      SPRITES_BIEN_ALINEADOS_JAIME_2: 2545674785559137744
+      SPRITES_BIEN_ALINEADOS_JAIME_20: 8413245783519382142
+      SPRITES_BIEN_ALINEADOS_JAIME_21: -1059486008484430955
+      SPRITES_BIEN_ALINEADOS_JAIME_22: 8683790758921503928
+      SPRITES_BIEN_ALINEADOS_JAIME_23: -7656981211723574589
+      SPRITES_BIEN_ALINEADOS_JAIME_24: 3010035474372142405
+      SPRITES_BIEN_ALINEADOS_JAIME_25: 1776428253851529782
+      SPRITES_BIEN_ALINEADOS_JAIME_26: -7410323882780137791
+      SPRITES_BIEN_ALINEADOS_JAIME_27: -8062513606227868760
+      SPRITES_BIEN_ALINEADOS_JAIME_28: 5733493371584374621
+      SPRITES_BIEN_ALINEADOS_JAIME_29: -4124513505416248864
+      SPRITES_BIEN_ALINEADOS_JAIME_3: 2066364798889366636
+      SPRITES_BIEN_ALINEADOS_JAIME_30: -2548885106078838850
+      SPRITES_BIEN_ALINEADOS_JAIME_31: -8106584484895959944
+      SPRITES_BIEN_ALINEADOS_JAIME_32: 8029270998207429512
+      SPRITES_BIEN_ALINEADOS_JAIME_33: 6221887344481997642
+      SPRITES_BIEN_ALINEADOS_JAIME_34: -7368242140430783538
+      SPRITES_BIEN_ALINEADOS_JAIME_35: -2959237756369382289
+      SPRITES_BIEN_ALINEADOS_JAIME_36: -1837426627832351265
+      SPRITES_BIEN_ALINEADOS_JAIME_37: -6558332565462760688
+      SPRITES_BIEN_ALINEADOS_JAIME_38: 9081119979154169345
+      SPRITES_BIEN_ALINEADOS_JAIME_39: -7739303997351277056
+      SPRITES_BIEN_ALINEADOS_JAIME_4: -8711753230317863779
+      SPRITES_BIEN_ALINEADOS_JAIME_40: -1629290493210251140
+      SPRITES_BIEN_ALINEADOS_JAIME_41: -70961045963280461
+      SPRITES_BIEN_ALINEADOS_JAIME_42: -9024784814397872198
+      SPRITES_BIEN_ALINEADOS_JAIME_43: 3947361362528092304
+      SPRITES_BIEN_ALINEADOS_JAIME_44: 901408292961502883
+      SPRITES_BIEN_ALINEADOS_JAIME_45: -4823536709719274977
+      SPRITES_BIEN_ALINEADOS_JAIME_46: -2378459016949600495
+      SPRITES_BIEN_ALINEADOS_JAIME_47: -1173858716727868787
+      SPRITES_BIEN_ALINEADOS_JAIME_48: 3401866717174527068
+      SPRITES_BIEN_ALINEADOS_JAIME_49: 7108789917102409806
+      SPRITES_BIEN_ALINEADOS_JAIME_5: -9046874257094715942
+      SPRITES_BIEN_ALINEADOS_JAIME_50: 6925347665384187500
+      SPRITES_BIEN_ALINEADOS_JAIME_51: 3800266870535603309
+      SPRITES_BIEN_ALINEADOS_JAIME_52: 660803587837720276
+      SPRITES_BIEN_ALINEADOS_JAIME_53: 921969912
+      SPRITES_BIEN_ALINEADOS_JAIME_54: 863149812
+      SPRITES_BIEN_ALINEADOS_JAIME_55: 671998227
+      SPRITES_BIEN_ALINEADOS_JAIME_56: 1069218350
+      SPRITES_BIEN_ALINEADOS_JAIME_6: 1134159710168031514
+      SPRITES_BIEN_ALINEADOS_JAIME_7: 3253913334972404366
+      SPRITES_BIEN_ALINEADOS_JAIME_8: 5796480289057162354
+      SPRITES_BIEN_ALINEADOS_JAIME_9: -9113739562023464887
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 4a319a2758528b54ca1de5a135518470
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3469047397166996891
+    second: Green Goblin_0
+  - first:
+      213: 5302922887379347766
+    second: Green Goblin_1
+  - first:
+      213: -977462556955375965
+    second: Green Goblin_2
+  - first:
+      213: -3072318652738858290
+    second: Green Goblin_3
+  - first:
+      213: 2303852342109724844
+    second: Green Goblin_4
+  - first:
+      213: -1928686198686342797
+    second: Green Goblin_5
+  - first:
+      213: 556053362015995754
+    second: Green Goblin_6
+  - first:
+      213: -7938378405711555297
+    second: Green Goblin_7
+  - first:
+      213: -2272122563652505479
+    second: Green Goblin_8
+  - first:
+      213: 4127806656260955306
+    second: Green Goblin_9
+  - first:
+      213: -8404941949627601134
+    second: Green Goblin_10
+  - first:
+      213: 6247192351919479070
+    second: Green Goblin_11
+  - first:
+      213: 3210617369365855966
+    second: Green Goblin_12
+  - first:
+      213: -34698295086617748
+    second: Green Goblin_13
+  - first:
+      213: -8175735147857406134
+    second: Green Goblin_14
+  - first:
+      213: 3620241882490257666
+    second: Green Goblin_15
+  - first:
+      213: 1518076414977410035
+    second: Green Goblin_16
+  - first:
+      213: 4372344429743370416
+    second: Green Goblin_17
+  - first:
+      213: -4972279115676323680
+    second: Green Goblin_18
+  - first:
+      213: -4962822434561911303
+    second: Green Goblin_19
+  - first:
+      213: 7679176620776886891
+    second: Green Goblin_20
+  - first:
+      213: 4052509943837096525
+    second: Green Goblin_21
+  - first:
+      213: -7966053842860925958
+    second: Green Goblin_22
+  - first:
+      213: 2866648134405372060
+    second: Green Goblin_23
+  - first:
+      213: -507041980376425789
+    second: Green Goblin_24
+  - first:
+      213: -2064945646817560843
+    second: Green Goblin_25
+  - first:
+      213: 6487133002113396986
+    second: Green Goblin_26
+  - first:
+      213: 816915828323857878
+    second: Green Goblin_27
+  - first:
+      213: 7677789609696116469
+    second: Green Goblin_28
+  - first:
+      213: -7092430044792963010
+    second: Green Goblin_29
+  - first:
+      213: -6381473846019763184
+    second: Green Goblin_30
+  - first:
+      213: 7326751398983384124
+    second: Green Goblin_31
+  - first:
+      213: -2355621339682128177
+    second: Green Goblin_32
+  - first:
+      213: -4440184036205838721
+    second: Green Goblin_33
+  - first:
+      213: -1437679974751441719
+    second: Green Goblin_34
+  - first:
+      213: -2985186617785446391
+    second: Green Goblin_35
+  - first:
+      213: 2649270376787078826
+    second: Green Goblin_36
+  - first:
+      213: 5105443216557358411
+    second: Green Goblin_37
+  - first:
+      213: 5162127484466798297
+    second: Green Goblin_38
+  - first:
+      213: -9055590885435236197
+    second: Green Goblin_39
+  - first:
+      213: -7084962356421978092
+    second: Green Goblin_40
+  - first:
+      213: -7083130432040894169
+    second: Green Goblin_41
+  - first:
+      213: 910649005225613106
+    second: Green Goblin_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Goblin_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 335
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5622ed6a5c77bdfc0800000000000000
+      internalID: -3469047397166996891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 287
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639e88d1544c79940800000000000000
+      internalID: 5302922887379347766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 335
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a60e67bbfa5f62f0800000000000000
+      internalID: -977462556955375965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 287
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec291b2967eec55d0800000000000000
+      internalID: -3072318652738858290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 335
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0e662bf7de8ff10800000000000000
+      internalID: 2303852342109724844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 287
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3712a14fe1eeb35e0800000000000000
+      internalID: -1928686198686342797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 335
+        width: 146
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67002f269f77b700800000000000000
+      internalID: 556053362015995754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 191
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f155eea36e635d190800000000000000
+      internalID: -7938378405711555297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 239
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970b75b019cc770e0800000000000000
+      internalID: -2272122563652505479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 191
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac5de7a84ae84930800000000000000
+      internalID: 4127806656260955306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 239
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21feaaef3d5ab5b80800000000000000
+      internalID: -8404941949627601134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 191
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1992b3585c72b650800000000000000
+      internalID: 6247192351919479070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 239
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede30c2ac776e8c20800000000000000
+      internalID: 3210617369365855966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 143
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bec0f951ab48ff0800000000000000
+      internalID: -34698295086617748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47984e2334f98e80800000000000000
+      internalID: -8175735147857406134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 143
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201c2deafcead3230800000000000000
+      internalID: 3620241882490257666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 95
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f380a0d47a411510800000000000000
+      internalID: 1518076414977410035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 143
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0f28ad710bdac30800000000000000
+      internalID: 4372344429743370416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 95
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0f4021d7aeefab0800000000000000
+      internalID: -4972279115676323680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_19
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f519983a43802bb0800000000000000
+      internalID: -4962822434561911303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 143
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6214e8537ae19a60800000000000000
+      internalID: 7679176620776886891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_21
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 143
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4af523a2586d3830800000000000000
+      internalID: 4052509943837096525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 47
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb93a26c34e27190800000000000000
+      internalID: -7966053842860925958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 47
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98b4434a4168c720800000000000000
+      internalID: 2866648134405372060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 47
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cad3795100a6f8f0800000000000000
+      internalID: -507041980376425789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 95
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f633f0ffd6d753e0800000000000000
+      internalID: -2064945646817560843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_26
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 95
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0bea9581de60a50800000000000000
+      internalID: 6487133002113396986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_27
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 95
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d533ae1e94465b00800000000000000
+      internalID: 816915828323857878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe3f1aa8fcfc8a60800000000000000
+      internalID: 7677789609696116469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 47
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30cec99370a29d90800000000000000
+      internalID: -7092430044792963010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 47
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014db88f8537077a0800000000000000
+      internalID: -6381473846019763184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_31
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 47
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c300e1499dda560800000000000000
+      internalID: 7326751398983384124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_32
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 48
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcebae64fd62f4fd0800000000000000
+      internalID: -2355621339682128177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 48
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e3798e42c4162c0800000000000000
+      internalID: -4440184036205838721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_34
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 48
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc6f3c1ea55c0ce0800000000000000
+      internalID: -1437679974751441719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90016aa569c7296d0800000000000000
+      internalID: -2985186617785446391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_36
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaeeb5a0f5914c420800000000000000
+      internalID: 2649270376787078826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_37
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d34df3e8d2ad640800000000000000
+      internalID: 5105443216557358411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de9ce4d89f83a740800000000000000
+      internalID: 5162127484466798297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_39
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b902e5a7114145280800000000000000
+      internalID: -9055590885435236197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_40
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418147a46482dad90800000000000000
+      internalID: -7084962356421978092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_41
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721817c666aa3bd90800000000000000
+      internalID: -7083130432040894169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Goblin_42
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2371987027643ac00800000000000000
+      internalID: 910649005225613106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green Goblin_0: -3469047397166996891
+      Green Goblin_1: 5302922887379347766
+      Green Goblin_10: -8404941949627601134
+      Green Goblin_11: 6247192351919479070
+      Green Goblin_12: 3210617369365855966
+      Green Goblin_13: -34698295086617748
+      Green Goblin_14: -8175735147857406134
+      Green Goblin_15: 3620241882490257666
+      Green Goblin_16: 1518076414977410035
+      Green Goblin_17: 4372344429743370416
+      Green Goblin_18: -4972279115676323680
+      Green Goblin_19: -4962822434561911303
+      Green Goblin_2: -977462556955375965
+      Green Goblin_20: 7679176620776886891
+      Green Goblin_21: 4052509943837096525
+      Green Goblin_22: -7966053842860925958
+      Green Goblin_23: 2866648134405372060
+      Green Goblin_24: -507041980376425789
+      Green Goblin_25: -2064945646817560843
+      Green Goblin_26: 6487133002113396986
+      Green Goblin_27: 816915828323857878
+      Green Goblin_28: 7677789609696116469
+      Green Goblin_29: -7092430044792963010
+      Green Goblin_3: -3072318652738858290
+      Green Goblin_30: -6381473846019763184
+      Green Goblin_31: 7326751398983384124
+      Green Goblin_32: -2355621339682128177
+      Green Goblin_33: -4440184036205838721
+      Green Goblin_34: -1437679974751441719
+      Green Goblin_35: -2985186617785446391
+      Green Goblin_36: 2649270376787078826
+      Green Goblin_37: 5105443216557358411
+      Green Goblin_38: 5162127484466798297
+      Green Goblin_39: -9055590885435236197
+      Green Goblin_4: 2303852342109724844
+      Green Goblin_40: -7084962356421978092
+      Green Goblin_41: -7083130432040894169
+      Green Goblin_42: 910649005225613106
+      Green Goblin_5: -1928686198686342797
+      Green Goblin_6: 556053362015995754
+      Green Goblin_7: -7938378405711555297
+      Green Goblin_8: -2272122563652505479
+      Green Goblin_9: 4127806656260955306
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

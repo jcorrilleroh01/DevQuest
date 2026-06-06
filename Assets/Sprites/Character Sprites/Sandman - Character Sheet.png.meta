@@ -1,0 +1,2197 @@
+fileFormatVersion: 2
+guid: bec291d8453d34b40b69483f36456825
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2578497843590318037
+    second: Sandman - Character Sheet_0
+  - first:
+      213: 4970931706404809379
+    second: Sandman - Character Sheet_1
+  - first:
+      213: 1949259245339159942
+    second: Sandman - Character Sheet_2
+  - first:
+      213: 5965392172436247087
+    second: Sandman - Character Sheet_3
+  - first:
+      213: 5284170623775679191
+    second: Sandman - Character Sheet_4
+  - first:
+      213: 6080857525641459734
+    second: Sandman - Character Sheet_5
+  - first:
+      213: 5933976647024999133
+    second: Sandman - Character Sheet_6
+  - first:
+      213: 5454527001654256147
+    second: Sandman - Character Sheet_7
+  - first:
+      213: 3751382133343691745
+    second: Sandman - Character Sheet_8
+  - first:
+      213: 8082894837800174060
+    second: Sandman - Character Sheet_9
+  - first:
+      213: 2886967528010490744
+    second: Sandman - Character Sheet_10
+  - first:
+      213: -1591549914421667696
+    second: Sandman - Character Sheet_11
+  - first:
+      213: -3683232725938012595
+    second: Sandman - Character Sheet_12
+  - first:
+      213: 8968141211450216485
+    second: Sandman - Character Sheet_13
+  - first:
+      213: 4324986301044642183
+    second: Sandman - Character Sheet_14
+  - first:
+      213: -84782281565484946
+    second: Sandman - Character Sheet_15
+  - first:
+      213: -4301015304874249821
+    second: Sandman - Character Sheet_16
+  - first:
+      213: 219129606156839543
+    second: Sandman - Character Sheet_17
+  - first:
+      213: -6351688251814101501
+    second: Sandman - Character Sheet_18
+  - first:
+      213: -5752339956366811046
+    second: Sandman - Character Sheet_19
+  - first:
+      213: -3299872091203393584
+    second: Sandman - Character Sheet_20
+  - first:
+      213: -6332346545734118543
+    second: Sandman - Character Sheet_21
+  - first:
+      213: 1184869274479573501
+    second: Sandman - Character Sheet_22
+  - first:
+      213: -5272261793630028565
+    second: Sandman - Character Sheet_23
+  - first:
+      213: 3770004330184454049
+    second: Sandman - Character Sheet_24
+  - first:
+      213: 55915100070516718
+    second: Sandman - Character Sheet_25
+  - first:
+      213: 6749774353436929558
+    second: Sandman - Character Sheet_26
+  - first:
+      213: -5632515722171077443
+    second: Sandman - Character Sheet_27
+  - first:
+      213: -3504919676663233996
+    second: Sandman - Character Sheet_28
+  - first:
+      213: -1328574489626384084
+    second: Sandman - Character Sheet_29
+  - first:
+      213: -6921661899092920175
+    second: Sandman - Character Sheet_30
+  - first:
+      213: 2465345341917040620
+    second: Sandman - Character Sheet_31
+  - first:
+      213: -7312790195428643732
+    second: Sandman - Character Sheet_32
+  - first:
+      213: -7085904309281553201
+    second: Sandman - Character Sheet_33
+  - first:
+      213: -8788175833769399509
+    second: Sandman - Character Sheet_34
+  - first:
+      213: -6826375254597287304
+    second: Sandman - Character Sheet_35
+  - first:
+      213: 603780942306330527
+    second: Sandman - Character Sheet_36
+  - first:
+      213: 6430471673934299921
+    second: Sandman - Character Sheet_37
+  - first:
+      213: -6388804581111257534
+    second: Sandman - Character Sheet_38
+  - first:
+      213: 2031192501966138277
+    second: Sandman - Character Sheet_39
+  - first:
+      213: -7688468797116609594
+    second: Sandman - Character Sheet_40
+  - first:
+      213: -2791697225054874246
+    second: Sandman - Character Sheet_41
+  - first:
+      213: 4023941819658486824
+    second: Sandman - Character Sheet_42
+  - first:
+      213: 9021404627518846111
+    second: Sandman - Character Sheet_43
+  - first:
+      213: 5238181298439885387
+    second: Sandman - Character Sheet_44
+  - first:
+      213: -2043105396298993399
+    second: Sandman - Character Sheet_45
+  - first:
+      213: 2393010288643340263
+    second: Sandman - Character Sheet_46
+  - first:
+      213: -2796947264092308762
+    second: Sandman - Character Sheet_47
+  - first:
+      213: -8943216148646378971
+    second: Sandman - Character Sheet_48
+  - first:
+      213: -8265680245089560488
+    second: Sandman - Character Sheet_49
+  - first:
+      213: 1590240667426287969
+    second: Sandman - Character Sheet_50
+  - first:
+      213: 6955578277862393042
+    second: Sandman - Character Sheet_51
+  - first:
+      213: -1842802106783439636
+    second: Sandman - Character Sheet_52
+  - first:
+      213: 3312651507277970930
+    second: Sandman - Character Sheet_53
+  - first:
+      213: 5860560646942244087
+    second: Sandman - Character Sheet_54
+  - first:
+      213: -263226613483846662
+    second: Sandman - Character Sheet_55
+  - first:
+      213: 5166008045658573304
+    second: Sandman - Character Sheet_56
+  - first:
+      213: -6620564714902879531
+    second: Sandman - Character Sheet_57
+  - first:
+      213: 2832015312172136707
+    second: Sandman - Character Sheet_58
+  - first:
+      213: 4961217054758650280
+    second: Sandman - Character Sheet_59
+  - first:
+      213: -7100012711813860439
+    second: Sandman - Character Sheet_60
+  - first:
+      213: 4850583666861240646
+    second: Sandman - Character Sheet_61
+  - first:
+      213: 3860603245477423465
+    second: Sandman - Character Sheet_62
+  - first:
+      213: 7471901418370535338
+    second: Sandman - Character Sheet_63
+  - first:
+      213: 2075317614117832010
+    second: Sandman - Character Sheet_64
+  - first:
+      213: 1713074287770170499
+    second: Sandman - Character Sheet_65
+  - first:
+      213: -7994160760407684120
+    second: Sandman - Character Sheet_66
+  - first:
+      213: -8145278787065766980
+    second: Sandman - Character Sheet_67
+  - first:
+      213: 4508620455425282470
+    second: Sandman - Character Sheet_68
+  - first:
+      213: 1960289412116420368
+    second: Sandman - Character Sheet_69
+  - first:
+      213: 1108404480623854894
+    second: Sandman - Character Sheet_70
+  - first:
+      213: -6595430211307781127
+    second: Sandman - Character Sheet_71
+  - first:
+      213: -5064519202436793120
+    second: Sandman - Character Sheet_72
+  - first:
+      213: 7630422513707229755
+    second: Sandman - Character Sheet_73
+  - first:
+      213: -7933345290994262286
+    second: Sandman - Character Sheet_74
+  - first:
+      213: -8509981865872401375
+    second: Sandman - Character Sheet_75
+  - first:
+      213: 929343039394925262
+    second: Sandman - Character Sheet_76
+  - first:
+      213: -3329870461887884577
+    second: Sandman - Character Sheet_77
+  - first:
+      213: -6812216559834145771
+    second: Sandman - Character Sheet_78
+  - first:
+      213: 1162980704404131897
+    second: Sandman - Character Sheet_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 335
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7cf45902aa8c320800000000000000
+      internalID: 2578497843590318037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 335
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa2cf2cc0c4cf440800000000000000
+      internalID: 4970931706404809379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 335
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d269db4f82d0b10800000000000000
+      internalID: 1949259245339159942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 239
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2255f7239459c250800000000000000
+      internalID: 5965392172436247087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 287
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d224b28f25255940800000000000000
+      internalID: 5284170623775679191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618be99a3bb836450800000000000000
+      internalID: 6080857525641459734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 287
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda73672258b95250800000000000000
+      internalID: 5933976647024999133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 239
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312e06f986f52bb40800000000000000
+      internalID: 5454527001654256147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 239
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3a2b2bc269f0430800000000000000
+      internalID: 3751382133343691745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 239
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce10beba7063c2070800000000000000
+      internalID: 8082894837800174060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 191
+        width: 146
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8732721cba1901820800000000000000
+      internalID: 2886967528010490744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 191
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098d79409cda9e9e0800000000000000
+      internalID: -1591549914421667696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 191
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4efe51b95782ecc0800000000000000
+      internalID: -3683232725938012595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 191
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5201804aaec357c70800000000000000
+      internalID: 8968141211450216485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 143
+        width: 146
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78152344020750c30800000000000000
+      internalID: 4324986301044642183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68ca00d6fac2def0800000000000000
+      internalID: -84782281565484946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 143
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1b3733e59bf44c0800000000000000
+      internalID: -4301015304874249821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 143
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77aefbe37318a0300800000000000000
+      internalID: 219129606156839543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e399a00354ad7a0800000000000000
+      internalID: -6351688251814101501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 143
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50687179459b20b0800000000000000
+      internalID: -5752339956366811046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 143
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7a89701df7432d0800000000000000
+      internalID: -3299872091203393584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 144
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17398daed5cfe18a0800000000000000
+      internalID: -6332346545734118543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 144
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df931a2d350817010800000000000000
+      internalID: 1184869274479573501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 144
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec71d315d925d6b0800000000000000
+      internalID: -5272261793630028565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af2456c6feb15430800000000000000
+      internalID: 3770004330184454049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 95
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7984dbc76a6c000800000000000000
+      internalID: 55915100070516718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 95
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e66aa33040cad50800000000000000
+      internalID: 6749774353436929558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 95
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbca0340bc845d1b0800000000000000
+      internalID: -5632515722171077443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 95
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432063abf160c5fc0800000000000000
+      internalID: -3504919676663233996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 95
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c296c207a84ff8de0800000000000000
+      internalID: -1328574489626384084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 108
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198f531ec2151ff90800000000000000
+      internalID: -6921661899092920175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 96
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef01a9c68aa63220800000000000000
+      internalID: 2465345341917040620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 96
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c2484ef00c38a90800000000000000
+      internalID: -7312790195428643732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 96
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc40ddcc29fc9ad90800000000000000
+      internalID: -7085904309281553201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 89
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ba08414a02a0680800000000000000
+      internalID: -8788175833769399509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 90
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8724636afd7d341a0800000000000000
+      internalID: -6826375254597287304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 89
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97c15c619f016800800000000000000
+      internalID: 603780942306330527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 90
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113c017daef9d3950800000000000000
+      internalID: 6430471673934299921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 89
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246a97335186657a0800000000000000
+      internalID: -6388804581111257534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abe02e91de303c10800000000000000
+      internalID: 2031192501966138277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 90
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb80314d521d4590800000000000000
+      internalID: -7688468797116609594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 85
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7519243a26e149d0800000000000000
+      internalID: -2791697225054874246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 47
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8244595e3c9e7d730800000000000000
+      internalID: 4023941819658486824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 47
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94735616b7723d70800000000000000
+      internalID: 9021404627518846111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 47
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b429a9a4322c1b840800000000000000
+      internalID: 5238181298439885387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 47
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9013ae6877e65a3e0800000000000000
+      internalID: -2043105396298993399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 47
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7f076cd2ea53120800000000000000
+      internalID: 2393010288643340263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 47
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaf64c384f3f29d0800000000000000
+      internalID: -2796947264092308762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 69
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5224566cb4053e380800000000000000
+      internalID: -8943216148646378971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 69
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858197c4c976a4d80800000000000000
+      internalID: -8265680245089560488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161f259267ba11610800000000000000
+      internalID: 1590240667426287969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 69
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4496b679d278060800000000000000
+      internalID: 6955578277862393042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 69
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4e4d95f3d0d66e0800000000000000
+      internalID: -1842802106783439636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 68
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd37f3aef6e8fd20800000000000000
+      internalID: 3312651507277970930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 68
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc30a99bd4e45150800000000000000
+      internalID: 5860560646942244087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 69
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3cdd72ac4d85cf0800000000000000
+      internalID: -263226613483846662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 68
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f90a4462f851b740800000000000000
+      internalID: 5166008045658573304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 69
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d28ab318770f14a0800000000000000
+      internalID: -6620564714902879531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 69
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309bc78fbe65d4720800000000000000
+      internalID: 2832015312172136707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 64
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1cf7a20a8c9d440800000000000000
+      internalID: 4961217054758650280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 48
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3b39b5e00b77d90800000000000000
+      internalID: -7100012711813860439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 48
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6417390452cb05340800000000000000
+      internalID: 4850583666861240646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 48
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969e669823e939530800000000000000
+      internalID: 3860603245477423465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf86be80c681b760800000000000000
+      internalID: 7471901418370535338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 47
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45ca91ef520dcc10800000000000000
+      internalID: 2075317614117832010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 47
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384756c0dff06c710800000000000000
+      internalID: 1713074287770170499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 42
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb888ea4290f0190800000000000000
+      internalID: -7994160760407684120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 47
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb9b64491826fe80800000000000000
+      internalID: -8145278787065766980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 46
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a11fa0aa66d19e30800000000000000
+      internalID: 4508620455425282470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 46
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017982295d8543b10800000000000000
+      internalID: 1960289412116420368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e254907a008d16f00800000000000000
+      internalID: 1108404480623854894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3ce1aba235874a0800000000000000
+      internalID: -6595430211307781127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec3c9c4e9637b9b0800000000000000
+      internalID: -5064519202436793120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32a9a739d4b4e960800000000000000
+      internalID: 7630422513707229755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fed4c19d7817e190800000000000000
+      internalID: -7933345290994262286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cd8afa49876e980800000000000000
+      internalID: -8509981865872401375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecacd990290b5ec00800000000000000
+      internalID: 929343039394925262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd25b13157ce9c1d0800000000000000
+      internalID: -3329870461887884577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c5d0aa1252671a0800000000000000
+      internalID: -6812216559834145771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sandman - Character Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93054a6f9ccb32010800000000000000
+      internalID: 1162980704404131897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sandman - Character Sheet_0: 2578497843590318037
+      Sandman - Character Sheet_1: 4970931706404809379
+      Sandman - Character Sheet_10: 2886967528010490744
+      Sandman - Character Sheet_11: -1591549914421667696
+      Sandman - Character Sheet_12: -3683232725938012595
+      Sandman - Character Sheet_13: 8968141211450216485
+      Sandman - Character Sheet_14: 4324986301044642183
+      Sandman - Character Sheet_15: -84782281565484946
+      Sandman - Character Sheet_16: -4301015304874249821
+      Sandman - Character Sheet_17: 219129606156839543
+      Sandman - Character Sheet_18: -6351688251814101501
+      Sandman - Character Sheet_19: -5752339956366811046
+      Sandman - Character Sheet_2: 1949259245339159942
+      Sandman - Character Sheet_20: -3299872091203393584
+      Sandman - Character Sheet_21: -6332346545734118543
+      Sandman - Character Sheet_22: 1184869274479573501
+      Sandman - Character Sheet_23: -5272261793630028565
+      Sandman - Character Sheet_24: 3770004330184454049
+      Sandman - Character Sheet_25: 55915100070516718
+      Sandman - Character Sheet_26: 6749774353436929558
+      Sandman - Character Sheet_27: -5632515722171077443
+      Sandman - Character Sheet_28: -3504919676663233996
+      Sandman - Character Sheet_29: -1328574489626384084
+      Sandman - Character Sheet_3: 5965392172436247087
+      Sandman - Character Sheet_30: -6921661899092920175
+      Sandman - Character Sheet_31: 2465345341917040620
+      Sandman - Character Sheet_32: -7312790195428643732
+      Sandman - Character Sheet_33: -7085904309281553201
+      Sandman - Character Sheet_34: -8788175833769399509
+      Sandman - Character Sheet_35: -6826375254597287304
+      Sandman - Character Sheet_36: 603780942306330527
+      Sandman - Character Sheet_37: 6430471673934299921
+      Sandman - Character Sheet_38: -6388804581111257534
+      Sandman - Character Sheet_39: 2031192501966138277
+      Sandman - Character Sheet_4: 5284170623775679191
+      Sandman - Character Sheet_40: -7688468797116609594
+      Sandman - Character Sheet_41: -2791697225054874246
+      Sandman - Character Sheet_42: 4023941819658486824
+      Sandman - Character Sheet_43: 9021404627518846111
+      Sandman - Character Sheet_44: 5238181298439885387
+      Sandman - Character Sheet_45: -2043105396298993399
+      Sandman - Character Sheet_46: 2393010288643340263
+      Sandman - Character Sheet_47: -2796947264092308762
+      Sandman - Character Sheet_48: -8943216148646378971
+      Sandman - Character Sheet_49: -8265680245089560488
+      Sandman - Character Sheet_5: 6080857525641459734
+      Sandman - Character Sheet_50: 1590240667426287969
+      Sandman - Character Sheet_51: 6955578277862393042
+      Sandman - Character Sheet_52: -1842802106783439636
+      Sandman - Character Sheet_53: 3312651507277970930
+      Sandman - Character Sheet_54: 5860560646942244087
+      Sandman - Character Sheet_55: -263226613483846662
+      Sandman - Character Sheet_56: 5166008045658573304
+      Sandman - Character Sheet_57: -6620564714902879531
+      Sandman - Character Sheet_58: 2832015312172136707
+      Sandman - Character Sheet_59: 4961217054758650280
+      Sandman - Character Sheet_6: 5933976647024999133
+      Sandman - Character Sheet_60: -7100012711813860439
+      Sandman - Character Sheet_61: 4850583666861240646
+      Sandman - Character Sheet_62: 3860603245477423465
+      Sandman - Character Sheet_63: 7471901418370535338
+      Sandman - Character Sheet_64: 2075317614117832010
+      Sandman - Character Sheet_65: 1713074287770170499
+      Sandman - Character Sheet_66: -7994160760407684120
+      Sandman - Character Sheet_67: -8145278787065766980
+      Sandman - Character Sheet_68: 4508620455425282470
+      Sandman - Character Sheet_69: 1960289412116420368
+      Sandman - Character Sheet_7: 5454527001654256147
+      Sandman - Character Sheet_70: 1108404480623854894
+      Sandman - Character Sheet_71: -6595430211307781127
+      Sandman - Character Sheet_72: -5064519202436793120
+      Sandman - Character Sheet_73: 7630422513707229755
+      Sandman - Character Sheet_74: -7933345290994262286
+      Sandman - Character Sheet_75: -8509981865872401375
+      Sandman - Character Sheet_76: 929343039394925262
+      Sandman - Character Sheet_77: -3329870461887884577
+      Sandman - Character Sheet_78: -6812216559834145771
+      Sandman - Character Sheet_79: 1162980704404131897
+      Sandman - Character Sheet_8: 3751382133343691745
+      Sandman - Character Sheet_9: 8082894837800174060
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

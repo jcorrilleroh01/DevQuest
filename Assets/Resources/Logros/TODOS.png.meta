@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 9e35f3fe3c194ae47aba7da32a847020
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8730186064670636035
+    second: TODOS_0
+  - first:
+      213: -2276977323741318289
+    second: TODOS_1
+  - first:
+      213: -6509222122416247624
+    second: TODOS_2
+  - first:
+      213: -8981662200245246063
+    second: TODOS_3
+  - first:
+      213: 2749212403947819623
+    second: TODOS_4
+  - first:
+      213: -7341046842111299975
+    second: TODOS_5
+  - first:
+      213: -568378098342868191
+    second: TODOS_6
+  - first:
+      213: 2993662212436073500
+    second: TODOS_7
+  - first:
+      213: 765506514299674696
+    second: TODOS_8
+  - first:
+      213: 8809183318180062727
+    second: TODOS_9
+  - first:
+      213: -3550538981764509060
+    second: TODOS_10
+  - first:
+      213: 659589575594524146
+    second: TODOS_11
+  - first:
+      213: 8923021264743437917
+    second: TODOS_12
+  - first:
+      213: 1038835084452281166
+    second: TODOS_13
+  - first:
+      213: 9212456472124709161
+    second: TODOS_14
+  - first:
+      213: -3455682818403864528
+    second: TODOS_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TODOS_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 529
+        width: 172
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7cd38570628d680800000000000000
+      internalID: -8730186064670636035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TODOS_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 529
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6377c0203d8660e0800000000000000
+      internalID: -2276977323741318289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TODOS_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 529
+        width: 172
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bce34d87f89aa5a0800000000000000
+      internalID: -6509222122416247624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TODOS_3
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 529
+        width: 172
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19724d5d0d9ba5380800000000000000
+      internalID: -8981662200245246063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TODOS_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 354
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762586d8d1a272620800000000000000
+      internalID: 2749212403947819623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TODOS_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 354
+        width: 173
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ee378aacc5f1a90800000000000000
+      internalID: -7341046842111299975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TODOS_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 355
+        width: 172
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b49268127bc18f0800000000000000
+      internalID: -568378098342868191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TODOS_7
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 354
+        width: 171
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c13cdcbef9b8920800000000000000
+      internalID: 2993662212436073500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TODOS_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 181
+        width: 172
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84064127e10af9a00800000000000000
+      internalID: 765506514299674696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TODOS_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 180
+        width: 173
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7066b690e81804a70800000000000000
+      internalID: 8809183318180062727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TODOS_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 180
+        width: 173
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72dfbe8b93f9bec0800000000000000
+      internalID: -3550538981764509060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TODOS_11
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 178
+        width: 172
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdbcde6935572900800000000000000
+      internalID: 659589575594524146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TODOS_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 174
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d561a486090f4db70800000000000000
+      internalID: 8923021264743437917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TODOS_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bbdfc510faa6e00800000000000000
+      internalID: 1038835084452281166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TODOS_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1
+        width: 173
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929ddb90a5839df70800000000000000
+      internalID: 9212456472124709161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TODOS_15
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1
+        width: 172
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030fd9029c2fa00d0800000000000000
+      internalID: -3455682818403864528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TODOS_0: -8730186064670636035
+      TODOS_1: -2276977323741318289
+      TODOS_10: -3550538981764509060
+      TODOS_11: 659589575594524146
+      TODOS_12: 8923021264743437917
+      TODOS_13: 1038835084452281166
+      TODOS_14: 9212456472124709161
+      TODOS_15: -3455682818403864528
+      TODOS_2: -6509222122416247624
+      TODOS_3: -8981662200245246063
+      TODOS_4: 2749212403947819623
+      TODOS_5: -7341046842111299975
+      TODOS_6: -568378098342868191
+      TODOS_7: 2993662212436073500
+      TODOS_8: 765506514299674696
+      TODOS_9: 8809183318180062727
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

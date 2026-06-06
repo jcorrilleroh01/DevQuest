@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 1c70cc4cc2e753845ab74ca3fb39c0d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6395739091903379905
+    second: HydroMan_0
+  - first:
+      213: 1487872019483257668
+    second: HydroMan_1
+  - first:
+      213: 2170615852387382386
+    second: HydroMan_2
+  - first:
+      213: -6302590764196181601
+    second: HydroMan_3
+  - first:
+      213: -7266577794593388040
+    second: HydroMan_4
+  - first:
+      213: -7893624623770258578
+    second: HydroMan_5
+  - first:
+      213: -4579057021215900109
+    second: HydroMan_6
+  - first:
+      213: 46239210130298194
+    second: HydroMan_7
+  - first:
+      213: 988958192972139602
+    second: HydroMan_8
+  - first:
+      213: -2506728799389546093
+    second: HydroMan_9
+  - first:
+      213: -812155443902422505
+    second: HydroMan_10
+  - first:
+      213: 8648316818693042500
+    second: HydroMan_11
+  - first:
+      213: -355083017784717005
+    second: HydroMan_12
+  - first:
+      213: 2590617193054739984
+    second: HydroMan_13
+  - first:
+      213: 8469470022493070583
+    second: HydroMan_14
+  - first:
+      213: 9075150032037469239
+    second: HydroMan_15
+  - first:
+      213: 7019146470813769609
+    second: HydroMan_16
+  - first:
+      213: -4074752448192832871
+    second: HydroMan_17
+  - first:
+      213: -388321043044031851
+    second: HydroMan_18
+  - first:
+      213: -7362355470541702182
+    second: HydroMan_19
+  - first:
+      213: -1326537040395865319
+    second: HydroMan_20
+  - first:
+      213: 6908979302820659083
+    second: HydroMan_21
+  - first:
+      213: 2681913189732187788
+    second: HydroMan_22
+  - first:
+      213: -2487422284554471154
+    second: HydroMan_23
+  - first:
+      213: -1954011886688478012
+    second: HydroMan_24
+  - first:
+      213: 4651167566132130162
+    second: HydroMan_25
+  - first:
+      213: 2125855664390475243
+    second: HydroMan_26
+  - first:
+      213: 3910369469001120825
+    second: HydroMan_27
+  - first:
+      213: -1273019930252542356
+    second: HydroMan_28
+  - first:
+      213: 5984125658872596538
+    second: HydroMan_29
+  - first:
+      213: 6464402401907394211
+    second: HydroMan_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HydroMan_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 335
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9faf861da32c850800000000000000
+      internalID: 6395739091903379905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 239
+        width: 47
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bea88f7bbf5a410800000000000000
+      internalID: 1487872019483257668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 334
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274b1690e939f1e10800000000000000
+      internalID: 2170615852387382386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 337
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99cd6fa713b888a0800000000000000
+      internalID: -6302590764196181601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 337
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9058ceefde72b90800000000000000
+      internalID: -7266577794593388040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 289
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63b5e51a36347290800000000000000
+      internalID: -7893624623770258578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 337
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33efa2c66ebe370c0800000000000000
+      internalID: -4579057021215900109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 289
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255d28e015644a000800000000000000
+      internalID: 46239210130298194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 287
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c01dd9c3c79bd00800000000000000
+      internalID: 988958192972139602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 239
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399052c207f463dd0800000000000000
+      internalID: -2506728799389546093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 286
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712ebcf3de4aab4f0800000000000000
+      internalID: -812155443902422505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 289
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4413c3b635ef40870800000000000000
+      internalID: 8648316818693042500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 241
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3311b2b60ed721bf0800000000000000
+      internalID: -355083017784717005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 241
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e1c058c98b3f320800000000000000
+      internalID: 2590617193054739984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 191
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4e48ebc1a998570800000000000000
+      internalID: 8469470022493070583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 239
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cd7f63fd861fd70800000000000000
+      internalID: 9075150032037469239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 241
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f9a43b684096160800000000000000
+      internalID: 7019146470813769609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 191
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a10d1cc329377c0800000000000000
+      internalID: -4074752448192832871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 191
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5922d8a91186c9af0800000000000000
+      internalID: -388321043044031851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 193
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb353cf4b8a3d990800000000000000
+      internalID: -7362355470541702182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 193
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9137ecd0791379de0800000000000000
+      internalID: -1326537040395865319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 193
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fb6211210a1ef50800000000000000
+      internalID: 6908979302820659083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_22
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 48
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8efb6036d1183520800000000000000
+      internalID: 2681913189732187788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_23
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 88
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e097db27c96ea7dd0800000000000000
+      internalID: -2487422284554471154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_24
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 48
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccda07ba84f1e4e0800000000000000
+      internalID: -1954011886688478012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_25
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 88
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271bf1a22444c8040800000000000000
+      internalID: 4651167566132130162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_26
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 48
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed0fb7a67e808d10800000000000000
+      internalID: 2125855664390475243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_27
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 88
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c3854605c644630800000000000000
+      internalID: 3910369469001120825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_28
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6efd414e13555ee0800000000000000
+      internalID: -1273019930252542356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_29
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38c66cd492eb0350800000000000000
+      internalID: 5984125658872596538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HydroMan_30
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a64fd21cbb26b950800000000000000
+      internalID: 6464402401907394211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HydroMan_0: 6395739091903379905
+      HydroMan_1: 1487872019483257668
+      HydroMan_10: -812155443902422505
+      HydroMan_11: 8648316818693042500
+      HydroMan_12: -355083017784717005
+      HydroMan_13: 2590617193054739984
+      HydroMan_14: 8469470022493070583
+      HydroMan_15: 9075150032037469239
+      HydroMan_16: 7019146470813769609
+      HydroMan_17: -4074752448192832871
+      HydroMan_18: -388321043044031851
+      HydroMan_19: -7362355470541702182
+      HydroMan_2: 2170615852387382386
+      HydroMan_20: -1326537040395865319
+      HydroMan_21: 6908979302820659083
+      HydroMan_22: 2681913189732187788
+      HydroMan_23: -2487422284554471154
+      HydroMan_24: -1954011886688478012
+      HydroMan_25: 4651167566132130162
+      HydroMan_26: 2125855664390475243
+      HydroMan_27: 3910369469001120825
+      HydroMan_28: -1273019930252542356
+      HydroMan_29: 5984125658872596538
+      HydroMan_3: -6302590764196181601
+      HydroMan_30: 6464402401907394211
+      HydroMan_4: -7266577794593388040
+      HydroMan_5: -7893624623770258578
+      HydroMan_6: -4579057021215900109
+      HydroMan_7: 46239210130298194
+      HydroMan_8: 988958192972139602
+      HydroMan_9: -2506728799389546093
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

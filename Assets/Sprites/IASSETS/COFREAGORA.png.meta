@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: ad534c59fab0db64e9d774f72b49eecf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4068440656961087064
+    second: COFREAGORA_0
+  - first:
+      213: 4865172189018245395
+    second: COFREAGORA_1
+  - first:
+      213: -3413173537862610191
+    second: COFREAGORA_2
+  - first:
+      213: -7268943350208782622
+    second: COFREAGORA_3
+  - first:
+      213: 639841099697354287
+    second: COFREAGORA_4
+  - first:
+      213: -7458661947294918886
+    second: COFREAGORA_5
+  - first:
+      213: 1917514277265105918
+    second: COFREAGORA_6
+  - first:
+      213: 4810973111614038847
+    second: COFREAGORA_7
+  - first:
+      213: -3867684800369735681
+    second: COFREAGORA_8
+  - first:
+      213: -3839177904819114430
+    second: COFREAGORA_9
+  - first:
+      213: -2811670016376315218
+    second: COFREAGORA_10
+  - first:
+      213: 2936478895523617939
+    second: COFREAGORA_11
+  - first:
+      213: -190584979303432707
+    second: COFREAGORA_12
+  - first:
+      213: -3270639285001617848
+    second: COFREAGORA_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: COFREAGORA_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 420
+        width: 173
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8562ce3d831067830800000000000000
+      internalID: 4068440656961087064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COFREAGORA_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 420
+        width: 173
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319ca814450948340800000000000000
+      internalID: 4865172189018245395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COFREAGORA_2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 420
+        width: 174
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f29fe640c8f1a0d0800000000000000
+      internalID: -3413173537862610191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COFREAGORA_3
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 420
+        width: 175
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee1e5619868f1b90800000000000000
+      internalID: -7268943350208782622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COFREAGORA_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 175
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26f724171c21e800800000000000000
+      internalID: 639841099697354287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COFREAGORA_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 208
+        width: 178
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1753c30a728d7890800000000000000
+      internalID: -7458661947294918886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COFREAGORA_6
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 315
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3602463116c9a10800000000000000
+      internalID: 1917514277265105918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COFREAGORA_7
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 208
+        width: 178
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33e5bd2e8204c240800000000000000
+      internalID: 4810973111614038847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COFREAGORA_8
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 317
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7c8ca7a29335ac0800000000000000
+      internalID: -3867684800369735681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COFREAGORA_9
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 208
+        width: 225
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e6ab1590088bac0800000000000000
+      internalID: -3839177904819114430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COFREAGORA_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2
+        width: 180
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2e5485401faf8d0800000000000000
+      internalID: -2811670016376315218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COFREAGORA_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2
+        width: 179
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cdd125ff770c820800000000000000
+      internalID: 2936478895523617939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COFREAGORA_12
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2
+        width: 176
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdf71998f7ea5df0800000000000000
+      internalID: -190584979303432707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: COFREAGORA_13
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2
+        width: 174
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e7a0d16ea5c92d0800000000000000
+      internalID: -3270639285001617848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      COFREAGORA_0: 4068440656961087064
+      COFREAGORA_1: 4865172189018245395
+      COFREAGORA_10: -2811670016376315218
+      COFREAGORA_11: 2936478895523617939
+      COFREAGORA_12: -190584979303432707
+      COFREAGORA_13: -3270639285001617848
+      COFREAGORA_2: -3413173537862610191
+      COFREAGORA_3: -7268943350208782622
+      COFREAGORA_4: 639841099697354287
+      COFREAGORA_5: -7458661947294918886
+      COFREAGORA_6: 1917514277265105918
+      COFREAGORA_7: 4810973111614038847
+      COFREAGORA_8: -3867684800369735681
+      COFREAGORA_9: -3839177904819114430
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

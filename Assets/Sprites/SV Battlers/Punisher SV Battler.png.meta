@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: e105a3ab85e31d444b7d03f82a99e843
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1138705165130565710
+    second: Punisher SV Battler_0
+  - first:
+      213: 3719422766398688781
+    second: Punisher SV Battler_1
+  - first:
+      213: 2345617487142577391
+    second: Punisher SV Battler_2
+  - first:
+      213: 5288171324667329018
+    second: Punisher SV Battler_3
+  - first:
+      213: 6407139236508386272
+    second: Punisher SV Battler_4
+  - first:
+      213: -2405993399907015189
+    second: Punisher SV Battler_5
+  - first:
+      213: 3291048219901352549
+    second: Punisher SV Battler_6
+  - first:
+      213: -1083255319819256668
+    second: Punisher SV Battler_7
+  - first:
+      213: -4385826992368102977
+    second: Punisher SV Battler_8
+  - first:
+      213: -8808495870422989479
+    second: Punisher SV Battler_9
+  - first:
+      213: -3946761421694559654
+    second: Punisher SV Battler_10
+  - first:
+      213: 2659786983210916181
+    second: Punisher SV Battler_11
+  - first:
+      213: -1006376886847125634
+    second: Punisher SV Battler_12
+  - first:
+      213: 1787001791024036917
+    second: Punisher SV Battler_13
+  - first:
+      213: -1174170840952195166
+    second: Punisher SV Battler_14
+  - first:
+      213: 8118992385581202355
+    second: Punisher SV Battler_15
+  - first:
+      213: -2739116315871351020
+    second: Punisher SV Battler_16
+  - first:
+      213: -480498219728092454
+    second: Punisher SV Battler_17
+  - first:
+      213: 7932515035348511016
+    second: Punisher SV Battler_18
+  - first:
+      213: -8342071161503837911
+    second: Punisher SV Battler_19
+  - first:
+      213: 3230967926306993404
+    second: Punisher SV Battler_20
+  - first:
+      213: 1687206923451094182
+    second: Punisher SV Battler_21
+  - first:
+      213: 7231384116002000935
+    second: Punisher SV Battler_22
+  - first:
+      213: 7650448392309571900
+    second: Punisher SV Battler_23
+  - first:
+      213: -4414188664828596880
+    second: Punisher SV Battler_24
+  - first:
+      213: -1364696721983602287
+    second: Punisher SV Battler_25
+  - first:
+      213: -6052171550134853987
+    second: Punisher SV Battler_26
+  - first:
+      213: -5324931429572056635
+    second: Punisher SV Battler_27
+  - first:
+      213: -8684650699022624243
+    second: Punisher SV Battler_28
+  - first:
+      213: -107613068416698898
+    second: Punisher SV Battler_29
+  - first:
+      213: 3476581874176554078
+    second: Punisher SV Battler_30
+  - first:
+      213: -7072670820807341864
+    second: Punisher SV Battler_31
+  - first:
+      213: -1181962487147329187
+    second: Punisher SV Battler_32
+  - first:
+      213: -6052032192033170734
+    second: Punisher SV Battler_33
+  - first:
+      213: -6325135149308570794
+    second: Punisher SV Battler_34
+  - first:
+      213: 8794213671864178885
+    second: Punisher SV Battler_35
+  - first:
+      213: 2903514003544241052
+    second: Punisher SV Battler_36
+  - first:
+      213: 257627417569904052
+    second: Punisher SV Battler_37
+  - first:
+      213: -7219424415792940553
+    second: Punisher SV Battler_38
+  - first:
+      213: 1574678338825478263
+    second: Punisher SV Battler_39
+  - first:
+      213: -7455425739103892027
+    second: Punisher SV Battler_40
+  - first:
+      213: -3652727393784752490
+    second: Punisher SV Battler_41
+  - first:
+      213: -3181507654686289577
+    second: Punisher SV Battler_42
+  - first:
+      213: 2747828940955455981
+    second: Punisher SV Battler_43
+  - first:
+      213: 8076936763613147054
+    second: Punisher SV Battler_44
+  - first:
+      213: 1242942274525527860
+    second: Punisher SV Battler_45
+  - first:
+      213: 1918015604089420257
+    second: Punisher SV Battler_46
+  - first:
+      213: -6475994918305025156
+    second: Punisher SV Battler_47
+  - first:
+      213: 4931671033381352308
+    second: Punisher SV Battler_48
+  - first:
+      213: 4697872921177431722
+    second: Punisher SV Battler_49
+  - first:
+      213: -6405491981818649086
+    second: Punisher SV Battler_50
+  - first:
+      213: -3225289440866182119
+    second: Punisher SV Battler_51
+  - first:
+      213: -2314217636327646825
+    second: Punisher SV Battler_52
+  - first:
+      213: 5089959595587975365
+    second: Punisher SV Battler_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Punisher SV Battler_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 319
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b77d787fa18230f0800000000000000
+      internalID: -1138705165130565710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 319
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ec1b8bc4b0e9330800000000000000
+      internalID: 3719422766398688781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 319
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4e31c4dae4d8020800000000000000
+      internalID: 2345617487142577391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 319
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9f3364dcb536940800000000000000
+      internalID: 5288171324667329018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 319
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3cc8a603bbae850800000000000000
+      internalID: 6407139236508386272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 319
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5ab9210c13c9ed0800000000000000
+      internalID: -2405993399907015189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 319
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ad6e55be62cad20800000000000000
+      internalID: 3291048219901352549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 319
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acfe15a60187f0f0800000000000000
+      internalID: -1083255319819256668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 319
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1549966996223c0800000000000000
+      internalID: -4385826992368102977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 255
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95541fddcafe1c580800000000000000
+      internalID: -8808495870422989479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 255
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a1ea6d5694a39c0800000000000000
+      internalID: -3946761421694559654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 255
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5599e784b2679e420800000000000000
+      internalID: 2659786983210916181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 255
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77405dad81a802f0800000000000000
+      internalID: -1006376886847125634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c79f639a4bcc810800000000000000
+      internalID: 1787001791024036917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 255
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a73c6757d184bfe0800000000000000
+      internalID: -1174170840952195166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 255
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb3ba4fe847ca070800000000000000
+      internalID: 8118992385581202355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_16
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 256
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fe2022934bcf9d0800000000000000
+      internalID: -2739116315871351020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 257
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad246e93a6de459f0800000000000000
+      internalID: -480498219728092454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 191
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829a4697564f51e60800000000000000
+      internalID: 7932515035348511016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 191
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921988f0a720b3c80800000000000000
+      internalID: -8342071161503837911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 191
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf47538e534b6dc20800000000000000
+      internalID: 3230967926306993404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 191
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4d1e6f1c92a6710800000000000000
+      internalID: 1687206923451094182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 191
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72093bc3a890b5460800000000000000
+      internalID: 7231384116002000935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 191
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31021c674adb2a60800000000000000
+      internalID: 7650448392309571900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_24
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 191
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07de555fbc6adb2c0800000000000000
+      internalID: -4414188664828596880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_25
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 191
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1910704df8f9f0de0800000000000000
+      internalID: -1364696721983602287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_26
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 191
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e9c7a7a0e520ca0800000000000000
+      internalID: -6052171550134853987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 127
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c96b07d31b0a16b0800000000000000
+      internalID: -5324931429572056635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 127
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a9866d33ce97780800000000000000
+      internalID: -8684650699022624243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 127
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee535d30c7ea18ef0800000000000000
+      internalID: -107613068416698898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 127
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54fada7bcc4f3030800000000000000
+      internalID: 3476581874176554078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_31
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 127
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d802807c53d8dd90800000000000000
+      internalID: -7072670820807341864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_32
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 127
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d590fb75163d89fe0800000000000000
+      internalID: -1181962487147329187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_33
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 127
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da52a059ccd20ca0800000000000000
+      internalID: -6052032192033170734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_34
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 127
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653102df71b9838a0800000000000000
+      internalID: -6325135149308570794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_35
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 127
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c81956adb25b0a70800000000000000
+      internalID: 8794213671864178885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 63
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9370ad4a9a5b4820800000000000000
+      internalID: 2903514003544241052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5c7a475c6439300800000000000000
+      internalID: 257627417569904052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_38
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 63
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f931e57eb37fcb90800000000000000
+      internalID: -7219424415792940553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_39
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 63
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770e13d2b916ad510800000000000000
+      internalID: 1574678338825478263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 63
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd88637ac1098890800000000000000
+      internalID: -7455425739103892027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 63
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6961f10d9c7ee4dc0800000000000000
+      internalID: -3652727393784752490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_42
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 63
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751dc38f4a309d3d0800000000000000
+      internalID: -3181507654686289577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_43
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 63
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de11039fcdf322620800000000000000
+      internalID: 2747828940955455981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_44
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 63
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf647c613b071070800000000000000
+      internalID: 8076936763613147054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ff86dc961df3110800000000000000
+      internalID: 1242942274525527860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_46
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9f763a7092e9a10800000000000000
+      internalID: 1918015604089420257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_47
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73b13fdee4a026a0800000000000000
+      internalID: -6475994918305025156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_48
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47377cdfca0d07440800000000000000
+      internalID: 4931671033381352308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_49
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae15ba0882323140800000000000000
+      internalID: 4697872921177431722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2062614fafe1b17a0800000000000000
+      internalID: -6405491981818649086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c5a5387587d33d0800000000000000
+      internalID: -3225289440866182119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_52
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7991fbd225f32efd0800000000000000
+      internalID: -2314217636327646825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punisher SV Battler_53
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8bc10d84b23a640800000000000000
+      internalID: 5089959595587975365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Punisher SV Battler_0: -1138705165130565710
+      Punisher SV Battler_1: 3719422766398688781
+      Punisher SV Battler_10: -3946761421694559654
+      Punisher SV Battler_11: 2659786983210916181
+      Punisher SV Battler_12: -1006376886847125634
+      Punisher SV Battler_13: 1787001791024036917
+      Punisher SV Battler_14: -1174170840952195166
+      Punisher SV Battler_15: 8118992385581202355
+      Punisher SV Battler_16: -2739116315871351020
+      Punisher SV Battler_17: -480498219728092454
+      Punisher SV Battler_18: 7932515035348511016
+      Punisher SV Battler_19: -8342071161503837911
+      Punisher SV Battler_2: 2345617487142577391
+      Punisher SV Battler_20: 3230967926306993404
+      Punisher SV Battler_21: 1687206923451094182
+      Punisher SV Battler_22: 7231384116002000935
+      Punisher SV Battler_23: 7650448392309571900
+      Punisher SV Battler_24: -4414188664828596880
+      Punisher SV Battler_25: -1364696721983602287
+      Punisher SV Battler_26: -6052171550134853987
+      Punisher SV Battler_27: -5324931429572056635
+      Punisher SV Battler_28: -8684650699022624243
+      Punisher SV Battler_29: -107613068416698898
+      Punisher SV Battler_3: 5288171324667329018
+      Punisher SV Battler_30: 3476581874176554078
+      Punisher SV Battler_31: -7072670820807341864
+      Punisher SV Battler_32: -1181962487147329187
+      Punisher SV Battler_33: -6052032192033170734
+      Punisher SV Battler_34: -6325135149308570794
+      Punisher SV Battler_35: 8794213671864178885
+      Punisher SV Battler_36: 2903514003544241052
+      Punisher SV Battler_37: 257627417569904052
+      Punisher SV Battler_38: -7219424415792940553
+      Punisher SV Battler_39: 1574678338825478263
+      Punisher SV Battler_4: 6407139236508386272
+      Punisher SV Battler_40: -7455425739103892027
+      Punisher SV Battler_41: -3652727393784752490
+      Punisher SV Battler_42: -3181507654686289577
+      Punisher SV Battler_43: 2747828940955455981
+      Punisher SV Battler_44: 8076936763613147054
+      Punisher SV Battler_45: 1242942274525527860
+      Punisher SV Battler_46: 1918015604089420257
+      Punisher SV Battler_47: -6475994918305025156
+      Punisher SV Battler_48: 4931671033381352308
+      Punisher SV Battler_49: 4697872921177431722
+      Punisher SV Battler_5: -2405993399907015189
+      Punisher SV Battler_50: -6405491981818649086
+      Punisher SV Battler_51: -3225289440866182119
+      Punisher SV Battler_52: -2314217636327646825
+      Punisher SV Battler_53: 5089959595587975365
+      Punisher SV Battler_6: 3291048219901352549
+      Punisher SV Battler_7: -1083255319819256668
+      Punisher SV Battler_8: -4385826992368102977
+      Punisher SV Battler_9: -8808495870422989479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

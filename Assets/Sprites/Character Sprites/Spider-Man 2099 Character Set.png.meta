@@ -1,0 +1,2457 @@
+fileFormatVersion: 2
+guid: 72b1064e16ca68f45ae11a7426552ae4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1057425348725781697
+    second: Spider-Man 2099 Character Set_0
+  - first:
+      213: 7202264587596745194
+    second: Spider-Man 2099 Character Set_1
+  - first:
+      213: 3220434862480463096
+    second: Spider-Man 2099 Character Set_2
+  - first:
+      213: -3420203599736432147
+    second: Spider-Man 2099 Character Set_3
+  - first:
+      213: 7703511844206982354
+    second: Spider-Man 2099 Character Set_4
+  - first:
+      213: 4523776581717108786
+    second: Spider-Man 2099 Character Set_5
+  - first:
+      213: -5316561665003972263
+    second: Spider-Man 2099 Character Set_6
+  - first:
+      213: 7784580864315486247
+    second: Spider-Man 2099 Character Set_7
+  - first:
+      213: 7365018014487184079
+    second: Spider-Man 2099 Character Set_8
+  - first:
+      213: 9121198658776917899
+    second: Spider-Man 2099 Character Set_9
+  - first:
+      213: 2743859777672442888
+    second: Spider-Man 2099 Character Set_10
+  - first:
+      213: -1092705579547112881
+    second: Spider-Man 2099 Character Set_11
+  - first:
+      213: 2386310085513250181
+    second: Spider-Man 2099 Character Set_12
+  - first:
+      213: -1953832737227128585
+    second: Spider-Man 2099 Character Set_13
+  - first:
+      213: 1926753495527822932
+    second: Spider-Man 2099 Character Set_14
+  - first:
+      213: -6362557440305125667
+    second: Spider-Man 2099 Character Set_15
+  - first:
+      213: -7950012837904476113
+    second: Spider-Man 2099 Character Set_16
+  - first:
+      213: 7000505797039614719
+    second: Spider-Man 2099 Character Set_17
+  - first:
+      213: 192630295336437391
+    second: Spider-Man 2099 Character Set_18
+  - first:
+      213: 145921190604093290
+    second: Spider-Man 2099 Character Set_19
+  - first:
+      213: 836881095632160543
+    second: Spider-Man 2099 Character Set_20
+  - first:
+      213: -8747414651599020753
+    second: Spider-Man 2099 Character Set_21
+  - first:
+      213: -8415704096431589158
+    second: Spider-Man 2099 Character Set_22
+  - first:
+      213: 7964616198346943172
+    second: Spider-Man 2099 Character Set_23
+  - first:
+      213: 4993742544833246891
+    second: Spider-Man 2099 Character Set_24
+  - first:
+      213: -3175446064095129733
+    second: Spider-Man 2099 Character Set_25
+  - first:
+      213: -2231150158966657689
+    second: Spider-Man 2099 Character Set_26
+  - first:
+      213: 2394247988096117022
+    second: Spider-Man 2099 Character Set_27
+  - first:
+      213: -858821887332485380
+    second: Spider-Man 2099 Character Set_28
+  - first:
+      213: -5155421567083869952
+    second: Spider-Man 2099 Character Set_29
+  - first:
+      213: 3047604634650443276
+    second: Spider-Man 2099 Character Set_30
+  - first:
+      213: 5128603111458004440
+    second: Spider-Man 2099 Character Set_31
+  - first:
+      213: 1989929062729348741
+    second: Spider-Man 2099 Character Set_32
+  - first:
+      213: -3645606114611826925
+    second: Spider-Man 2099 Character Set_33
+  - first:
+      213: -3553632020490509607
+    second: Spider-Man 2099 Character Set_34
+  - first:
+      213: -5932574332559034207
+    second: Spider-Man 2099 Character Set_35
+  - first:
+      213: -9154569927783487691
+    second: Spider-Man 2099 Character Set_36
+  - first:
+      213: 4280640521101981678
+    second: Spider-Man 2099 Character Set_37
+  - first:
+      213: -3048111933058989716
+    second: Spider-Man 2099 Character Set_38
+  - first:
+      213: 4113324362343819375
+    second: Spider-Man 2099 Character Set_39
+  - first:
+      213: -8691061334107262075
+    second: Spider-Man 2099 Character Set_40
+  - first:
+      213: 8955302763091416862
+    second: Spider-Man 2099 Character Set_41
+  - first:
+      213: -3657034423724210594
+    second: Spider-Man 2099 Character Set_42
+  - first:
+      213: -7532264045232182536
+    second: Spider-Man 2099 Character Set_43
+  - first:
+      213: 4197262230736608676
+    second: Spider-Man 2099 Character Set_44
+  - first:
+      213: -7274943721660653561
+    second: Spider-Man 2099 Character Set_45
+  - first:
+      213: -3222767704091920280
+    second: Spider-Man 2099 Character Set_46
+  - first:
+      213: 4027544674451792811
+    second: Spider-Man 2099 Character Set_47
+  - first:
+      213: -2052686959337035665
+    second: Spider-Man 2099 Character Set_48
+  - first:
+      213: 5755190690146401842
+    second: Spider-Man 2099 Character Set_49
+  - first:
+      213: 8466535763967643583
+    second: Spider-Man 2099 Character Set_50
+  - first:
+      213: -8761674001574665587
+    second: Spider-Man 2099 Character Set_51
+  - first:
+      213: 340187417468945914
+    second: Spider-Man 2099 Character Set_52
+  - first:
+      213: -1702082886675934424
+    second: Spider-Man 2099 Character Set_53
+  - first:
+      213: 7609785612628071081
+    second: Spider-Man 2099 Character Set_54
+  - first:
+      213: -8204976687963214808
+    second: Spider-Man 2099 Character Set_55
+  - first:
+      213: -2584626237407708674
+    second: Spider-Man 2099 Character Set_56
+  - first:
+      213: 8982518217443557776
+    second: Spider-Man 2099 Character Set_57
+  - first:
+      213: -4819684680563663282
+    second: Spider-Man 2099 Character Set_58
+  - first:
+      213: 5244837725922395677
+    second: Spider-Man 2099 Character Set_59
+  - first:
+      213: 6819520087802945113
+    second: Spider-Man 2099 Character Set_60
+  - first:
+      213: -7870840958373084442
+    second: Spider-Man 2099 Character Set_61
+  - first:
+      213: 3134594066895954104
+    second: Spider-Man 2099 Character Set_62
+  - first:
+      213: -3306174216959073854
+    second: Spider-Man 2099 Character Set_63
+  - first:
+      213: 7992459668364604096
+    second: Spider-Man 2099 Character Set_64
+  - first:
+      213: -7218674603298015521
+    second: Spider-Man 2099 Character Set_65
+  - first:
+      213: -6968712965044411096
+    second: Spider-Man 2099 Character Set_66
+  - first:
+      213: 419796020211594373
+    second: Spider-Man 2099 Character Set_67
+  - first:
+      213: 4659257163563824582
+    second: Spider-Man 2099 Character Set_68
+  - first:
+      213: -1076371070108495838
+    second: Spider-Man 2099 Character Set_69
+  - first:
+      213: -5008118359642852947
+    second: Spider-Man 2099 Character Set_70
+  - first:
+      213: 498519771166504294
+    second: Spider-Man 2099 Character Set_71
+  - first:
+      213: 9038889300302027761
+    second: Spider-Man 2099 Character Set_72
+  - first:
+      213: 5606655796410381941
+    second: Spider-Man 2099 Character Set_73
+  - first:
+      213: 6837723477262687679
+    second: Spider-Man 2099 Character Set_74
+  - first:
+      213: 6319617114658196243
+    second: Spider-Man 2099 Character Set_75
+  - first:
+      213: -8618002782861846902
+    second: Spider-Man 2099 Character Set_76
+  - first:
+      213: 592540069410063329
+    second: Spider-Man 2099 Character Set_77
+  - first:
+      213: -1699153250595663339
+    second: Spider-Man 2099 Character Set_78
+  - first:
+      213: 6319380819526472626
+    second: Spider-Man 2099 Character Set_79
+  - first:
+      213: 2962946220568172778
+    second: Spider-Man 2099 Character Set_80
+  - first:
+      213: -5300080733018899467
+    second: Spider-Man 2099 Character Set_81
+  - first:
+      213: -7046239418107677452
+    second: Spider-Man 2099 Character Set_82
+  - first:
+      213: -2612318192370073050
+    second: Spider-Man 2099 Character Set_83
+  - first:
+      213: -2498893552449818744
+    second: Spider-Man 2099 Character Set_84
+  - first:
+      213: -7660993249929915554
+    second: Spider-Man 2099 Character Set_85
+  - first:
+      213: -4008945644634948219
+    second: Spider-Man 2099 Character Set_86
+  - first:
+      213: -1990656686299551700
+    second: Spider-Man 2099 Character Set_87
+  - first:
+      213: 2484690669514701260
+    second: Spider-Man 2099 Character Set_88
+  - first:
+      213: 1091316058771793110
+    second: Spider-Man 2099 Character Set_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 335
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c43b4f80cabcae00800000000000000
+      internalID: 1057425348725781697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 335
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae94412bb7593f360800000000000000
+      internalID: 7202264587596745194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 335
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f49e60e17841bc20800000000000000
+      internalID: 3220434862480463096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 335
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9923272fef880d0800000000000000
+      internalID: -3420203599736432147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 335
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4b8f4153f58ea60800000000000000
+      internalID: 7703511844206982354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 335
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238aa7445dea7ce30800000000000000
+      internalID: 4523776581717108786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 335
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9599af28557c736b0800000000000000
+      internalID: -5316561665003972263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 335
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720f3d63d03680c60800000000000000
+      internalID: 7784580864315486247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 335
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc28cd5dcdcc53660800000000000000
+      internalID: 7365018014487184079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 287
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87ea2e9ad1059e70800000000000000
+      internalID: 9121198658776917899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 287
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804f5a12ee5241620800000000000000
+      internalID: 2743859777672442888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 287
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ac107901ee5d0f0800000000000000
+      internalID: -1092705579547112881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_12
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58503fa2160ed1120800000000000000
+      internalID: 2386310085513250181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 287
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f04c033a7792e4e0800000000000000
+      internalID: -1953832737227128585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_14
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4569da688143dba10800000000000000
+      internalID: 1926753495527822932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_15
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd62893e7b7a3b7a0800000000000000
+      internalID: -6362557440305125667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 287
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2898e4e171eba190800000000000000
+      internalID: -7950012837904476113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaeb90aeeac62160800000000000000
+      internalID: 7000505797039614719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 239
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86c186ab3c5ca200800000000000000
+      internalID: 192630295336437391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 239
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67b82bbc8a660200800000000000000
+      internalID: 145921190604093290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 239
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1705682ce23d9b00800000000000000
+      internalID: 836881095632160543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 239
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d946c58b0fa9680800000000000000
+      internalID: -8747414651599020753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 239
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8356d66b9653b80800000000000000
+      internalID: -8415704096431589158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 239
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caaacaeb30088e60800000000000000
+      internalID: 7964616198346943172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 239
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba67a84f2665d4540800000000000000
+      internalID: 4993742544833246891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_25
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 239
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f823201ac8ee3d0800000000000000
+      internalID: -3175446064095129733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 239
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d6c3660cc5901e0800000000000000
+      internalID: -2231150158966657689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_27
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 240
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19a9a22cd31a3120800000000000000
+      internalID: 2394247988096117022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_28
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 240
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf677303b0ad414f0800000000000000
+      internalID: -858821887332485380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_29
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 240
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009049a36634478b0800000000000000
+      internalID: -5155421567083869952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 191
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e7c20b4444b4a20800000000000000
+      internalID: 3047604634650443276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 191
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddda6c7b557c2740800000000000000
+      internalID: 5128603111458004440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_32
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 191
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586753080f5ad9b10800000000000000
+      internalID: 1989929062729348741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 191
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fe193dd84386dc0800000000000000
+      internalID: -3645606114611826925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_34
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 191
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2a53c5186feaec0800000000000000
+      internalID: -3553632020490509607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_35
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 191
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8f730a3134bada0800000000000000
+      internalID: -5932574332559034207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 191
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537edf6572f64f080800000000000000
+      internalID: -9154569927783487691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 191
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee73d67cfd3e76b30800000000000000
+      internalID: 4280640521101981678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_38
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 191
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61c362b85ee2b5d0800000000000000
+      internalID: -3048111933058989716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_39
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 192
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68a677d6b6751930800000000000000
+      internalID: 4113324362343819375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_40
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 192
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583776b83c5236780800000000000000
+      internalID: -8691061334107262075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 192
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1753227a60a74c70800000000000000
+      internalID: 8955302763091416862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e560b82419a9f3dc0800000000000000
+      internalID: -3657034423724210594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_43
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 143
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa2d7d22c5087790800000000000000
+      internalID: -7532264045232182536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_44
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 143
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad1834c2cbaf3a30800000000000000
+      internalID: 4197262230736608676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_45
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700657dba353a0b90800000000000000
+      internalID: -7274943721660653561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 143
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868fffb19dd6643d0800000000000000
+      internalID: -3222767704091920280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_47
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 143
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba327b5ea86b4e730800000000000000
+      internalID: 4027544674451792811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_48
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 143
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68a3a906146383e0800000000000000
+      internalID: -2052686959337035665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_49
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 143
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ebfccb07b8edf40800000000000000
+      internalID: 5755190690146401842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_50
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 143
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf8e617b6d2f7570800000000000000
+      internalID: 8466535763967643583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_51
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 144
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82ed5abae7486680800000000000000
+      internalID: -8761674001574665587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_52
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 144
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af54b4f57a698b400800000000000000
+      internalID: 340187417468945914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_53
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 144
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823d861f1acf068e0800000000000000
+      internalID: -1702082886675934424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_54
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 95
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2139142b36b9960800000000000000
+      internalID: 7609785612628071081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_55
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 95
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c67939c21122e80800000000000000
+      internalID: -8204976687963214808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_56
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 95
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9b82a8120912cd0800000000000000
+      internalID: -2584626237407708674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_57
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091c2333ab058ac70800000000000000
+      internalID: 8982518217443557776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_58
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 95
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e5c9d915a0d1db0800000000000000
+      internalID: -4819684680563663282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_59
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d160c269f1869c840800000000000000
+      internalID: 5244837725922395677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_60
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e9224736dc3ae50800000000000000
+      internalID: 6819520087802945113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_61
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 95
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2c39099d725c290800000000000000
+      internalID: -7870840958373084442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_62
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0616032b0508b20800000000000000
+      internalID: 3134594066895954104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_63
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 96
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c16998011c1e12d0800000000000000
+      internalID: -3306174216959073854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_64
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 96
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c23286f8bbeaee60800000000000000
+      internalID: 7992459668364604096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_65
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 96
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6b949c1bd12db90800000000000000
+      internalID: -7218674603298015521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_66
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 47
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8256ed8ea782a4f90800000000000000
+      internalID: -6968712965044411096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_67
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 47
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584b5d6914a63d500800000000000000
+      internalID: 419796020211594373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_68
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 47
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c57a6754b109a040800000000000000
+      internalID: 4659257163563824582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_69
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 47
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2201dafe636ff01f0800000000000000
+      internalID: -1076371070108495838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_70
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 47
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da13064d2e69f7ab0800000000000000
+      internalID: -5008118359642852947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_71
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 47
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66573e137191be600800000000000000
+      internalID: 498519771166504294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_72
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 47
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbd494bde5907d70800000000000000
+      internalID: 9038889300302027761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_73
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 47
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576fce2ddb7decd40800000000000000
+      internalID: 5606655796410381941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_74
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 47
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd5796564974ee50800000000000000
+      internalID: 6837723477262687679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_75
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 48
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b4ea3784ac3b750800000000000000
+      internalID: 6319617114658196243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_76
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 48
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86113e0124b66880800000000000000
+      internalID: -8618002782861846902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_77
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 48
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e34f50cd00293800800000000000000
+      internalID: 592540069410063329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_78
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5129b4ffe156b68e0800000000000000
+      internalID: -1699153250595663339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_79
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3da44bf53f2b750800000000000000
+      internalID: 6319380819526472626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_80
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae85d85a3ef7e1920800000000000000
+      internalID: 2962946220568172778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_81
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb348387a45276b0800000000000000
+      internalID: -5300080733018899467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_82
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f43651f49ab63e90800000000000000
+      internalID: -7046239418107677452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_83
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622cd77d17e2fbbd0800000000000000
+      internalID: -2612318192370073050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_84
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fe6b2cd85225dd0800000000000000
+      internalID: -2498893552449818744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_85
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5313479a3faea590800000000000000
+      internalID: -7660993249929915554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_86
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d3faf2d2d5d58c0800000000000000
+      internalID: -4008945644634948219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_87
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28eb5f6a44cf54e0800000000000000
+      internalID: -1990656686299551700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_88
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9b62ddff46b7220800000000000000
+      internalID: 2484690669514701260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man 2099 Character Set_89
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4a5c46c22252f00800000000000000
+      internalID: 1091316058771793110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spider-Man 2099 Character Set_0: 1057425348725781697
+      Spider-Man 2099 Character Set_1: 7202264587596745194
+      Spider-Man 2099 Character Set_10: 2743859777672442888
+      Spider-Man 2099 Character Set_11: -1092705579547112881
+      Spider-Man 2099 Character Set_12: 2386310085513250181
+      Spider-Man 2099 Character Set_13: -1953832737227128585
+      Spider-Man 2099 Character Set_14: 1926753495527822932
+      Spider-Man 2099 Character Set_15: -6362557440305125667
+      Spider-Man 2099 Character Set_16: -7950012837904476113
+      Spider-Man 2099 Character Set_17: 7000505797039614719
+      Spider-Man 2099 Character Set_18: 192630295336437391
+      Spider-Man 2099 Character Set_19: 145921190604093290
+      Spider-Man 2099 Character Set_2: 3220434862480463096
+      Spider-Man 2099 Character Set_20: 836881095632160543
+      Spider-Man 2099 Character Set_21: -8747414651599020753
+      Spider-Man 2099 Character Set_22: -8415704096431589158
+      Spider-Man 2099 Character Set_23: 7964616198346943172
+      Spider-Man 2099 Character Set_24: 4993742544833246891
+      Spider-Man 2099 Character Set_25: -3175446064095129733
+      Spider-Man 2099 Character Set_26: -2231150158966657689
+      Spider-Man 2099 Character Set_27: 2394247988096117022
+      Spider-Man 2099 Character Set_28: -858821887332485380
+      Spider-Man 2099 Character Set_29: -5155421567083869952
+      Spider-Man 2099 Character Set_3: -3420203599736432147
+      Spider-Man 2099 Character Set_30: 3047604634650443276
+      Spider-Man 2099 Character Set_31: 5128603111458004440
+      Spider-Man 2099 Character Set_32: 1989929062729348741
+      Spider-Man 2099 Character Set_33: -3645606114611826925
+      Spider-Man 2099 Character Set_34: -3553632020490509607
+      Spider-Man 2099 Character Set_35: -5932574332559034207
+      Spider-Man 2099 Character Set_36: -9154569927783487691
+      Spider-Man 2099 Character Set_37: 4280640521101981678
+      Spider-Man 2099 Character Set_38: -3048111933058989716
+      Spider-Man 2099 Character Set_39: 4113324362343819375
+      Spider-Man 2099 Character Set_4: 7703511844206982354
+      Spider-Man 2099 Character Set_40: -8691061334107262075
+      Spider-Man 2099 Character Set_41: 8955302763091416862
+      Spider-Man 2099 Character Set_42: -3657034423724210594
+      Spider-Man 2099 Character Set_43: -7532264045232182536
+      Spider-Man 2099 Character Set_44: 4197262230736608676
+      Spider-Man 2099 Character Set_45: -7274943721660653561
+      Spider-Man 2099 Character Set_46: -3222767704091920280
+      Spider-Man 2099 Character Set_47: 4027544674451792811
+      Spider-Man 2099 Character Set_48: -2052686959337035665
+      Spider-Man 2099 Character Set_49: 5755190690146401842
+      Spider-Man 2099 Character Set_5: 4523776581717108786
+      Spider-Man 2099 Character Set_50: 8466535763967643583
+      Spider-Man 2099 Character Set_51: -8761674001574665587
+      Spider-Man 2099 Character Set_52: 340187417468945914
+      Spider-Man 2099 Character Set_53: -1702082886675934424
+      Spider-Man 2099 Character Set_54: 7609785612628071081
+      Spider-Man 2099 Character Set_55: -8204976687963214808
+      Spider-Man 2099 Character Set_56: -2584626237407708674
+      Spider-Man 2099 Character Set_57: 8982518217443557776
+      Spider-Man 2099 Character Set_58: -4819684680563663282
+      Spider-Man 2099 Character Set_59: 5244837725922395677
+      Spider-Man 2099 Character Set_6: -5316561665003972263
+      Spider-Man 2099 Character Set_60: 6819520087802945113
+      Spider-Man 2099 Character Set_61: -7870840958373084442
+      Spider-Man 2099 Character Set_62: 3134594066895954104
+      Spider-Man 2099 Character Set_63: -3306174216959073854
+      Spider-Man 2099 Character Set_64: 7992459668364604096
+      Spider-Man 2099 Character Set_65: -7218674603298015521
+      Spider-Man 2099 Character Set_66: -6968712965044411096
+      Spider-Man 2099 Character Set_67: 419796020211594373
+      Spider-Man 2099 Character Set_68: 4659257163563824582
+      Spider-Man 2099 Character Set_69: -1076371070108495838
+      Spider-Man 2099 Character Set_7: 7784580864315486247
+      Spider-Man 2099 Character Set_70: -5008118359642852947
+      Spider-Man 2099 Character Set_71: 498519771166504294
+      Spider-Man 2099 Character Set_72: 9038889300302027761
+      Spider-Man 2099 Character Set_73: 5606655796410381941
+      Spider-Man 2099 Character Set_74: 6837723477262687679
+      Spider-Man 2099 Character Set_75: 6319617114658196243
+      Spider-Man 2099 Character Set_76: -8618002782861846902
+      Spider-Man 2099 Character Set_77: 592540069410063329
+      Spider-Man 2099 Character Set_78: -1699153250595663339
+      Spider-Man 2099 Character Set_79: 6319380819526472626
+      Spider-Man 2099 Character Set_8: 7365018014487184079
+      Spider-Man 2099 Character Set_80: 2962946220568172778
+      Spider-Man 2099 Character Set_81: -5300080733018899467
+      Spider-Man 2099 Character Set_82: -7046239418107677452
+      Spider-Man 2099 Character Set_83: -2612318192370073050
+      Spider-Man 2099 Character Set_84: -2498893552449818744
+      Spider-Man 2099 Character Set_85: -7660993249929915554
+      Spider-Man 2099 Character Set_86: -4008945644634948219
+      Spider-Man 2099 Character Set_87: -1990656686299551700
+      Spider-Man 2099 Character Set_88: 2484690669514701260
+      Spider-Man 2099 Character Set_89: 1091316058771793110
+      Spider-Man 2099 Character Set_9: 9121198658776917899
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

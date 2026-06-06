@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: 66de3c6d0df49f04da6905884d44bb0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7497605580751479757
+    second: Miles Morales 01_0
+  - first:
+      213: -3641147671883086405
+    second: Miles Morales 01_1
+  - first:
+      213: 3964602752768031893
+    second: Miles Morales 01_2
+  - first:
+      213: 4724841456506244343
+    second: Miles Morales 01_3
+  - first:
+      213: -4776411489486603665
+    second: Miles Morales 01_4
+  - first:
+      213: 1498845207643924246
+    second: Miles Morales 01_5
+  - first:
+      213: -5622526898093347014
+    second: Miles Morales 01_6
+  - first:
+      213: 6293640474170646886
+    second: Miles Morales 01_7
+  - first:
+      213: -8703906878306835860
+    second: Miles Morales 01_8
+  - first:
+      213: -3637942462412433494
+    second: Miles Morales 01_9
+  - first:
+      213: -8366376029662044601
+    second: Miles Morales 01_10
+  - first:
+      213: 4974432129874602095
+    second: Miles Morales 01_11
+  - first:
+      213: -5047399296078801892
+    second: Miles Morales 01_12
+  - first:
+      213: 5249522483539697350
+    second: Miles Morales 01_13
+  - first:
+      213: 6307002528754806603
+    second: Miles Morales 01_14
+  - first:
+      213: 1431753117570377891
+    second: Miles Morales 01_15
+  - first:
+      213: 2378855444343243981
+    second: Miles Morales 01_16
+  - first:
+      213: -9122636106952581045
+    second: Miles Morales 01_17
+  - first:
+      213: -1570459865262580444
+    second: Miles Morales 01_18
+  - first:
+      213: 7286181455406466457
+    second: Miles Morales 01_19
+  - first:
+      213: -7971528422128520285
+    second: Miles Morales 01_20
+  - first:
+      213: 1621406537908157424
+    second: Miles Morales 01_21
+  - first:
+      213: 5522022535442650289
+    second: Miles Morales 01_22
+  - first:
+      213: -9197687907718750563
+    second: Miles Morales 01_23
+  - first:
+      213: 2105092931017227758
+    second: Miles Morales 01_24
+  - first:
+      213: 304256802472619275
+    second: Miles Morales 01_25
+  - first:
+      213: -1776664395957460450
+    second: Miles Morales 01_26
+  - first:
+      213: -9192461398971197229
+    second: Miles Morales 01_27
+  - first:
+      213: -8016539961535560680
+    second: Miles Morales 01_28
+  - first:
+      213: -4545959896940019631
+    second: Miles Morales 01_29
+  - first:
+      213: 7504640293870067956
+    second: Miles Morales 01_30
+  - first:
+      213: -2550675179287570395
+    second: Miles Morales 01_31
+  - first:
+      213: 2005100449021621288
+    second: Miles Morales 01_32
+  - first:
+      213: -855597172803462417
+    second: Miles Morales 01_33
+  - first:
+      213: 4506093159576781473
+    second: Miles Morales 01_34
+  - first:
+      213: 1205178767380178509
+    second: Miles Morales 01_35
+  - first:
+      213: -1446865959874468832
+    second: Miles Morales 01_36
+  - first:
+      213: -7273639297613766569
+    second: Miles Morales 01_37
+  - first:
+      213: -310206963802313529
+    second: Miles Morales 01_38
+  - first:
+      213: 2569636492418616508
+    second: Miles Morales 01_39
+  - first:
+      213: -1301176245048483997
+    second: Miles Morales 01_40
+  - first:
+      213: 4011253894799897319
+    second: Miles Morales 01_41
+  - first:
+      213: -3599976384308422656
+    second: Miles Morales 01_42
+  - first:
+      213: -1770378599894286879
+    second: Miles Morales 01_43
+  - first:
+      213: 8897143928787267673
+    second: Miles Morales 01_44
+  - first:
+      213: 6470179454916039826
+    second: Miles Morales 01_45
+  - first:
+      213: -6483789870566604956
+    second: Miles Morales 01_46
+  - first:
+      213: 1777243710800208739
+    second: Miles Morales 01_47
+  - first:
+      213: -6782903197294391216
+    second: Miles Morales 01_48
+  - first:
+      213: -8519782658494023839
+    second: Miles Morales 01_49
+  - first:
+      213: 2043088396125052270
+    second: Miles Morales 01_50
+  - first:
+      213: -5500774485148058288
+    second: Miles Morales 01_51
+  - first:
+      213: 137058408575879798
+    second: Miles Morales 01_52
+  - first:
+      213: 8561331781306723642
+    second: Miles Morales 01_53
+  - first:
+      213: 8459807431373967345
+    second: Miles Morales 01_54
+  - first:
+      213: 3270573498821336393
+    second: Miles Morales 01_55
+  - first:
+      213: -6189661377858068509
+    second: Miles Morales 01_56
+  - first:
+      213: -2195806441328818569
+    second: Miles Morales 01_57
+  - first:
+      213: -6239772278450333037
+    second: Miles Morales 01_58
+  - first:
+      213: 3570625984208421001
+    second: Miles Morales 01_59
+  - first:
+      213: -1793636909873220784
+    second: Miles Morales 01_60
+  - first:
+      213: 6646011408095345711
+    second: Miles Morales 01_61
+  - first:
+      213: -5243858082806078253
+    second: Miles Morales 01_62
+  - first:
+      213: -1620090019404095926
+    second: Miles Morales 01_63
+  - first:
+      213: 8152488073331682225
+    second: Miles Morales 01_64
+  - first:
+      213: -3726395091176056578
+    second: Miles Morales 01_65
+  - first:
+      213: -2523334805715261697
+    second: Miles Morales 01_66
+  - first:
+      213: -679331060351070785
+    second: Miles Morales 01_67
+  - first:
+      213: -5366934938588344737
+    second: Miles Morales 01_68
+  - first:
+      213: -5058709067098808963
+    second: Miles Morales 01_69
+  - first:
+      213: -3996743723329721421
+    second: Miles Morales 01_70
+  - first:
+      213: 6002338824197530722
+    second: Miles Morales 01_71
+  - first:
+      213: -876630900291137761
+    second: Miles Morales 01_72
+  - first:
+      213: 4617562432390889850
+    second: Miles Morales 01_73
+  - first:
+      213: -4580543815861817777
+    second: Miles Morales 01_74
+  - first:
+      213: -6912834149759146592
+    second: Miles Morales 01_75
+  - first:
+      213: 2182724145721128248
+    second: Miles Morales 01_76
+  - first:
+      213: 4335986596124062894
+    second: Miles Morales 01_77
+  - first:
+      213: 8197247873193466979
+    second: Miles Morales 01_78
+  - first:
+      213: -4038256166541022479
+    second: Miles Morales 01_79
+  - first:
+      213: 7472574281036409948
+    second: Miles Morales 01_80
+  - first:
+      213: 6512079181557363572
+    second: Miles Morales 01_81
+  - first:
+      213: 945984089464901054
+    second: Miles Morales 01_82
+  - first:
+      213: -8442230940758296279
+    second: Miles Morales 01_83
+  - first:
+      213: 412600956528161183
+    second: Miles Morales 01_84
+  - first:
+      213: 8004952087811072710
+    second: Miles Morales 01_85
+  - first:
+      213: 587344841032941884
+    second: Miles Morales 01_86
+  - first:
+      213: 5233434043413277969
+    second: Miles Morales 01_87
+  - first:
+      213: 1377532010351146622
+    second: Miles Morales 01_88
+  - first:
+      213: 3692348147237079362
+    second: Miles Morales 01_89
+  - first:
+      213: 2775756384845464951
+    second: Miles Morales 01_90
+  - first:
+      213: -2841454220052550827
+    second: Miles Morales 01_91
+  - first:
+      213: 3213791435172232699
+    second: Miles Morales 01_92
+  - first:
+      213: 1755890752613472526
+    second: Miles Morales 01_93
+  - first:
+      213: 2232542986943723537
+    second: Miles Morales 01_94
+  - first:
+      213: -3533740401594469686
+    second: Miles Morales 01_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Miles Morales 01_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 335
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c5255c27723f790800000000000000
+      internalID: -7497605580751479757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 335
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb50baaeb7b087dc0800000000000000
+      internalID: -3641147671883086405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 335
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c3642c239150730800000000000000
+      internalID: 3964602752768031893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 335
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc081b7542029140800000000000000
+      internalID: 4724841456506244343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 335
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a7e0c8e07c6bdb0800000000000000
+      internalID: -4776411489486603665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 335
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617a9ee66c7fcc410800000000000000
+      internalID: 1498845207643924246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 335
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f211b5395c8f1b0800000000000000
+      internalID: -5622526898093347014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 287
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66166f68aa0875750800000000000000
+      internalID: 6293640474170646886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_8
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 335
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6221783fc2853780800000000000000
+      internalID: -8703906878306835860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_9
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 287
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7d896ea9e638dc0800000000000000
+      internalID: -3637942462412433494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 335
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e96a6f359a4eb80800000000000000
+      internalID: -8366376029662044601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_11
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 287
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68277c9aabb80540800000000000000
+      internalID: 4974432129874602095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 287
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c149aad151904f9b0800000000000000
+      internalID: -5047399296078801892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 287
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce5fc7b2ec0ad840800000000000000
+      internalID: 5249522483539697350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 287
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fabeb4269f68750800000000000000
+      internalID: 6307002528754806603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 287
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a827daefdb9ed310800000000000000
+      internalID: 1431753117570377891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 287
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc445144c64630120800000000000000
+      internalID: 2378855444343243981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 287
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4060f56bc2e56180800000000000000
+      internalID: -9122636106952581045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 239
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d140db21b943ae0800000000000000
+      internalID: -1570459865262580444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 239
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9958a8a0e67bd1560800000000000000
+      internalID: 7286181455406466457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_20
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 239
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3791292217f5190800000000000000
+      internalID: -7971528422128520285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 239
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbf288d7a4608610800000000000000
+      internalID: 1621406537908157424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_22
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 239
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4d2c23d3a22ac40800000000000000
+      internalID: 5522022535442650289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 239
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e9481549f3b5080800000000000000
+      internalID: -9197687907718750563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_24
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 239
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedb7741edac63d10800000000000000
+      internalID: 2105092931017227758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 239
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d60e723ffe83400800000000000000
+      internalID: 304256802472619275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_26
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 239
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e122fd125250857e0800000000000000
+      internalID: -1776664395957460450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_27
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 240
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8d4d6bf01dd6080800000000000000
+      internalID: -9192461398971197229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_28
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 240
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81403f0e0678fb090800000000000000
+      internalID: -8016539961535560680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_29
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 240
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15008bb2f8189e0c0800000000000000
+      internalID: -4545959896940019631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 229
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f065330696d52860800000000000000
+      internalID: 7504640293870067956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 191
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5289821407e2a9cd0800000000000000
+      internalID: -2550675179287570395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_32
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 230
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824f8e22c3c83db10800000000000000
+      internalID: 2005100449021621288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_33
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 191
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea983c87ee4024f0800000000000000
+      internalID: -855597172803462417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_34
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 191
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a24465badbd88e30800000000000000
+      internalID: 4506093159576781473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 229
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46e98024b7a9b010800000000000000
+      internalID: 1205178767380178509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_36
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 191
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024e3184313bbebe0800000000000000
+      internalID: -1446865959874468832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_37
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 230
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750e861a897de0b90800000000000000
+      internalID: -7273639297613766569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 191
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cce5b3f86ce1bbf0800000000000000
+      internalID: -310206963802313529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_39
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 191
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc0e7c76ce29a320800000000000000
+      internalID: 2569636492418616508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_40
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 191
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f55bb591b41fde0800000000000000
+      internalID: -1301176245048483997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_41
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 191
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2337f2a26daa730800000000000000
+      internalID: 4011253894799897319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_42
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 191
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008508d4d805a0ec0800000000000000
+      internalID: -3599976384308422656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_43
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 192
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edf8531b0a5e67e0800000000000000
+      internalID: -1770378599894286879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_44
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 192
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95073ee9341097b70800000000000000
+      internalID: 8897143928787267673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_45
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 192
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2941d4b0fe1bac950800000000000000
+      internalID: 6470179454916039826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ff99e1773f406a0800000000000000
+      internalID: -6483789870566604956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_47
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 143
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3632b8d1db90aa810800000000000000
+      internalID: 1777243710800208739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_48
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 143
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050186bba794ed1a0800000000000000
+      internalID: -6782903197294391216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1673ee4dfc6a3c980800000000000000
+      internalID: -8519782658494023839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_50
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 143
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d91cf42128a5c10800000000000000
+      internalID: 2043088396125052270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_51
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 143
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05db73700c259a3b0800000000000000
+      internalID: -5500774485148058288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_52
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 143
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a45ac75ede6e100800000000000000
+      internalID: 137058408575879798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_53
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 143
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3dac0d25e5ffc670800000000000000
+      internalID: 8561331781306723642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_54
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 95
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff414f6906476570800000000000000
+      internalID: 8459807431373967345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_55
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 143
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d5d09d449636d20800000000000000
+      internalID: 3270573498821336393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_56
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 144
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef90d465c7e91aa0800000000000000
+      internalID: -6189661377858068509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_57
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 144
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776c41decade681e0800000000000000
+      internalID: -2195806441328818569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_58
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 144
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a53a72c20e769a0800000000000000
+      internalID: -6239772278450333037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_59
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 95
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980c5862a696d8130800000000000000
+      internalID: 3570625984208421001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_60
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 95
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0533afacbb8bb17e0800000000000000
+      internalID: -1793636909873220784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_61
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 95
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c77b0e9206b3c50800000000000000
+      internalID: 6646011408095345711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_62
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 95
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d468c95bd21a37b0800000000000000
+      internalID: -5243858082806078253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_63
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 95
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e534106b84489e0800000000000000
+      internalID: -1620090019404095926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_64
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 95
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb2b8e75b4732170800000000000000
+      internalID: 8152488073331682225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_65
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 95
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef811b9686f294cc0800000000000000
+      internalID: -3726395091176056578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_66
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 47
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff666f70d505bfcd0800000000000000
+      internalID: -2523334805715261697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_67
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 95
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd82e6fff78296f0800000000000000
+      internalID: -679331060351070785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_68
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 96
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e0fcccb11d485b0800000000000000
+      internalID: -5366934938588344737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_69
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 96
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d1789d7eadbc9b0800000000000000
+      internalID: -5058709067098808963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_70
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 96
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbe8a062c6b888c0800000000000000
+      internalID: -3996743723329721421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_71
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 47
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26464dddb579c4350800000000000000
+      internalID: 6002338824197530722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_72
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 47
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f040d37d495d3f0800000000000000
+      internalID: -876630900291137761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_73
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 47
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7109de3190e41040800000000000000
+      internalID: 4617562432390889850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_74
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 47
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ea1711ba3ae60c0800000000000000
+      internalID: -4580543815861817777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_75
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 47
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5aa6077fda010a0800000000000000
+      internalID: -6912834149759146592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_76
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 47
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8353064cb089a4e10800000000000000
+      internalID: 2182724145721128248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_77
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 47
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea474dc06d48c2c30800000000000000
+      internalID: 4335986596124062894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_78
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 47
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cd581828972c170800000000000000
+      internalID: 8197247873193466979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_79
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 48
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faaa41896b35f7c0800000000000000
+      internalID: -4038256166541022479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_80
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 48
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c25ea97bae3b760800000000000000
+      internalID: 7472574281036409948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_81
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 48
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47371fd538d8f5a50800000000000000
+      internalID: 6512079181557363572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_82
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd0abf648fc02d00800000000000000
+      internalID: 945984089464901054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_83
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9293a4030bb27da80800000000000000
+      internalID: -8442230940758296279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_84
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91f8d7426ad9b500800000000000000
+      internalID: 412600956528161183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_85
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c22006038d471f60800000000000000
+      internalID: 8004952087811072710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_86
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c314d62650ba62800800000000000000
+      internalID: 587344841032941884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_87
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 38
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11da519d884e0a840800000000000000
+      internalID: 5233434043413277969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_88
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76b5bf901afd1310800000000000000
+      internalID: 1377532010351146622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_89
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2494327b31bdd3330800000000000000
+      internalID: 3692348147237079362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_90
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7758cb5b9b7758620800000000000000
+      internalID: 2775756384845464951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_91
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bab3801702198d0800000000000000
+      internalID: -2841454220052550827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_92
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd32ab684ea99c20800000000000000
+      internalID: 3213791435172232699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_93
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e095bed165d2e5810800000000000000
+      internalID: 1755890752613472526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_94
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118f192a4069bfe10800000000000000
+      internalID: 2232542986943723537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles Morales 01_95
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2f38ac3d1a5fec0800000000000000
+      internalID: -3533740401594469686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Miles Morales 01_0: -7497605580751479757
+      Miles Morales 01_1: -3641147671883086405
+      Miles Morales 01_10: -8366376029662044601
+      Miles Morales 01_11: 4974432129874602095
+      Miles Morales 01_12: -5047399296078801892
+      Miles Morales 01_13: 5249522483539697350
+      Miles Morales 01_14: 6307002528754806603
+      Miles Morales 01_15: 1431753117570377891
+      Miles Morales 01_16: 2378855444343243981
+      Miles Morales 01_17: -9122636106952581045
+      Miles Morales 01_18: -1570459865262580444
+      Miles Morales 01_19: 7286181455406466457
+      Miles Morales 01_2: 3964602752768031893
+      Miles Morales 01_20: -7971528422128520285
+      Miles Morales 01_21: 1621406537908157424
+      Miles Morales 01_22: 5522022535442650289
+      Miles Morales 01_23: -9197687907718750563
+      Miles Morales 01_24: 2105092931017227758
+      Miles Morales 01_25: 304256802472619275
+      Miles Morales 01_26: -1776664395957460450
+      Miles Morales 01_27: -9192461398971197229
+      Miles Morales 01_28: -8016539961535560680
+      Miles Morales 01_29: -4545959896940019631
+      Miles Morales 01_3: 4724841456506244343
+      Miles Morales 01_30: 7504640293870067956
+      Miles Morales 01_31: -2550675179287570395
+      Miles Morales 01_32: 2005100449021621288
+      Miles Morales 01_33: -855597172803462417
+      Miles Morales 01_34: 4506093159576781473
+      Miles Morales 01_35: 1205178767380178509
+      Miles Morales 01_36: -1446865959874468832
+      Miles Morales 01_37: -7273639297613766569
+      Miles Morales 01_38: -310206963802313529
+      Miles Morales 01_39: 2569636492418616508
+      Miles Morales 01_4: -4776411489486603665
+      Miles Morales 01_40: -1301176245048483997
+      Miles Morales 01_41: 4011253894799897319
+      Miles Morales 01_42: -3599976384308422656
+      Miles Morales 01_43: -1770378599894286879
+      Miles Morales 01_44: 8897143928787267673
+      Miles Morales 01_45: 6470179454916039826
+      Miles Morales 01_46: -6483789870566604956
+      Miles Morales 01_47: 1777243710800208739
+      Miles Morales 01_48: -6782903197294391216
+      Miles Morales 01_49: -8519782658494023839
+      Miles Morales 01_5: 1498845207643924246
+      Miles Morales 01_50: 2043088396125052270
+      Miles Morales 01_51: -5500774485148058288
+      Miles Morales 01_52: 137058408575879798
+      Miles Morales 01_53: 8561331781306723642
+      Miles Morales 01_54: 8459807431373967345
+      Miles Morales 01_55: 3270573498821336393
+      Miles Morales 01_56: -6189661377858068509
+      Miles Morales 01_57: -2195806441328818569
+      Miles Morales 01_58: -6239772278450333037
+      Miles Morales 01_59: 3570625984208421001
+      Miles Morales 01_6: -5622526898093347014
+      Miles Morales 01_60: -1793636909873220784
+      Miles Morales 01_61: 6646011408095345711
+      Miles Morales 01_62: -5243858082806078253
+      Miles Morales 01_63: -1620090019404095926
+      Miles Morales 01_64: 8152488073331682225
+      Miles Morales 01_65: -3726395091176056578
+      Miles Morales 01_66: -2523334805715261697
+      Miles Morales 01_67: -679331060351070785
+      Miles Morales 01_68: -5366934938588344737
+      Miles Morales 01_69: -5058709067098808963
+      Miles Morales 01_7: 6293640474170646886
+      Miles Morales 01_70: -3996743723329721421
+      Miles Morales 01_71: 6002338824197530722
+      Miles Morales 01_72: -876630900291137761
+      Miles Morales 01_73: 4617562432390889850
+      Miles Morales 01_74: -4580543815861817777
+      Miles Morales 01_75: -6912834149759146592
+      Miles Morales 01_76: 2182724145721128248
+      Miles Morales 01_77: 4335986596124062894
+      Miles Morales 01_78: 8197247873193466979
+      Miles Morales 01_79: -4038256166541022479
+      Miles Morales 01_8: -8703906878306835860
+      Miles Morales 01_80: 7472574281036409948
+      Miles Morales 01_81: 6512079181557363572
+      Miles Morales 01_82: 945984089464901054
+      Miles Morales 01_83: -8442230940758296279
+      Miles Morales 01_84: 412600956528161183
+      Miles Morales 01_85: 8004952087811072710
+      Miles Morales 01_86: 587344841032941884
+      Miles Morales 01_87: 5233434043413277969
+      Miles Morales 01_88: 1377532010351146622
+      Miles Morales 01_89: 3692348147237079362
+      Miles Morales 01_9: -3637942462412433494
+      Miles Morales 01_90: 2775756384845464951
+      Miles Morales 01_91: -2841454220052550827
+      Miles Morales 01_92: 3213791435172232699
+      Miles Morales 01_93: 1755890752613472526
+      Miles Morales 01_94: 2232542986943723537
+      Miles Morales 01_95: -3533740401594469686
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

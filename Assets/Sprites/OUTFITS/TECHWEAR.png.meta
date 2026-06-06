@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: 95d2214196a2c88408dbbd2bd7d3a09c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7355098332467998346
+    second: TECHWEAR_0
+  - first:
+      213: -7252651220581844096
+    second: TECHWEAR_1
+  - first:
+      213: 2918030268786294937
+    second: TECHWEAR_2
+  - first:
+      213: -6532551751326609090
+    second: TECHWEAR_3
+  - first:
+      213: 1484862940067562291
+    second: TECHWEAR_4
+  - first:
+      213: -7421410358775126271
+    second: TECHWEAR_5
+  - first:
+      213: -1944618430979192689
+    second: TECHWEAR_6
+  - first:
+      213: -71459551655438826
+    second: TECHWEAR_7
+  - first:
+      213: -5135534048720135798
+    second: TECHWEAR_8
+  - first:
+      213: 6009461255116137510
+    second: TECHWEAR_9
+  - first:
+      213: 3396615148906253685
+    second: TECHWEAR_10
+  - first:
+      213: -8258096222033295364
+    second: TECHWEAR_11
+  - first:
+      213: 6242741548884078371
+    second: TECHWEAR_12
+  - first:
+      213: -6269949835627383933
+    second: TECHWEAR_13
+  - first:
+      213: -1206146920879595002
+    second: TECHWEAR_14
+  - first:
+      213: 1081871231258635613
+    second: TECHWEAR_15
+  - first:
+      213: 7969730082226302909
+    second: TECHWEAR_16
+  - first:
+      213: 3051157332204186450
+    second: TECHWEAR_17
+  - first:
+      213: 5551417148740526580
+    second: TECHWEAR_18
+  - first:
+      213: -719733577194791831
+    second: TECHWEAR_19
+  - first:
+      213: 6235281805954843836
+    second: TECHWEAR_20
+  - first:
+      213: 704098892004263170
+    second: TECHWEAR_21
+  - first:
+      213: 7305588501959185242
+    second: TECHWEAR_22
+  - first:
+      213: -3070212393432949858
+    second: TECHWEAR_23
+  - first:
+      213: 4757799685238844654
+    second: TECHWEAR_24
+  - first:
+      213: -8889544593056636885
+    second: TECHWEAR_25
+  - first:
+      213: 2103365661119628212
+    second: TECHWEAR_26
+  - first:
+      213: 3260321137702541899
+    second: TECHWEAR_27
+  - first:
+      213: -7291180385932376724
+    second: TECHWEAR_28
+  - first:
+      213: 7936837475912996490
+    second: TECHWEAR_29
+  - first:
+      213: -5581389317115654832
+    second: TECHWEAR_30
+  - first:
+      213: 6674202339224761488
+    second: TECHWEAR_31
+  - first:
+      213: -5158024083939419158
+    second: TECHWEAR_32
+  - first:
+      213: -2903244543380990188
+    second: TECHWEAR_33
+  - first:
+      213: 9046212063465262944
+    second: TECHWEAR_34
+  - first:
+      213: -1644414553278213903
+    second: TECHWEAR_35
+  - first:
+      213: 75237954157308424
+    second: TECHWEAR_36
+  - first:
+      213: 1934831007793584478
+    second: TECHWEAR_37
+  - first:
+      213: 5044725235241609352
+    second: TECHWEAR_38
+  - first:
+      213: -811157334032802561
+    second: TECHWEAR_39
+  - first:
+      213: 4791976635463940108
+    second: TECHWEAR_40
+  - first:
+      213: -8027972080199082343
+    second: TECHWEAR_41
+  - first:
+      213: 2143095590890465452
+    second: TECHWEAR_42
+  - first:
+      213: 5945177069501025517
+    second: TECHWEAR_43
+  - first:
+      213: -2391626588421171432
+    second: TECHWEAR_44
+  - first:
+      213: -1755560028281298104
+    second: TECHWEAR_45
+  - first:
+      213: 246261521402467447
+    second: TECHWEAR_46
+  - first:
+      213: 2993207047327703884
+    second: TECHWEAR_47
+  - first:
+      213: 8965608102193662286
+    second: TECHWEAR_48
+  - first:
+      213: 6033926456539085139
+    second: TECHWEAR_49
+  - first:
+      213: 7174772310157295831
+    second: TECHWEAR_50
+  - first:
+      213: 3229243439582396057
+    second: TECHWEAR_51
+  - first:
+      213: 1258226284428490355
+    second: TECHWEAR_52
+  - first:
+      213: -8661693138805886736
+    second: TECHWEAR_53
+  - first:
+      213: 611508930293307609
+    second: TECHWEAR_54
+  - first:
+      213: 1999363449369161839
+    second: TECHWEAR_55
+  - first:
+      213: 2592730466261583614
+    second: TECHWEAR_56
+  - first:
+      213: -5604947326415483965
+    second: TECHWEAR_57
+  - first:
+      213: -8413925501988206209
+    second: TECHWEAR_58
+  - first:
+      213: -8647246353343218960
+    second: TECHWEAR_59
+  - first:
+      213: 8554938844419234785
+    second: TECHWEAR_60
+  - first:
+      213: -4987411796823852601
+    second: TECHWEAR_61
+  - first:
+      213: 217114775089955683
+    second: TECHWEAR_62
+  - first:
+      213: -974188447478017689
+    second: TECHWEAR_63
+  - first:
+      213: -5363069272462622739
+    second: TECHWEAR_64
+  - first:
+      213: 6443937663786003964
+    second: TECHWEAR_65
+  - first:
+      213: 2760738625439708453
+    second: TECHWEAR_66
+  - first:
+      213: -5493903617273395850
+    second: TECHWEAR_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TECHWEAR_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2185
+        width: 116
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ea2d2e6fe821660800000000000000
+      internalID: 7355098332467998346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2185
+        width: 111
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b7a6d1428695b90800000000000000
+      internalID: -7252651220581844096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2185
+        width: 112
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99048dea11dee7820800000000000000
+      internalID: 2918030268786294937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2185
+        width: 114
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3152590bc6b755a0800000000000000
+      internalID: -6532551751326609090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_4
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1944
+        width: 112
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3338ed21afa4b9410800000000000000
+      internalID: 1484862940067562291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1944
+        width: 99
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107edc8599ad10990800000000000000
+      internalID: -7421410358775126271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1952
+        width: 102
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88cecd07d35305e0800000000000000
+      internalID: -1944618430979192689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1950
+        width: 97
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616d4c79aef120ff0800000000000000
+      internalID: -71459551655438826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1946
+        width: 101
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89dc1eedfaeab8b0800000000000000
+      internalID: -5135534048720135798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_9
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1943
+        width: 93
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624abaa0c25e56350800000000000000
+      internalID: 6009461255116137510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1671
+        width: 113
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d844d5b73332f20800000000000000
+      internalID: 3396615148906253685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1672
+        width: 111
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7c5b44d39556d80800000000000000
+      internalID: -8258096222033295364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1672
+        width: 112
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32faecdfc5ca2a650800000000000000
+      internalID: 6242741548884078371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1672
+        width: 112
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38339e718d9acf8a0800000000000000
+      internalID: -6269949835627383933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_14
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1671
+        width: 112
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6026a0214c7e24fe0800000000000000
+      internalID: -1206146920879595002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_15
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1671
+        width: 113
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5da2ef1724930f00800000000000000
+      internalID: 1081871231258635613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1445
+        width: 112
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfe7dac84b2a9e60800000000000000
+      internalID: 7969730082226302909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1445
+        width: 108
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bebdb8d63e75a20800000000000000
+      internalID: 3051157332204186450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1449
+        width: 105
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1e0beeb789a0d40800000000000000
+      internalID: 5551417148740526580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1449
+        width: 105
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c1266ff1ef206f0800000000000000
+      internalID: -719733577194791831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_20
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1445
+        width: 111
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4056e34cb288650800000000000000
+      internalID: 6235281805954843836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_21
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1445
+        width: 112
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20509a8363675c900800000000000000
+      internalID: 704098892004263170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1207
+        width: 100
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53947e290aa26560800000000000000
+      internalID: 7305588501959185242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_23
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1207
+        width: 96
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b5d68481a6465d0800000000000000
+      internalID: -3070212393432949858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_24
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1206
+        width: 99
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec60271b99170240800000000000000
+      internalID: 4757799685238844654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_25
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1207
+        width: 100
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b206ddb9a4ef1a480800000000000000
+      internalID: -8889544593056636885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1196
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b34ac7bce7a03d10800000000000000
+      internalID: 2103365661119628212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_27
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1196
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a15720dccfe3d20800000000000000
+      internalID: 3260321137702541899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_28
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1196
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65843fb11680da90800000000000000
+      internalID: -7291180385932376724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_29
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1196
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a865dc712af452e60800000000000000
+      internalID: 7936837475912996490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 995
+        width: 101
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d4920dcfbea82b0800000000000000
+      internalID: -5581389317115654832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 995
+        width: 102
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094b2948aa78f9c50800000000000000
+      internalID: 6674202339224761488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_32
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 990
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb91ed8c640b68b0800000000000000
+      internalID: -5158024083939419158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 989
+        width: 103
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4175fa7487a95b7d0800000000000000
+      internalID: -2903244543380990188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_34
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 989
+        width: 100
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f43bd51f99a8d70800000000000000
+      internalID: 9046212063465262944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_35
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 801
+        width: 98
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f09e502daddd29e0800000000000000
+      internalID: -1644414553278213903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_36
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 797
+        width: 90
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a6c2b458c4b0100800000000000000
+      internalID: 75237954157308424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_37
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 798
+        width: 96
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5992f7ec86e9da10800000000000000
+      internalID: 1934831007793584478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_38
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 801
+        width: 98
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88866049fd6720640800000000000000
+      internalID: 5044725235241609352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_39
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 603
+        width: 99
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc9500d3b03eb4f0800000000000000
+      internalID: -811157334032802561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_40
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 604
+        width: 97
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08bcc86c55808240800000000000000
+      internalID: 4791976635463940108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_41
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 604
+        width: 96
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99edaf45de9e69090800000000000000
+      internalID: -8027972080199082343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_42
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 601
+        width: 96
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca86bb6d51ecdbd10800000000000000
+      internalID: 2143095590890465452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 411
+        width: 103
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec086abb03818250800000000000000
+      internalID: 5945177069501025517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_44
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 411
+        width: 102
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817d6c90a4c3fced0800000000000000
+      internalID: -2391626588421171432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_45
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 411
+        width: 103
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8432b64a47ff2a7e0800000000000000
+      internalID: -1755560028281298104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_46
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 411
+        width: 107
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7749a098c85ea6300800000000000000
+      internalID: 246261521402467447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_47
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 586
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43e92b63f10a8920800000000000000
+      internalID: 2993207047327703884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_48
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 411
+        width: 99
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e490e9e211d3c6c70800000000000000
+      internalID: 8965608102193662286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_49
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 412
+        width: 106
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359f7d2a420dcb350800000000000000
+      internalID: 6033926456539085139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 203
+        width: 107
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d00c3b0769e19360800000000000000
+      internalID: 7174772310157295831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_51
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 203
+        width: 106
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99eb19d8cc390dc20800000000000000
+      internalID: 3229243439582396057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_52
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 399
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3767b6aa32e167110800000000000000
+      internalID: 1258226284428490355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_53
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 400
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0790c5bfb7bc780800000000000000
+      internalID: -8661693138805886736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_54
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 399
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d89c17d1248c7800800000000000000
+      internalID: 611508930293307609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_55
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 398
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f607c80d67a2fbb10800000000000000
+      internalID: 1999363449369161839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_56
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 398
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6cad74f9a3bf320800000000000000
+      internalID: 2592730466261583614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_57
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 399
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbca385a1a3732b0800000000000000
+      internalID: -5604947326415483965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_58
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 203
+        width: 96
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f798467b55bbb3b80800000000000000
+      internalID: -8413925501988206209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_59
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 203
+        width: 108
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa7fa7b14fcef780800000000000000
+      internalID: -8647246353343218960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_60
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 203
+        width: 98
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb9cc09d8f39b670800000000000000
+      internalID: 8554938844419234785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_61
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 208
+        width: 107
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9b8bd256729cab0800000000000000
+      internalID: -4987411796823852601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 110
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363c9b4dcb8530300800000000000000
+      internalID: 217114775089955683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_63
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 100
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76198cbb4ccfa72f0800000000000000
+      internalID: -974188447478017689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_64
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 101
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def7d0559ec8295b0800000000000000
+      internalID: -5363069272462622739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_65
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 101
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfda9bce9277d6950800000000000000
+      internalID: 6443937663786003964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_66
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 94
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525b80f172d105620800000000000000
+      internalID: 2760738625439708453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TECHWEAR_67
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 0
+        width: 107
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6758f2e94cbb1c3b0800000000000000
+      internalID: -5493903617273395850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TECHWEAR_0: 7355098332467998346
+      TECHWEAR_1: -7252651220581844096
+      TECHWEAR_10: 3396615148906253685
+      TECHWEAR_11: -8258096222033295364
+      TECHWEAR_12: 6242741548884078371
+      TECHWEAR_13: -6269949835627383933
+      TECHWEAR_14: -1206146920879595002
+      TECHWEAR_15: 1081871231258635613
+      TECHWEAR_16: 7969730082226302909
+      TECHWEAR_17: 3051157332204186450
+      TECHWEAR_18: 5551417148740526580
+      TECHWEAR_19: -719733577194791831
+      TECHWEAR_2: 2918030268786294937
+      TECHWEAR_20: 6235281805954843836
+      TECHWEAR_21: 704098892004263170
+      TECHWEAR_22: 7305588501959185242
+      TECHWEAR_23: -3070212393432949858
+      TECHWEAR_24: 4757799685238844654
+      TECHWEAR_25: -8889544593056636885
+      TECHWEAR_26: 2103365661119628212
+      TECHWEAR_27: 3260321137702541899
+      TECHWEAR_28: -7291180385932376724
+      TECHWEAR_29: 7936837475912996490
+      TECHWEAR_3: -6532551751326609090
+      TECHWEAR_30: -5581389317115654832
+      TECHWEAR_31: 6674202339224761488
+      TECHWEAR_32: -5158024083939419158
+      TECHWEAR_33: -2903244543380990188
+      TECHWEAR_34: 9046212063465262944
+      TECHWEAR_35: -1644414553278213903
+      TECHWEAR_36: 75237954157308424
+      TECHWEAR_37: 1934831007793584478
+      TECHWEAR_38: 5044725235241609352
+      TECHWEAR_39: -811157334032802561
+      TECHWEAR_4: 1484862940067562291
+      TECHWEAR_40: 4791976635463940108
+      TECHWEAR_41: -8027972080199082343
+      TECHWEAR_42: 2143095590890465452
+      TECHWEAR_43: 5945177069501025517
+      TECHWEAR_44: -2391626588421171432
+      TECHWEAR_45: -1755560028281298104
+      TECHWEAR_46: 246261521402467447
+      TECHWEAR_47: 2993207047327703884
+      TECHWEAR_48: 8965608102193662286
+      TECHWEAR_49: 6033926456539085139
+      TECHWEAR_5: -7421410358775126271
+      TECHWEAR_50: 7174772310157295831
+      TECHWEAR_51: 3229243439582396057
+      TECHWEAR_52: 1258226284428490355
+      TECHWEAR_53: -8661693138805886736
+      TECHWEAR_54: 611508930293307609
+      TECHWEAR_55: 1999363449369161839
+      TECHWEAR_56: 2592730466261583614
+      TECHWEAR_57: -5604947326415483965
+      TECHWEAR_58: -8413925501988206209
+      TECHWEAR_59: -8647246353343218960
+      TECHWEAR_6: -1944618430979192689
+      TECHWEAR_60: 8554938844419234785
+      TECHWEAR_61: -4987411796823852601
+      TECHWEAR_62: 217114775089955683
+      TECHWEAR_63: -974188447478017689
+      TECHWEAR_64: -5363069272462622739
+      TECHWEAR_65: 6443937663786003964
+      TECHWEAR_66: 2760738625439708453
+      TECHWEAR_67: -5493903617273395850
+      TECHWEAR_7: -71459551655438826
+      TECHWEAR_8: -5135534048720135798
+      TECHWEAR_9: 6009461255116137510
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

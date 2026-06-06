@@ -1,0 +1,2457 @@
+fileFormatVersion: 2
+guid: 32057a4aee84d1540b0884306fedc853
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5112033535735773431
+    second: Spider-Man Character Set 01_0
+  - first:
+      213: 5416333607527618479
+    second: Spider-Man Character Set 01_1
+  - first:
+      213: -6092661095112281187
+    second: Spider-Man Character Set 01_2
+  - first:
+      213: 4402748784281443866
+    second: Spider-Man Character Set 01_3
+  - first:
+      213: -1249405163834341759
+    second: Spider-Man Character Set 01_4
+  - first:
+      213: 997968642770534328
+    second: Spider-Man Character Set 01_5
+  - first:
+      213: 2096319813887223363
+    second: Spider-Man Character Set 01_6
+  - first:
+      213: -3598678929614740181
+    second: Spider-Man Character Set 01_7
+  - first:
+      213: 6023174576409243313
+    second: Spider-Man Character Set 01_8
+  - first:
+      213: 4708708333615206190
+    second: Spider-Man Character Set 01_9
+  - first:
+      213: -5814773939879630346
+    second: Spider-Man Character Set 01_10
+  - first:
+      213: 6757622215450451807
+    second: Spider-Man Character Set 01_11
+  - first:
+      213: 4056320337705453298
+    second: Spider-Man Character Set 01_12
+  - first:
+      213: -3006554772406946251
+    second: Spider-Man Character Set 01_13
+  - first:
+      213: -3392153640160298636
+    second: Spider-Man Character Set 01_14
+  - first:
+      213: 3763824022651032436
+    second: Spider-Man Character Set 01_15
+  - first:
+      213: -6784728469134231118
+    second: Spider-Man Character Set 01_16
+  - first:
+      213: 2176642209579295556
+    second: Spider-Man Character Set 01_17
+  - first:
+      213: -7060479123690639631
+    second: Spider-Man Character Set 01_18
+  - first:
+      213: 2159548445732305007
+    second: Spider-Man Character Set 01_19
+  - first:
+      213: 7828274713809419070
+    second: Spider-Man Character Set 01_20
+  - first:
+      213: -3249063234635702468
+    second: Spider-Man Character Set 01_21
+  - first:
+      213: -1168667374664367909
+    second: Spider-Man Character Set 01_22
+  - first:
+      213: 9034577375671903482
+    second: Spider-Man Character Set 01_23
+  - first:
+      213: 7759122742224535315
+    second: Spider-Man Character Set 01_24
+  - first:
+      213: -993788501773064655
+    second: Spider-Man Character Set 01_25
+  - first:
+      213: 7111370193536592007
+    second: Spider-Man Character Set 01_26
+  - first:
+      213: -7916697843963867217
+    second: Spider-Man Character Set 01_27
+  - first:
+      213: -4110054675434046671
+    second: Spider-Man Character Set 01_28
+  - first:
+      213: -1503388179054448205
+    second: Spider-Man Character Set 01_29
+  - first:
+      213: 5593610661130235644
+    second: Spider-Man Character Set 01_30
+  - first:
+      213: -515661553724314455
+    second: Spider-Man Character Set 01_31
+  - first:
+      213: 3058437896461149760
+    second: Spider-Man Character Set 01_32
+  - first:
+      213: -88939446445719270
+    second: Spider-Man Character Set 01_33
+  - first:
+      213: 5524412387638959700
+    second: Spider-Man Character Set 01_34
+  - first:
+      213: 4593797483743115021
+    second: Spider-Man Character Set 01_35
+  - first:
+      213: 5467860999796808051
+    second: Spider-Man Character Set 01_36
+  - first:
+      213: -5399446180643928458
+    second: Spider-Man Character Set 01_37
+  - first:
+      213: 4481032103048643720
+    second: Spider-Man Character Set 01_38
+  - first:
+      213: 6247441326049011117
+    second: Spider-Man Character Set 01_39
+  - first:
+      213: 4804659658174746497
+    second: Spider-Man Character Set 01_40
+  - first:
+      213: -6562897924082929030
+    second: Spider-Man Character Set 01_41
+  - first:
+      213: 3018347381358175580
+    second: Spider-Man Character Set 01_42
+  - first:
+      213: 2353856955807960231
+    second: Spider-Man Character Set 01_43
+  - first:
+      213: -2301316637007434362
+    second: Spider-Man Character Set 01_44
+  - first:
+      213: 3455368282878405481
+    second: Spider-Man Character Set 01_45
+  - first:
+      213: -4921541484018478725
+    second: Spider-Man Character Set 01_46
+  - first:
+      213: 8311116435174705677
+    second: Spider-Man Character Set 01_47
+  - first:
+      213: 5333384952229148513
+    second: Spider-Man Character Set 01_48
+  - first:
+      213: 3046605040298646404
+    second: Spider-Man Character Set 01_49
+  - first:
+      213: -1683585189613943931
+    second: Spider-Man Character Set 01_50
+  - first:
+      213: 5106305823653429237
+    second: Spider-Man Character Set 01_51
+  - first:
+      213: 2402813823352704485
+    second: Spider-Man Character Set 01_52
+  - first:
+      213: -1780044344354531187
+    second: Spider-Man Character Set 01_53
+  - first:
+      213: -2772634510465070828
+    second: Spider-Man Character Set 01_54
+  - first:
+      213: 2460873770263512634
+    second: Spider-Man Character Set 01_55
+  - first:
+      213: -7685562675887947578
+    second: Spider-Man Character Set 01_56
+  - first:
+      213: -5805674290276572021
+    second: Spider-Man Character Set 01_57
+  - first:
+      213: 8341820919575239472
+    second: Spider-Man Character Set 01_58
+  - first:
+      213: -4918573573238967580
+    second: Spider-Man Character Set 01_59
+  - first:
+      213: -5851295173149723318
+    second: Spider-Man Character Set 01_60
+  - first:
+      213: -4558735337769356796
+    second: Spider-Man Character Set 01_61
+  - first:
+      213: -3030466166896831874
+    second: Spider-Man Character Set 01_62
+  - first:
+      213: 9188847593597457867
+    second: Spider-Man Character Set 01_63
+  - first:
+      213: -4131291705369987643
+    second: Spider-Man Character Set 01_64
+  - first:
+      213: 6665137693913051949
+    second: Spider-Man Character Set 01_65
+  - first:
+      213: -6503056619177133283
+    second: Spider-Man Character Set 01_66
+  - first:
+      213: 3534430159746246424
+    second: Spider-Man Character Set 01_67
+  - first:
+      213: -2512319464167405625
+    second: Spider-Man Character Set 01_68
+  - first:
+      213: -5286214925024843034
+    second: Spider-Man Character Set 01_69
+  - first:
+      213: 7278339057240828344
+    second: Spider-Man Character Set 01_70
+  - first:
+      213: -5295953378391974694
+    second: Spider-Man Character Set 01_71
+  - first:
+      213: 6718646138666852825
+    second: Spider-Man Character Set 01_72
+  - first:
+      213: 7096468212562599346
+    second: Spider-Man Character Set 01_73
+  - first:
+      213: -5112316809706085595
+    second: Spider-Man Character Set 01_74
+  - first:
+      213: -3860463172608103634
+    second: Spider-Man Character Set 01_75
+  - first:
+      213: 2270780275849641312
+    second: Spider-Man Character Set 01_76
+  - first:
+      213: -2542689350244954371
+    second: Spider-Man Character Set 01_77
+  - first:
+      213: -4582385456744597310
+    second: Spider-Man Character Set 01_78
+  - first:
+      213: 4854421395928770664
+    second: Spider-Man Character Set 01_79
+  - first:
+      213: 4686489668073463483
+    second: Spider-Man Character Set 01_80
+  - first:
+      213: 6213595979249599546
+    second: Spider-Man Character Set 01_81
+  - first:
+      213: 8013954519067750224
+    second: Spider-Man Character Set 01_82
+  - first:
+      213: 84825284330297282
+    second: Spider-Man Character Set 01_83
+  - first:
+      213: 8735234770189149285
+    second: Spider-Man Character Set 01_84
+  - first:
+      213: -8506575831103827871
+    second: Spider-Man Character Set 01_85
+  - first:
+      213: 9080843591844088441
+    second: Spider-Man Character Set 01_86
+  - first:
+      213: -8527368243637746220
+    second: Spider-Man Character Set 01_87
+  - first:
+      213: -4622219252529556483
+    second: Spider-Man Character Set 01_88
+  - first:
+      213: -6046965837129032509
+    second: Spider-Man Character Set 01_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 335
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f83a618a6791f640800000000000000
+      internalID: 5112033535735773431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 335
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa791b518beaa2b40800000000000000
+      internalID: 5416333607527618479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 335
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d937df8a305827ba0800000000000000
+      internalID: -6092661095112281187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 335
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ed06a41b4b91d30800000000000000
+      internalID: 4402748784281443866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 335
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1868d158f9839aee0800000000000000
+      internalID: -1249405163834341759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 335
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bff051713f79dd00800000000000000
+      internalID: 997968642770534328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 335
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3466c5293cf971d10800000000000000
+      internalID: 2096319813887223363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 335
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2561a3849cee0ec0800000000000000
+      internalID: -3598678929614740181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 335
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be69077d5d969350800000000000000
+      internalID: 6023174576409243313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 287
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f4e081841b85140800000000000000
+      internalID: 4708708333615206190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 287
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9a640e8e5cd4fa0800000000000000
+      internalID: -5814773939879630346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 287
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f563ef995e7cd50800000000000000
+      internalID: 6757622215450451807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 287
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f640281bd1fa4830800000000000000
+      internalID: 4056320337705453298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 287
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536bde82d529646d0800000000000000
+      internalID: -3006554772406946251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 287
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47972b69c36ace0d0800000000000000
+      internalID: -3392153640160298636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 287
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473523bc10acb3430800000000000000
+      internalID: 3763824022651032436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 287
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b936c3876dc7d1a0800000000000000
+      internalID: -6784728469134231118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_17
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 287
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4436819ae8cf43e10800000000000000
+      internalID: 2176642209579295556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 239
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1feab5025a3240e90800000000000000
+      internalID: -7060479123690639631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 239
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68fe1f9ed148fd10800000000000000
+      internalID: 2159548445732305007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 239
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b78c0506e93ac60800000000000000
+      internalID: 7828274713809419070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_21
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 239
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fd1cec33209e2d0800000000000000
+      internalID: -3249063234635702468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 239
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0ca80f63f08cfe0800000000000000
+      internalID: -1168667374664367909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_23
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 239
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af464b48144416d70800000000000000
+      internalID: 9034577375671903482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 239
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fb2f24601fdab60800000000000000
+      internalID: 7759122742224535315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_25
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 239
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136e2f97f9a5532f0800000000000000
+      internalID: -993788501773064655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 239
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788ac0c6389a0b260800000000000000
+      internalID: 7111370193536592007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_27
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 240
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafce60614d322290800000000000000
+      internalID: -7916697843963867217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_28
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 240
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bf1577c0726f6c0800000000000000
+      internalID: -4110054675434046671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_29
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 240
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b130fb9a64e22be0800000000000000
+      internalID: -1503388179054448205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 191
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe6184924f70ad40800000000000000
+      internalID: 5593610661130235644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 191
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acafe98c8008d8f0800000000000000
+      internalID: -515661553724314455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_32
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 191
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046e8220011c17a20800000000000000
+      internalID: 3058437896461149760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_33
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 191
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1145107b0604cef0800000000000000
+      internalID: -88939446445719270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 191
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45edcf50cc7aaac40800000000000000
+      internalID: 5524412387638959700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_35
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 191
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d077794f87270cf30800000000000000
+      internalID: 4593797483743115021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_36
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 191
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379d91efb9eb1eb40800000000000000
+      internalID: 5467860999796808051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_37
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 191
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67601e26e405115b0800000000000000
+      internalID: -5399446180643928458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_38
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 191
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8840659c4f2df2e30800000000000000
+      internalID: 4481032103048643720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_39
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 192
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da52f3229ce53b650800000000000000
+      internalID: 6247441326049011117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_40
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 192
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fc720c0849da240800000000000000
+      internalID: 4804659658174746497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_41
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 192
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7273e91c17ebe4a0800000000000000
+      internalID: -6562897924082929030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55a59293f253e920800000000000000
+      internalID: 3018347381358175580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_43
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 143
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac04071e649aa020800000000000000
+      internalID: 2353856955807960231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_44
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 143
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68da97726b41010e0800000000000000
+      internalID: -2301316637007434362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_45
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b6e1d552fe3ff20800000000000000
+      internalID: 3455368282878405481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 143
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71dab1881c23bbb0800000000000000
+      internalID: -4921541484018478725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_47
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 143
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0acf751d54075370800000000000000
+      internalID: 8311116435174705677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_48
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 143
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16738084b5df30a40800000000000000
+      internalID: 5333384952229148513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_49
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 143
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b5aed7427b74a20800000000000000
+      internalID: 3046605040298646404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_50
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 143
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583c3f7a034b2a8e0800000000000000
+      internalID: -1683585189613943931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_51
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 144
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fffe5d971e3dd640800000000000000
+      internalID: 5106305823653429237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_52
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 144
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed06521172885120800000000000000
+      internalID: 2402813823352704485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_53
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 144
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d881e4299130c47e0800000000000000
+      internalID: -1780044344354531187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4198dbf4a9f9589d0800000000000000
+      internalID: -2772634510465070828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_55
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 95
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3602a1e7a7c62220800000000000000
+      internalID: 2460873770263512634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 95
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0c2b45775675590800000000000000
+      internalID: -7685562675887947578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_57
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8462762ef91e6fa0800000000000000
+      internalID: -5805674290276572021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_58
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 95
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b5433fde914c370800000000000000
+      internalID: 8341820919575239472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_59
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 95
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2b7751567bdbbb0800000000000000
+      internalID: -4918573573238967580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_60
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 95
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45f370aa060ccea0800000000000000
+      internalID: -5851295173149723318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_61
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 95
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402bc3f0d5e1cb0c0800000000000000
+      internalID: -4558735337769356796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_62
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 95
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72564ac31f91f5d0800000000000000
+      internalID: -3030466166896831874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_63
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 96
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc55497a338558f70800000000000000
+      internalID: 9188847593597457867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_64
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 96
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c577ed1514baa6c0800000000000000
+      internalID: -4131291705369987643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_65
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 96
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23f0c05b635f7c50800000000000000
+      internalID: 6665137693913051949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 47
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bb1b3a57080c5a0800000000000000
+      internalID: -6503056619177133283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_67
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 47
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8172a1b0181dc0130800000000000000
+      internalID: 3534430159746246424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_68
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 47
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7800812c2722dd0800000000000000
+      internalID: -2512319464167405625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_69
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 47
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaa683888793a6b0800000000000000
+      internalID: -5286214925024843034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_70
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 47
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9e0bd6fcad10560800000000000000
+      internalID: 7278339057240828344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_71
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 47
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc9ae5267ef086b0800000000000000
+      internalID: -5295953378391974694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_72
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 47
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1a9c2f01d6d3d50800000000000000
+      internalID: 6718646138666852825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_73
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 47
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd15a99d38bb7260800000000000000
+      internalID: 7096468212562599346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_74
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 47
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523e532a2f66d09b0800000000000000
+      internalID: -5112316809706085595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_75
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 48
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b6738b231ec6ac0800000000000000
+      internalID: -3860463172608103634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_76
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 48
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d3bf831ae638f10800000000000000
+      internalID: 2270780275849641312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_77
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 48
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe0b78f18d86bcd0800000000000000
+      internalID: -2542689350244954371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c872d2a4b81860c0800000000000000
+      internalID: -4582385456744597310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_79
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868e36e2a8e5e5340800000000000000
+      internalID: 4854421395928770664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_80
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe9e05e581c90140800000000000000
+      internalID: 4686489668073463483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_81
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34c7f04f902b3650800000000000000
+      internalID: 6213595979249599546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f6b23ec29473f60800000000000000
+      internalID: 8013954519067750224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_83
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c79a7c852c5d2100800000000000000
+      internalID: 84825284330297282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_84
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564e3c20eb9c93970800000000000000
+      internalID: 8735234770189149285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_85
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1601224f95292f980800000000000000
+      internalID: -8506575831103827871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_86
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97acfb86223a50e70800000000000000
+      internalID: 9080843591844088441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_87
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5860923c3b8a980800000000000000
+      internalID: -8527368243637746220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_88
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3110354149adfb0800000000000000
+      internalID: -4622219252529556483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider-Man Character Set 01_89
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc500dfb9cd41ca0800000000000000
+      internalID: -6046965837129032509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spider-Man Character Set 01_0: 5112033535735773431
+      Spider-Man Character Set 01_1: 5416333607527618479
+      Spider-Man Character Set 01_10: -5814773939879630346
+      Spider-Man Character Set 01_11: 6757622215450451807
+      Spider-Man Character Set 01_12: 4056320337705453298
+      Spider-Man Character Set 01_13: -3006554772406946251
+      Spider-Man Character Set 01_14: -3392153640160298636
+      Spider-Man Character Set 01_15: 3763824022651032436
+      Spider-Man Character Set 01_16: -6784728469134231118
+      Spider-Man Character Set 01_17: 2176642209579295556
+      Spider-Man Character Set 01_18: -7060479123690639631
+      Spider-Man Character Set 01_19: 2159548445732305007
+      Spider-Man Character Set 01_2: -6092661095112281187
+      Spider-Man Character Set 01_20: 7828274713809419070
+      Spider-Man Character Set 01_21: -3249063234635702468
+      Spider-Man Character Set 01_22: -1168667374664367909
+      Spider-Man Character Set 01_23: 9034577375671903482
+      Spider-Man Character Set 01_24: 7759122742224535315
+      Spider-Man Character Set 01_25: -993788501773064655
+      Spider-Man Character Set 01_26: 7111370193536592007
+      Spider-Man Character Set 01_27: -7916697843963867217
+      Spider-Man Character Set 01_28: -4110054675434046671
+      Spider-Man Character Set 01_29: -1503388179054448205
+      Spider-Man Character Set 01_3: 4402748784281443866
+      Spider-Man Character Set 01_30: 5593610661130235644
+      Spider-Man Character Set 01_31: -515661553724314455
+      Spider-Man Character Set 01_32: 3058437896461149760
+      Spider-Man Character Set 01_33: -88939446445719270
+      Spider-Man Character Set 01_34: 5524412387638959700
+      Spider-Man Character Set 01_35: 4593797483743115021
+      Spider-Man Character Set 01_36: 5467860999796808051
+      Spider-Man Character Set 01_37: -5399446180643928458
+      Spider-Man Character Set 01_38: 4481032103048643720
+      Spider-Man Character Set 01_39: 6247441326049011117
+      Spider-Man Character Set 01_4: -1249405163834341759
+      Spider-Man Character Set 01_40: 4804659658174746497
+      Spider-Man Character Set 01_41: -6562897924082929030
+      Spider-Man Character Set 01_42: 3018347381358175580
+      Spider-Man Character Set 01_43: 2353856955807960231
+      Spider-Man Character Set 01_44: -2301316637007434362
+      Spider-Man Character Set 01_45: 3455368282878405481
+      Spider-Man Character Set 01_46: -4921541484018478725
+      Spider-Man Character Set 01_47: 8311116435174705677
+      Spider-Man Character Set 01_48: 5333384952229148513
+      Spider-Man Character Set 01_49: 3046605040298646404
+      Spider-Man Character Set 01_5: 997968642770534328
+      Spider-Man Character Set 01_50: -1683585189613943931
+      Spider-Man Character Set 01_51: 5106305823653429237
+      Spider-Man Character Set 01_52: 2402813823352704485
+      Spider-Man Character Set 01_53: -1780044344354531187
+      Spider-Man Character Set 01_54: -2772634510465070828
+      Spider-Man Character Set 01_55: 2460873770263512634
+      Spider-Man Character Set 01_56: -7685562675887947578
+      Spider-Man Character Set 01_57: -5805674290276572021
+      Spider-Man Character Set 01_58: 8341820919575239472
+      Spider-Man Character Set 01_59: -4918573573238967580
+      Spider-Man Character Set 01_6: 2096319813887223363
+      Spider-Man Character Set 01_60: -5851295173149723318
+      Spider-Man Character Set 01_61: -4558735337769356796
+      Spider-Man Character Set 01_62: -3030466166896831874
+      Spider-Man Character Set 01_63: 9188847593597457867
+      Spider-Man Character Set 01_64: -4131291705369987643
+      Spider-Man Character Set 01_65: 6665137693913051949
+      Spider-Man Character Set 01_66: -6503056619177133283
+      Spider-Man Character Set 01_67: 3534430159746246424
+      Spider-Man Character Set 01_68: -2512319464167405625
+      Spider-Man Character Set 01_69: -5286214925024843034
+      Spider-Man Character Set 01_7: -3598678929614740181
+      Spider-Man Character Set 01_70: 7278339057240828344
+      Spider-Man Character Set 01_71: -5295953378391974694
+      Spider-Man Character Set 01_72: 6718646138666852825
+      Spider-Man Character Set 01_73: 7096468212562599346
+      Spider-Man Character Set 01_74: -5112316809706085595
+      Spider-Man Character Set 01_75: -3860463172608103634
+      Spider-Man Character Set 01_76: 2270780275849641312
+      Spider-Man Character Set 01_77: -2542689350244954371
+      Spider-Man Character Set 01_78: -4582385456744597310
+      Spider-Man Character Set 01_79: 4854421395928770664
+      Spider-Man Character Set 01_8: 6023174576409243313
+      Spider-Man Character Set 01_80: 4686489668073463483
+      Spider-Man Character Set 01_81: 6213595979249599546
+      Spider-Man Character Set 01_82: 8013954519067750224
+      Spider-Man Character Set 01_83: 84825284330297282
+      Spider-Man Character Set 01_84: 8735234770189149285
+      Spider-Man Character Set 01_85: -8506575831103827871
+      Spider-Man Character Set 01_86: 9080843591844088441
+      Spider-Man Character Set 01_87: -8527368243637746220
+      Spider-Man Character Set 01_88: -4622219252529556483
+      Spider-Man Character Set 01_89: -6046965837129032509
+      Spider-Man Character Set 01_9: 4708708333615206190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
